@@ -47,6 +47,7 @@ function CardInput() {
       dictionary[pair.id] = pair;
     });
     setCardDictionary(dictionary);
+
     // You can do something else with the dictionary, like navigate to a study page
     // or send it to an API for further processing.
   };
@@ -78,7 +79,10 @@ function CardInput() {
         </div>
       ))}
       <button onClick={handleAddPair}>Add Card</button>
-      <button onClick={handleStudy}>Study</button>
+      <a onClick={handleStudy} href="/flashcard" className="a-button">
+      {/* <li><a href="/flashcard">Study</a></li> */}
+        Study
+        </a>
     </div>
   );
 }
