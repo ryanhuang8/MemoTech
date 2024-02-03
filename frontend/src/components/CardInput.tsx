@@ -1,5 +1,5 @@
 import React, { useState, ChangeEvent, useEffect } from 'react';
-import './CardInput.css';
+import '../styles/CardInput.css';
 
 interface CardPair {
   id: number;
