@@ -9,13 +9,13 @@ interface CardPair {
 
 function CardInput() {
   const [pairs, setPairs] = useState<CardPair[]>(() => {
-    // Retrieve stored pairs from local storage or initialize with a default pair
     const storedPairs = localStorage.getItem('cardPairs');
     return storedPairs ? JSON.parse(storedPairs) : [{ id: 1, question: '', answer: '' }];
   });
 
+  const [cardDictionary, setCardDictionary] = useState<Record<number, CardPair>>({});
+
   useEffect(() => {
-    // Save pairs to local storage whenever pairs change
     localStorage.setItem('cardPairs', JSON.stringify(pairs));
   }, [pairs]);
 
@@ -29,7 +29,6 @@ function CardInput() {
   const handleDeletePair = (id: number) => {
     setPairs((prevPairs) => {
       const updatedPairs = prevPairs.filter((pair) => pair.id !== id);
-      // Reassign new IDs to the remaining pairs
       return updatedPairs.map((pair, index) => ({ ...pair, id: index + 1 }));
     });
   };
@@ -40,6 +39,16 @@ function CardInput() {
         pair.id === id ? { ...pair, [field]: value } : pair
       )
     );
+  };
+
+  const handleStudy = () => {
+    const dictionary: Record<number, CardPair> = {};
+    pairs.forEach((pair) => {
+      dictionary[pair.id] = pair;
+    });
+    setCardDictionary(dictionary);
+    // You can do something else with the dictionary, like navigate to a study page
+    // or send it to an API for further processing.
   };
 
   return (
@@ -69,6 +78,7 @@ function CardInput() {
         </div>
       ))}
       <button onClick={handleAddPair}>Add Card</button>
+      <button onClick={handleStudy}>Study</button>
     </div>
   );
 }
