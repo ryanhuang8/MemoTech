@@ -21,8 +21,8 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
   };
 
   const handleBlur = (e: React.FocusEvent<HTMLDivElement>, field: string) => {
-    if (e.currentTarget.innerText === '') {
-      e.currentTarget.innerText = ``; // Restore placeholder text on blur if the div is empty
+    if (e.currentTarget.innerText === `Question ${pair.id}`) {
+      e.currentTarget.innerText = `Question ${pair.id}`; // Restore placeholder text on blur if the div is empty
     } else {
       onInputChange(pair.id, field, e.currentTarget.innerText);
     }
