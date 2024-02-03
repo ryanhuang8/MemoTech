@@ -1,11 +1,55 @@
 import React, { useState, ChangeEvent, useEffect } from 'react';
-import { useHistory } from 'react-router-dom';
+import './CardInput.css';
 
 interface CardPair {
   id: number;
   question: string;
   answer: string;
 }
+
+interface CardPairProps {
+  pair: CardPair;
+  onInputChange: (id: number, field: string, value: string) => void;
+  onDeletePair: (id: number) => void;
+}
+
+const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDeletePair }) => {
+  const handleFocus = (e: React.FocusEvent<HTMLDivElement>, field: string) => {
+    if (e.currentTarget.innerText === `Question ${pair.id}` || e.currentTarget.innerText === `Answer ${pair.id}`) {
+      e.currentTarget.innerText = ''; // Clear placeholder text on focus
+    }
+  };
+
+  const handleBlur = (e: React.FocusEvent<HTMLDivElement>, field: string) => {
+    if (e.currentTarget.innerText === '') {
+      e.currentTarget.innerText = ``; // Restore placeholder text on blur if the div is empty
+    } else {
+      onInputChange(pair.id, field, e.currentTarget.innerText);
+    }
+  };
+
+  return (
+    <div key={pair.id} style={{ display: 'flex', marginBottom: '10px' }}>
+      <div
+        contentEditable
+        onBlur={(e) => handleBlur(e, 'question')}
+        onFocus={(e) => handleFocus(e, 'question')}
+        style={{ width: '500px', minHeight: '100px', paddingRight: '20px', paddingLeft: '20px', textAlign: 'left', marginRight: '10px', wordWrap: 'break-word', border: '1px solid #ccc' }}
+      >
+        {pair.question || `Question ${pair.id}`}
+      </div>
+      <div
+        contentEditable
+        onBlur={(e) => handleBlur(e, 'answer')}
+        onFocus={(e) => handleFocus(e, 'answer')}
+        style={{ width: '500px', minHeight: '100px', paddingRight: '20px', paddingLeft: '20px', textAlign: 'left', marginRight: '10px', wordWrap: 'break-word', border: '1px solid #ccc' }}
+      >
+        {pair.answer || `Answer ${pair.id}`}
+      </div>
+      <button onClick={() => onDeletePair(pair.id)}>Delete Card</button>
+    </div>
+  );
+};
 
 function CardInput() {
   const [pairs, setPairs] = useState<CardPair[]>(() => {
@@ -56,33 +100,17 @@ function CardInput() {
     <div>
       <div>Input your card here:</div>
       {pairs.map((pair) => (
-        <div key={pair.id} style={{ display: 'flex', marginBottom: '10px' }}>
-          <input
-            type="text"
-            placeholder={`Question ${pair.id}`}
-            value={pair.question}
-            onChange={(e: ChangeEvent<HTMLInputElement>) =>
-              handleInputChange(pair.id, 'question', e.target.value)
-            }
-            style={{ width: '500px', height: '100px', marginRight: '10px' }}
-          />
-          <input
-            type="text"
-            placeholder={`Answer ${pair.id}`}
-            value={pair.answer}
-            onChange={(e: ChangeEvent<HTMLInputElement>) =>
-              handleInputChange(pair.id, 'answer', e.target.value)
-            }
-            style={{ width: '500px', height: '100px', marginRight: '10px' }}
-          />
-          <button onClick={() => handleDeletePair(pair.id)}>Delete Card</button>
-        </div>
+        <CardPairComponent
+          key={pair.id}
+          pair={pair}
+          onInputChange={handleInputChange}
+          onDeletePair={handleDeletePair}
+        />
       ))}
       <button onClick={handleAddPair}>Add Card</button>
       <a onClick={handleStudy} href="/flashcard" className="a-button">
-      {/* <li><a href="/flashcard">Study</a></li> */}
         Study
-        </a>
+      </a>
     </div>
   );
 }
