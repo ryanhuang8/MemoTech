@@ -125,7 +125,7 @@ function CardInput() {
         <br />
       </div>
       <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:
-      <a href="/flashcard" className="a-button">
+      <a href="/flashcard" className="a-button" style={{ marginLeft: '880px' }}>
         Study
       </a>
       </div>
