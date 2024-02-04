@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import '../styles/CardInput.css';
 import ImportFiles from "../pages/ImportFiles";
+import StudyButton from "./StudyButton";
 
 interface CardPair {
   id: number;
@@ -125,9 +126,10 @@ function CardInput() {
         <br />
       </div>
       <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:
-      <a href="/flashcard" className="a-button" style={{ marginLeft: '880px' }}>
+      {/* <a href="/flashcard" className="a-button" style={{ marginLeft: '880px' }}>
         Study
-      </a>
+      </a> */}
+      <StudyButton></StudyButton>
       </div>
       <div>
         <br />

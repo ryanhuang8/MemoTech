@@ -7,10 +7,10 @@ from bson import json_util
 
 # import openai
 
-# from flask_cors import CORS
+from flask_cors import CORS
 
 app = Flask(__name__)
-# CORS(app)
+CORS(app)
 # openai.api_key = "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"
 # os.environ["OPEN_API_KEY"] = "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"
 # os.environ["ATLAS_CONNECTION_STRING"] = "mongodb+srv://ryanyhuang:ctwj2kRNIVNOV1Wd@cluster0.yualorr.mongodb.net/?retryWrites=true&w=majority"
@@ -30,7 +30,7 @@ def home():
     json_data = json_util.dumps(data_from_mongo)
     return jsonify(message='Hello, MongoDB with Flask!', data_from_mongo=json_data)
 
-@app.route('/api/data', methods=['POST'])
+@app.route('/', methods=['POST'])
 def post_data():
     # Retrieve data from the request's JSON payload
     request_data = request.get_json()
@@ -41,6 +41,8 @@ def post_data():
 
     # Your logic to process or store the data goes here
     processed_data = {'message': 'Data received successfully', 'received_data': request_data}
+
+    result = collection.insert_many(request_data)
 
     return jsonify(processed_data)
 
@@ -63,4 +65,4 @@ def post_data():
 #     return response
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=5000)
