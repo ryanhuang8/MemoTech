@@ -17,13 +17,13 @@ interface CardPairProps {
 const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDeletePair }) => {
   const handleFocus = (e: React.FocusEvent<HTMLDivElement>) => {
     if (e.currentTarget.innerText === `Question ${pair.id}` || e.currentTarget.innerText === `Answer ${pair.id}`) {
-      e.currentTarget.innerText = ''; // Clear placeholder text on focus
+      e.currentTarget.innerText = '';
     }
   };
 
   const handleBlur = (e: React.FocusEvent<HTMLDivElement>, field: string) => {
     if (e.currentTarget.innerText === `Question ${pair.id}`) {
-      e.currentTarget.innerText = `Question ${pair.id}`; // Restore placeholder text on blur if the div is empty
+      e.currentTarget.innerText = `Question ${pair.id}`;
     } else {
       onInputChange(pair.id, field, e.currentTarget.innerText);
     }
@@ -34,16 +34,42 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
       <div
         contentEditable
         onBlur={(e) => handleBlur(e, 'question')}
+
         onFocus={(e) => handleFocus(e)}
-        style={{ width: '500px', minHeight: '100px', paddingRight: '20px', paddingLeft: '20px', textAlign: 'left', marginRight: '10px', wordWrap: 'break-word', border: '1px solid #ccc' }}
+        style={{
+          width: '500px',
+          minHeight: '20px',
+          padding: '15px',
+          borderRadius: '8px',
+          border: '1px solid #ccc',
+          boxShadow: '0 0 5px rgba(0, 0, 0, 0.1)',
+          outline: 'none',
+          fontFamily: 'Arial, sans-serif',
+          fontSize: '16px',
+          lineHeight: '1.4',
+          textAlign: 'left',
+        }}
       >
         {pair.question || `Question ${pair.id}`}
       </div>
       <div
         contentEditable
         onBlur={(e) => handleBlur(e, 'answer')}
+
         onFocus={(e) => handleFocus(e)}
-        style={{ width: '500px', minHeight: '100px', paddingRight: '20px', paddingLeft: '20px', textAlign: 'left', marginRight: '10px', wordWrap: 'break-word', border: '1px solid #ccc' }}
+        style={{
+          width: '500px',
+          minHeight: '20px',
+          padding: '15px',
+          borderRadius: '8px',
+          border: '1px solid #ccc',
+          boxShadow: '0 0 5px rgba(0, 0, 0, 0.1)',
+          outline: 'none',
+          fontFamily: 'Arial, sans-serif',
+          fontSize: '16px',
+          lineHeight: '1.4',
+          textAlign: 'left',
+        }}
       >
         {pair.answer || `Answer ${pair.id}`}
       </div>
@@ -91,21 +117,23 @@ function CardInput() {
     );
   };
 
-  const handleStudy = () => {
-    const dictionary: Record<number, CardPair> = {};
-    pairs.forEach((pair) => {
-      dictionary[pair.id] = pair;
-    });
-    setCardDictionary(dictionary);
-
-    // You can do something else with the dictionary, like navigate to a study page
-    // or send it to an API for further processing.
-  };
-
   return (
     <div>
       <ImportFiles></ImportFiles>
-      <div>Input your card here:</div>
+      <div>
+        <br />
+        <br />
+      </div>
+      <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:
+      <a href="/flashcard" className="a-button">
+        Study
+      </a>
+      </div>
+      <div>
+        <br />
+        <br />
+        <br />
+      </div>
       {pairs.map((pair) => (
         <CardPairComponent
           key={pair.id}
@@ -114,10 +142,7 @@ function CardInput() {
           onDeletePair={handleDeletePair}
         />
       ))}
-      <button onClick={handleAddPair}>Add Card</button>
-      <a onClick={handleStudy} href="/flashcard" className="a-button">
-        Study
-      </a>
+      <button onClick={handleAddPair}>+</button>
     </div>
   );
 }

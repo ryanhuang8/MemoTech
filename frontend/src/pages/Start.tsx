@@ -6,7 +6,6 @@ function Start() {
   return (
     <div>
       <Navbar />
-      <h1 className="memotech-title">Memotech</h1>
       <CardInput />
     </div>
   );
