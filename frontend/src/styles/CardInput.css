@@ -1,12 +1,12 @@
 .card-input-container {
   display: flex;
   flex-direction: column;
-  margin-bottom: 10px; /* Optional: Add some margin between card input containers */
+  margin-bottom: 10px;
 }
 
 .card-input {
-  width: 500px; /* Adjust the width as needed */
+  width: 500px;
   box-sizing: border-box;
-  margin-bottom: 10px; /* Optional: Add some margin between input fields */
+  margin-bottom: 10px;
   word-wrap: break-word;
 }
