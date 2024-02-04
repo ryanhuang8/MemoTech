@@ -35,7 +35,7 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
         contentEditable
         onBlur={(e) => handleBlur(e, 'question')}
 
-        onFocus={(e) => handleFocus(e, 'question')}
+        onFocus={(e) => handleFocus(e)}
         style={{
           width: '500px',
           minHeight: '20px',
@@ -56,7 +56,7 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
         contentEditable
         onBlur={(e) => handleBlur(e, 'answer')}
 
-        onFocus={(e) => handleFocus(e, 'answer')}
+        onFocus={(e) => handleFocus(e)}
         style={{
           width: '500px',
           minHeight: '20px',
@@ -117,20 +117,21 @@ function CardInput() {
     );
   };
 
-  const handleStudy = () => {
-    const dictionary: Record<number, CardPair> = {};
-    pairs.forEach((pair) => {
-      dictionary[pair.id] = pair;
-    });
-    setCardDictionary(dictionary);
-
-  };
-
   return (
     <div>
       <ImportFiles></ImportFiles>
-      <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:</div>
       <div>
+        <br />
+        <br />
+      </div>
+      <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:
+      <a href="/flashcard" className="a-button">
+        Study
+      </a>
+      </div>
+      <div>
+        <br />
+        <br />
         <br />
       </div>
       {pairs.map((pair) => (
@@ -141,10 +142,7 @@ function CardInput() {
           onDeletePair={handleDeletePair}
         />
       ))}
-      <button onClick={handleAddPair}>Add Card</button>
-      <a onClick={handleStudy} href="/flashcard" className="a-button">
-        Study
-      </a>
+      <button onClick={handleAddPair}>+</button>
     </div>
   );
 }
