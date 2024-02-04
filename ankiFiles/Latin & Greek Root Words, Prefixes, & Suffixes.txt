@@ -1,0 +1,193 @@
+#separator:tab
+#html:false
+a (an)	without, not
+ab	of, off, away from
+acro	extremity
+ad	to, toward
+adeno	gland or glandular
+adipo	fat
+aer, aero	related to air or oxygen
+ala, alaris	wing (pertaining to a wing)
+alba	white
+-algia	pain
+ambi	both
+ana	again
+angi	vessel
+ankon	elbow
+ankylo	bent
+annular	ring
+ante	before
+anti	against
+aqua	water
+arthro	joint
+articularis	jointed
+auris, auriculo	ear, little ear
+auto	self
+bi	two
+bio	live
+blast	germ, bud
+blepharo	eyelid
+brachi	arm
+brachys	short
+brady	slow
+brevis	short
+buccal	cheek
+bulla	blister
+bursa	wine skin
+capit	head
+cardio	pertaining to the heart
+cauda	tail
+cec	blind
+cephalic, cephalo	head
+cauda	tail
+cec	blind
+cephalic, cephalo	head
+cervix	neck
+chole	bile
+chondros	cartilage
+clast	to break
+cleido	collar bone
+coccyg	tail
+coele	hollow
+col, colo	colon
+con	with, together
+conch	shell
+contra	against, opposed
+coracoid	crow-like
+corn	horn
+cortico	bark, shell, rind
+corona	crown
+costal	rib
+coxa	hip
+cranium	head
+cruci, crux	cross
+crus	a leg-like part
+crypt	hidden
+cubit	elbow
+cutis	skin
+cyan	dark blue
+cyst, cysto	bladder
+-cyte	cell, hollow
+delta	triangular
+dent	tooth
+derma	skin
+di-	double, twice
+dia	through, across
+distans	distant
+dolicho	long
+dorsum	back
+ducere	to draw
+duo	two
+dura	hard
+dys	difficult, impaired
+ecto	outside
+-ectome	excision
+-eidos, -oid	form, like
+-emia	blood
+encephalo	brain
+endo	within
+entero	intestines
+epi	upon
+erythro	red
+ex	out
+extra	beyond, outward
+ferre	to carry
+flav	yellow
+foramen	hole
+fornix	arch or vault-like space
+fossa	trench or channel
+fovea	pit, depression
+gastro	stomach
+genesis	originating, forming
+genua	knee
+gloss	tongue
+gloutos	buttock
+gnatho	jaw
+graph	something written
+guttur	throat
+gyn, gyne, gyno	female
+haemo, hemo	blood
+hemi	half
+hepatos, hepar	liver
+hetero	different
+histo	tissue
+homeo	alike, unchanging, constant
+homo	same
+hyalo	glassy, clear
+hydro	water
+hyper	excessive
+hypo	under
+hystero	uterus
+infra	beneath
+inter	between
+intra	within
+ipsi	same
+iso	equal
+-itis	inflammation
+kerato	cornea or horn
+kneme	leg
+kondylos, condylos	knuckle
+korone, corone	crown
+lacrima	tear
+lact	milk
+lacun	pit, lake
+lamin	layer, plate
+leuco	white
+linea	line
+lingua	tongue
+lipo	fat
+lith, -lith	stone
+-logy	word, reason
+lysis	destroy, divided
+macro	large
+macula	spot
+malleus	hammer
+mamma	breast
+masto	breast
+mater	mother
+meatus	passage
+media	middle
+medulla	marrow
+mega, -megaly	large
+mentum	chin
+mesos	middle
+meta	change
+meter	measure
+metra, metro	utuerus
+micro	small
+mono	single
+morpho	form
+multi	many, much
+myelo-	marrow or spinal cord
+myo	muscle
+nasus	nose
+natal, -natal	birth
+necro	dead
+neo	new, strange
+nephro	kidney
+neuro	nerve
+nigra	black
+noct	night, darkness
+occiput	back part of head
+oculo	eye
+odont	tooth
+-oid	like
+-oma	tumor, neoplasm
+omos	shoulder
+ophthalmos	eye
+orchio	testis
+orgio	beginning
+orthos	straight
+os	mouth
+os	bone
+osteo	bone
+oto	ear
+ova	egg
+-oxia	oxygen
+palma	palm
+pan	all
+para	beside
+paresis, -paresis	incomplete paralysis
+parieto	wall
+path	disease
+pectoralis	breast, chest
