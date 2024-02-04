@@ -1,0 +1,243 @@
+#separator:tab
+#html:false
+Widal test detects the presence of antibodies against [pathogen]	Widal test detects the presence of antibodies against Salmonella typhi
+[...] is characterized by abdominal pain, constipation, cramps, and stools with excess mucous and blood clots.	Amoebiasis is characterized by abdominal pain, constipation, cramps, and stools with excess mucous and blood clots.
+The antigen binding region of the antibody is known as the [...].	The antigen binding region of the antibody is known as the Fab region.  Fab = fragment of antigen binding
+[...] cells mediate cell-mediated immunity (CMI).	T-lymphocytes cells mediate cell-mediated immunity (CMI).
+Which class of immunoglobin acts as a mediator in allergic response?	IgE (immunoglobin epsilon) antibodies
+Which autoimmune disease is caused by the attack of antibodies on the myelin sheath of nerve cells?	Multiple sclerosis (MA)
+The ability of the body to differentiate between self and non-self is mediated by [...].	The ability of the body to differentiate between self and non-self is mediated by T-lymphocytes.  This type of response is known as cell-mediated response (CMI).
+infectious stage of Plasmodium	sporozoites
+sexual stage of Plasmodium	gametocytes
+Wuchereria is transmitted from an infected person to a healthy person through [...].	Wuchereria is transmitted from an infected person to a healthy person through biting of female Culex mosquito vector.
+Parasites which live inside the body of host organisms are called [...]. The examples include [...] and liverfluke.	Parasites which live inside the body of host organisms are called endoparasites. The examples include tapeworm and liverfluke.
+factors affecting health	genetic disorders, infections, life style
+definition of health	state of complete physical, mental, and social well-being
+ways to ensure good health	balanced diet personal hygiene regular exercise awareness about diseases vaccination proper disposal of wastes control of vectors
+Diseases can be broadly grouped into [...] and [...] diseases.	Diseases can be broadly grouped into congenital and acquired diseases.
+types of acquired diseases	infectious diseases and non-infectious diseases
+definition of disease	condition when the functioning of one or more organ systems of the body is adversely affected, characterized by the appearence of various signs and symptoms
+definition of pathogen	organisms that enter the body through various means, multiply, interfere with normal vital activities, and cause morphological and functional damage to the human body
+Pathogens belong to [...], [...], [...], [...], and [...].	Pathogens belong to bacteria, viruses, fungi, protozoans, and helminths.
+Typhoid is caused by [pathogen].	Typhoid is caused by Salmonella typhi.
+Typhoid is transmitted through [...].	Typhoid is transmitted through contaminated food and water.
+Salmonella typhi infects the [part of body].	Salmonella typhi infects the small intestine.
+symptoms of typhoid	sustained high fever (39C-40C) weakness headache loss of appetite stomach pain constipation
+Severe cases of typhoid show [...] and may lead to [...].	Severe cases of typhoid show intestinal perforations and may lead to death.
+confirmatory test for typhoid	Widal test
+pathogens causing pneumonia	Streptococcus pneumoniae, Haemophilus influenzae
+Pneumonia is transmitted through [...], [...], and [...].	Pneumonia is transmitted through droplets, aerosols, and contaminated surfaces.
+site of infection of pneumonia	alveoli
+common symptoms of pneumonia	fever, chills, cough, headache
+Severe case of pneumonia is indicated by [...].	Severe case of pneumonia is indicated by bluish lips and finger nails.
+Pneumonia is a [acute/chronic] disease.	Pneumonia is a chronic disease.
+another name for common cold	rhinitis
+Common cold is caused by [...].	Common cold is caused by rhino viruses.
+Common cold is transmitted through [...] and [...].	Common cold is transmitted through droplets and contaminated surfaces.
+Common cold infects the [...] and [...].	Common cold infects the nose and respiratory passage.  not the lungs
+symptoms of common cold	headache nasal congestion and discharge sore throat, hoarseness, cough tiredness
+Common cold lasts for [...] days.	Common cold lasts for 3-7 days.  acute disease
+Dengue is caused by [...], an RNA virus.	Dengue is caused by Flavivirus, an RNA virus.  also known as dengue virus
+[...] and [...] are transmitted through Aedes aegyptii mosquitoes.	Dengue and Chikungunya are transmitted through Aedes aegyptii mosquitoes.
+Dengue and Chikungunya are transmitted through [vector].	Dengue and Chikungunya are transmitted through Aedes aegyptii mosquitoes.
+symptoms of dengue	fever headache muscle and joint pain characteristic rash, similar to measles
+Chikungunya is caused by [...], an RNA virus.	Chikungunya is caused by Alphavirus, an RNA virus.
+Chikungunya is transmitted through [vector].	Chikungunya is transmitted through Aedes aegyptii mosquitoes.  also dengue
+symptoms of Chikungunya	fever headache inflammation of eyes  nausea and vomiting  muscle and joint pain
+pathogens causing malaria	Plasmodium vivax (most common), Plasmodium falciparum (most lethal), Plasmodium malaria
+[...] causes malignant malaria.	Plasmodium falciparum causes malignant malaria.
+Malaria is transmitted through [vector].	Malaria is transmitted through female Anopheles mosquito.
+symptoms of malaria	chills and high fever recurring 3-4 days
+Plasmodium requires two hosts: [...] and [...].	Plasmodium requires two hosts: a healthy human being and a female Anopheles mosquito.  The female Anopheles mosquito is also the vector.
+Sporozoites initially multiply within the [...].	Sporozoites initially multiply within the liver cells.
+The rupture of RBCs releases a toxic substance called [...].	The rupture of RBCs releases a toxic substance called haemozoin.
+Fertilization and development of the gametocytes take places in the [...].	Fertilization and development of the gametocytes take places in the small intestine of the mosquito.
+Sporozoites escape from the intestine and migrate to the [...] of the mosquito.	Sporozoites escape from the intestine and migrate to the salivary glands of the mosquito.
+Sporozoites escape from the [...] and migrate to the salivary glands of the mosquito.	Sporozoites escape from the intestine and migrate to the salivary glands of the mosquito.
+pathogen causing Amoebiasis	Entamoeba histolyca
+transmission of Amoebiasis	houseflies transmit parasites from feces of infected person to food and water
+site of infection of Amoebiasis	large intestine
+common symptoms of Amoebiasis	abdominal pain and cramps constipation stools with excess mucous and blood clots
+[...] is caused by Ascaris lumbricoides	Ascariasis is caused by Ascaris lumbricoides   Ascaris lumbricoides is an intestinal parasite, also known as roundworm.
+Ascariasis is caused by [...]	Ascariasis is caused by Ascaris lumbricoides   Ascaris lumbricoides is an intestinal parasite, also known as roundworm.
+transmission of Ascariasis	through water and food contaminated by feces of the infected person, which contains eggs of the parasite
+common symptoms of Ascariasis	fever muscular pain internal bleeding anaemia blockage of intestinal passage
+pathogens causing Filariasis/elephantiasis	Wuchereria bancrofti, Wuchereria malayi
+[...] is transmitted through female Culex mosquito.	Filariasis/elephantiasis is transmitted through female Culex mosquito.
+Filariasis/elephantiasis is transmitted through [vector].	Filariasis/elephantiasis is transmitted through female Culex mosquito.
+site of infection of Filariasis/elephantiasis	lymph vessels (usually of lower lymbs)
+common symptoms of filariasis/elephantiasis	deformed limbs and genital organs
+Filariasis is a [acute/chronic] disease.	Filariasis is a chronic disease.
+pathogens causing ringworm/tinea	Microsporum, Trichophyton, Epidermophyton
+two ways of contracting tinea	from soil by sharing personal belongings
+common symptoms of ringworm	appearance of dry, scaly lesions intense itching
+types of tinea	tinea capitis (scalp) tinea unguium (nails  tinea corporis (body) tinea cruris (groin, jock itch) tinea pedis (foot, Athlete's foot)
+ways to keep personal hygiene	keeping the body clean consumption of clean water and food
+ways to keep public hygiene	proper disposal of wastes cleaning of water reservoirs hygiene practices in public catering
+prevention of air-borne diseases	avoid close contact with infected persons or their belongings
+prevention of vector-borne diseases	control/eliminate vectors and their breeding grounds
+ways to control/eliminate vector breeding grounds	avoid stagnation of water regular cleaning of household coolers larvivorous fishes (Gambusia, guppy) spraying of insecticides in ditches, drainage areas, swamps, etc. use of mosquito nets  providing doors and windows with wire mesh
+definition of immunity	ability of an organism to resist the attack of pathogens
+two types of immunity	innate immunity and acquired immunity
+four kinds of barriers which prevent entry of foreign agents into the body	physical (skin, mucus) physiological (gastric acid, saliva, tears) cellular (WBC - polymorpho nuclear leukocytes, monocytes, natural killer cells; macrophages) cytokine (interferons)
+function of interferons	protect non-infected cells from further infections
+[...] are proteins secreted by virus-infected cells.	Interferons are proteins secreted by virus-infected cells.   They protect non-infected cells from further infections.
+Interferons are proteins secreted by [...].	Interferons are proteins secreted by virus-infected cells.   They protect non-infected cells from further infections.
+[...] is characterized by memory.	Acquired/Adaptive immunity is characterized by memory.   primary response and secondary response
+Acquired/Adaptive immunity is characterized by [...].	Acquired/Adaptive immunity is characterized by memory.   primary response and secondary response
+Immune responses are carried out with the help of 2 special types of lymphocytes: [...] and [...].	Immune responses are carried out with the help of 2 special types of lymphocytes: B-lymphocytes and T-lymphocytes.
+types of acquired immunity	active immunity and passive immunity
+[...] generate humoral immunity / antibody-mediated immunity.	B-lymphocytes generate humoral immunity / antibody-mediated immunity.
+B-lymphocytes generate [...].	B-lymphocytes generate humoral immunity / antibody-mediated immunity.
+T-lymphocytes generate [...].	T-lymphocytes generate cellular immunity / cell-mediated immunity.
+[...] generate cellular immunity / cell-mediated immunity.	T-lymphocytes generate cellular immunity / cell-mediated immunity.
+Why is that the organs for transplantation cannot be taken from just anybody?	there is a possibility for rejection by the body  cell-mediated immunity, done by T-lymphocytes, differentiate between 'self' and 'non-self' organs; causing graft rejection
+What is that the doctors check in organ donors?	tissue matching blood group matching
+definition of antibodies	glycoproteins that fight pathogens
+Antibodies are produced by [...] with the help of [...].	Antibodies are produced by B-lymphocytes with the help of T-lymphocytes.
+Each antibody has [types of chains].	Each antibody has two small light chains and two longer heavy chains.
+five classes of antibodies	IgG (immunoglobin gamma) IgM (immunoglobin micron) IgA (immunoglobin alpha) IgD (immunoglobin delta) IgE (immunoglobin epsilon)
+examples of active immunity	natural: natural infection/disease artificial: vaccination
+examples of passive immunity	natural: IgA given to infant during lactation, IgG crossing the placenta artificial: injection of antiserum/antitoxin
+The yellowish fluid [...] secreted by the mother during initial days of lactation has abundant IgA antibodies to protect the infant.	The yellowish fluid colostrum secreted by the mother during initial days of lactation has abundant IgA antibodies to protect the infant.
+The yellowish fluid colostrum secreted by the mother during initial days of lactation has abundant [...] to protect the infant.	The yellowish fluid colostrum secreted by the mother during initial days of lactation has abundant IgA antibodies to protect the infant.
+definition of antiserum	serum containing antibodies against a particular antigen
+[...] is based on the property of memory of the immune system.	Vaccination is based on the property of memory of the immune system.
+Vaccination is based on the property of [...].	Vaccination is based on the property of memory of the immune system.
+examples of cases where passive immunization is used	tetanus, snake bite (infections with deadly microbes that require quick immune response)
+definition of allergy	exaggerated response of the immune system to certain antigens present in the environment
+definition of allergens	substances to which allergy is produced examples: pollen, mites, dust, animal dander
+[...] antibodies are produced during allergic reactions.	IgE antibodies are produced during allergic reactions.
+Allergies are due to the release of chemicals like histamine and serotonin from the [...].	Allergies are due to the release of chemicals like histamine and serotonin from the mast cells.
+Allergies are due to the release of chemicals like [...] from the mast cells.	Allergies are due to the release of chemicals like histamine and serotonin from the mast cells.
+symptoms of allergies	watery eyessneezing, running nose difficulty in breathing
+diagnosis of allergies	patient is exposed to possible allergens and the reactions are studied
+treatment of allergies	use of drugs like anti-histamine, adrenaline, steroids
+definition of immune system	system that confers immunity to the body by recognizing, responding, and remembering foreign antigens
+The immune system includes [...].	The immune system includes lymphoid organs, tissues, cells, and soluble molecules like antibodies.
+types of lymphoid organs	primary lymphoid organs and secondary lymphoid organs
+examples of primary lymphoid organs	bone marrow and thymus
+examples of secondary lymphoid organs	spleen, lymph nodes, tonsils, Peyer's patches of small intestine, appendix
+[...] is the main lymphoid organ where all blood cells including lymphocytes are produced.	Bone marrow is the main lymphoid organ where all blood cells including lymphocytes are produced.
+Thymus is a lobed organ located near the [...] and beneath the [...].	Thymus is a lobed organ located near the heart and beneath the breastbone.
+[...] is quite large during birth but gradually reduces in size.	Thymus is quite large during birth but gradually reduces in size.
+Spleen contains [...] and [...].	Spleen contains lymphocytes and phagocytes.
+[...] has a large reservoir of erythrocytes (RBCs).	Spleen has a large reservoir of erythrocytes (RBCs).
+Spleen has a large reservoir of [...].	Spleen has a large reservoir of erythrocytes (RBCs).
+Lymph nodes are small solid structures located in the [...].	Lymph nodes are small solid structures located in the lymphatic system.
+[...] are small solid structures located in the lymphatic system.	Lymph nodes are small solid structures located in the lymphatic system.
+Mucosa-Associated Lymphoid Tissue (MALT) is the lymphoid tissue located within the lining of the [...].	Mucosa-Associated Lymphoid Tissue (MALT) is the lymphoid tissue located within the lining of the major tracts (respiratory, digestive, and urogential tracts).
+[...] is the lymphoid tissue located within the lining of the major tracts (respiratory, digestive, and urogential tracts).	Mucosa-Associated Lymphoid Tissue (MALT) is the lymphoid tissue located within the lining of the major tracts (respiratory, digestive, and urogential tracts).
+[...] constitutes about 50% of the lymphoid tissue in the human body.	Mucosa-Associated Lymphoid Tissue (MALT) constitutes about 50% of the lymphoid tissue in the human body.
+[...] is caused by Alphavirus, an RNA virus.	Chikungunya is caused by Alphavirus, an RNA virus.
+Rejection of transplanted organs is avoided by taking [...].	Rejection of transplanted organs is avoided by taking immuno-suppressants.
+classification of diseases based on type of pathogens	Bacterial diseases: typhoid, pneumonia Viral diseases: common cold, dengue, chikungunya Protozoan diseases: malaria, amoebiasis Helminth diseases: ascariasis, filariasis Fungal diseases: ringworm
+two types of acquired immune response	humoral/antibody mediated immune response cell mediated immune response
+primary and secondary immune response	primary: low-intensity response produced by the body when it encounters the pathogen for the first time secondary: high-intensity response produced by the body during subsequent encounters with the pathogen
+another name for secondary immune response	anamnestic response
+What is auto immunity?	an auto-immune disease is caused when the body attacks self-cells, resulting in damage to the body
+Auto immune diseases are caused due to [...].	Auto immune diseases are caused due to due to genetic and other unknown reasons.  memory based acquired immunity evolved based on the ability to differentiate foreign organisms from self-cells
+examples of auto immune diseases	rheumatoid arthritis (RA),  multiple sclerosis (MS),  inflammatory bowel disease (IBD),  psoriasis,  Type 1 diabetes mellitus,  Myasthenia gravis,  Addison's disease
+What is AIDS?	AIDS is a deficiency of the immune system acquired during the lifetime of an individual.
+full form of AIDS	Acquired Immuno-deficiency Syndrome
+[...] is a group of symptoms/diseases.	Syndrome is a group of symptoms/diseases.
+Syndrome is a [...].	Syndrome is a group of symptoms/diseases.
+AIDS was first reported in 1981 in the United States and it has killed over [...] all over the world in the last [...].	AIDS was first reported in 1981 in the United States and it has killed over 25 million people all over the world in the last 25 years.
+[...] was first reported in 1981 in the United States and it has killed over 25 million people all over the world in the last 25 years.	AIDS was first reported in 1981 in the United States and it has killed over 25 million people all over the world in the last 25 years.
+AIDS was first reported in [...] in the United States and it has killed over 25 million people all over the world in the last 25 years.	AIDS was first reported in 1981 in the United States and it has killed over 25 million people all over the world in the last 25 years.
+AIDS was first reported in 1981 in the [...] and it has killed over 25 million people all over the world in the last 25 years.	AIDS was first reported in 1981 in the United States and it has killed over 25 million people all over the world in the last 25 years.
+average survival time of AIDS patient without treatment	9-11 years
+[...] is caused by the Human Immuno-deficiency Virus (HIV) which is a member of a group of viruses called retrovirus.	AIDS is caused by the Human Immuno-deficiency Virus (HIV) which is a member of a group of viruses called retrovirus.
+AIDS is caused by the [...] which is a member of a group of viruses called [...].	AIDS is caused by the Human Immuno-deficiency Virus (HIV) which is a member of a group of viruses called retrovirus.
+full form of HIV	human immuno-deficiency virus
+Retroviruses contain an [...] enclosed by a [...]	Retroviruses contain an RNA genome enclosed by a viral envelope
+HIV enters the body into [...].	HIV enters the body into macrophages.
+RNA genome of HIV replicates to form viral DNA with the help of [...].	RNA genome of HIV replicates to form viral DNA with the help of reverse transcriptase enzyme.
+HIV infection leads to decrease in the number of healthy [...] in the body.	HIV infection leads to decrease in the number of healthy helper T-lymphocytes in the body.
+mechanism of HIV	HIV enters macrophages   RNA forms DNA with the help of RT enzyme   viral DNA gets incorporated into host DNA   macrophages continue to produce virus   HIV enters T-cells and produces progeny viruses   progeny attacks other T-cells   T-cells reduce   immunity weakens
+transmission of HIV/AIDS	sexual contact with infected person by transfusion of contaminated blood and blood products by sharing infected needles as in the case of intravenous drug abusers from infected mother to her child through placenta
+high-risk groups of HIV/AIDS	individuals with multiple sexual partners individuals who require repeated blood transfusions drug addicts who take drugs intravenously children born to an HIV infected mother
+diagnosis of HIV/AIDS	enzyme linked immuno-sorbent assay (ELISA)
+treatment of HIV/AIDS	anti-viral drugs (partially effective, can only prolong the life of the patient)
+incubation period of HIV/AIDS	5-10 years
+symptoms of HIV/AIDS	fever diarrhea weightloss
+effects of HIV/AIDS	deficiency of immunity against diseases that could have been otherwise overcome such as those due to bacteria (e.g. Mycobacterium), viruses, fungi, parasites like Toxoplasma
+prevention of HIV/AIDS	educate people about AIDS (in India, National AIDS Control Organization / NACO) making blood banks safe from HIV use of disposable needles and syringescontrolling drug abuse advocating safe sexfree distribution of condoms promoting regular checkups for HIV in susceptible populations reducing the social stigma surrounding HIV/AIDS
+full form of NACO	National AIDS Control Organization
+What is cancer?	Cancer is the abnormal and uncontrollable multiplication of cells resulting in the formation of tumor (masses of cells)
+definition of tumor	abnormal mass of tissue due to excessive cell growth and division
+Tumors are of two types: [...] and [...]	Tumors are of two types: benign and malignant
+definition of malignant tumor	mass of proliferating cells (called neoplastic or tumor cells) that grow rapidly, invading and damaging the surrounding normal tissues
+What is metastasis?	property of malignant tumors by which the cancer cells break away from where they were first formed (primary cancer), travel through blood or lymph to distant sites, and form a new tumor (metastatic cancer) there
+What are carcinogens?	Carcinogens are physical, chemical or biological agents that induce the transformation of normal cells into cancerous neoplastic cells.   (neoplasm: tumor)
+examples of physical carcinogens	ionizing radiations like X-rays and gamma rays non-ionizing radiations like UV cause DNA damage leading to neoplastic transformation
+examples of chemical carcinogens	tobacco smoke (major cause of lung cancer) vinyl chloridecaffeinenicotinemustard gas
+examples of biological carcinogens	oncogenic viruses  cellular oncogenes (c-onc) or proto oncogenes
+definition of oncogenic viruses	cancer-causing viruses having viral oncogenes
+What are cellular oncogenes (c-onc)?	genes identified in normal cells which when activated under certain conditions could lead to oncogenic transformation
+methods of cancer detection and diagnosis	biopsy/histopathological studies imaging techniques: radiography (X-rays), CT, MRI use of antibodies molecular biology techniques
+How are histopathological studies done during biopsy?	thin piece of the suspected tissue is stained and examined under microscope by a pathologist
+full form and use of CT	CT (computed tomography): uses X-rays to generate a 3D image of the internals of an object
+full form and use of MRI	MRI (magnetic resonance imaging): uses strong magnetic fields and non-ionizing radiations to accurately detect pathological and physiological changes in the living tissue
+forms of cancer treatment	radiotherapy chemotherapy immunotherapy cryotherapy surgery
+What is radiotherapy?	tumor cells are irradiated lethally, without damaging surrounding normal tissues
+What is chemotherapy?	use of chemotherapeutic drugs; many drugs have side effects like hair loss, anemia, etc.
+What is immunotherapy?	patients are given biological response modifiers (e.g. alpha-interferon, which activates their immune system and helps in destroying the tumor)
+What is cryotherapy?	cryosurgery/cryoablation kills cancer cells by pumping gas into the cancerous tumor through a needle (cryoprobe) to freeze the tissue; the tissue is then allowed to thaw
+Most cancers are treated by a combination of [...], [...], and [...].	Most cancers are treated by a combination of surgery, radiotherapy, and chemotherapy.
+Drugs are mostly obtained from [...], or sometimes from [...].	Drugs are mostly obtained from flowering plants, or sometimes from fungi.
+commonly abused drugs	opioids cannabinoids coca alkaloids
+Opioids bind to [...] in [...].	Opioids bind to specific opioid receptors in CNS and gastrointestinal tract.
+No cloze ⁨2⁩ found on card. Please either add a cloze deletion, or use the Empty Cards tool. More information	No cloze ⁨2⁩ found on card. Please either add a cloze deletion, or use the Empty Cards tool. More information
+Opioids/Morphine is extracted from the [...].	Opioids/Morphine is extracted from the latex of poppy plant, Papaver somniferum.
+[...] is a very effective sedative and painkiller, useful for surgery.	Morphine is a very effective sedative and painkiller, useful for surgery.   Morphine is a type of opioid
+chemical name of heroin	diacetylmorphine
+common name of heroin	smack
+Low quality heroin is [...] in colour and known as [...].	Low quality heroin is brown in colour and known as brown sugar.
+[...] is brown in colour and known as brown sugar.	Low quality heroin is brown in colour and known as brown sugar.
+[...] is generally taken as a pill whereas [...] is generally taken by snorting and injection.	Morphine is generally taken as a pill whereas heroin is generally taken by snorting and injection.
+Morphine is generally taken as a [...] whereas heroin is generally taken by [...].	Morphine is generally taken as a pill whereas heroin is generally taken by snorting and injection.
+Heroin is obtained by [...].	Heroin is obtained by acetylation of morphine.
+two major types of opioids	morphine heroin
+Cannabinoids interact with [...] in the [...].	Cannabinoids interact with cannabinoid receptors in the brain.
+Cannabinoids are obtained from the [...] of [...].	Cannabinoids are obtained from the inflorescence of Cannabis sativa (hemp plant).
+[...] of cannabis plant are used to produce marijuana, hashish, charas, and ganja.	Flower tops, leaves, and resin of cannabis plant are used to produce marijuana, hashish, charas, and ganja.
+Flower tops, leaves, and resin of cannabis plant are used to produce [...].	Flower tops, leaves, and resin of cannabis plant are used to produce marijuana, hashish, charas, and ganja.
+Cannabinoids affect the [...] system.	Cannabinoids affect the cardiovascular system.
+Coca alkaloids are obtained from [...] which is native to [...].	Coca alkaloids are obtained from Erythroxylum coca (coca plant) which is native to South America.
+Coca alkaloids interfere with the transport of [...].	Coca alkaloids interfere with the transport of the neurotransmitter dopamine.
+[...] interfere with the transport of the neurotransmitter dopamine.	Coca alkaloids interfere with the transport of the neurotransmitter dopamine.
+Coca alkaloids stimulate [...] to produce [...].	Coca alkaloids stimulate CNS to produce euphoria and increased energy.
+[...] stimulate CNS to produce euphoria and increased energy.	Coca alkaloids stimulate CNS to produce euphoria and increased energy.
+medical drugs for mental illnesses like depression and insomnia	barbiturates (depressant, muscle relaxant, sedative, hypnotic; used to treat anxiety, insomnia) benzodiazepines (tranquilizers; muscle relaxant, sedative, hypnotic, used to treat anxiety, insomnia, spasms) amphetamines (speeds up brain and body functions; used to treat ADHD, narcolepsy, obesity)
+examples of plants with hallucinogenic properties	Atropa belladona Datura
+Tobacco is [...], [...], or used as a [...].	Tobacco is smoked, chewed, or used as a snuff.  snuff: inhaled
+Nicotine (present in tobacco) stimulates the [...] to release [...], which increases blood pressure and heart rate.	Nicotine (present in tobacco) stimulates the adrenal gland to release adrenaline and noradrenaline, which increases blood pressure and heart rate.
+[...] stimulates the adrenal gland to release adrenaline and noradrenaline, which increases blood pressure and heart rate.	Nicotine (present in tobacco) stimulates the adrenal gland to release adrenaline and noradrenaline, which increases blood pressure and heart rate.
+Nicotine (present in tobacco) stimulates the adrenal gland to release adrenaline and noradrenaline, which increases [...].	Nicotine (present in tobacco) stimulates the adrenal gland to release adrenaline and noradrenaline, which increases blood pressure and heart rate.
+diseases caused by smoking	throat cancerlung cancer bladder cancer bronchitis emphysema coronary heart disease gastric ulcer
+Smoking increases [...] content in blood and reduces the concentration of [...], causing [...].	Smoking increases carbon monoxide content in blood and reduces the concentration of heme-bound oyxgen, causing oxygen deficiency.
+Chewing tobacco is associated with [...].	Chewing tobacco is associated with cancer in the oral cavity.
+What is drug abuse?	When drugs are taken for a purpose other than medicinal use or in amounts/frequency that impairs one's physical, physiological, or psychological functions, it constitutes drug abuse.
+What is adolescence?	a 'period' and a 'process' during which a child becomes mature in terms of their attitudes and beliefs for effective participation in society   bridge linking childhood and adulthood    from 12 to 18 years of age
+Adolescence lasts from [...] to [...] years of age.	Adolescence lasts from 12 to 18 years of age.
+causes of drug/alcohol use in youngsters	peer pressurecuriosity need for adventure and excitement experimentationperception that it is 'cool' or progressive, glorification in tv, movies, newspapers, internet, etc. (mass media) academic stress unstable or unsupportive family structures
+What is addiction?	Addiction is a psychological attachment to certain effects - such as euphoria and a temporary feeling of well-being - associated with drugs and alcohol.
+biological reason for addiction	increased use of drugs increases the tolerance level of receptors, therefore the receptors respond to only higher doses, leading to greater intake and addiction
+What is dependence?	Dependence is the tendency of the body to manifest a characteristic and unpleasant withdrawal syndrome if regular dose of drugs/alcohol is abruptly discontinued.
+symptoms of withdrawal syndrome	anxiety shakiness nausea sweating
+common warning signs of drug/alcohol abuse in youth	drop in academic performance unexplained absence from school lack of interest in personal hygienechange in sleeping and eating habitsfluctations in weight withdrawal, isolation, depression, fatigue aggressive and rebellious behavior deteriorating relationships with family and friends loss of interest in hobbies
+Excessive drug use causes [...] and death due to [...].	Excessive drug use causes coma and death due to respiratory failure, heart failure, or cerebral hemorrhage.  cerebral hemorrhage: bleeding in the brain
+Combination of drugs or drugs with alcohol causes [...].	Combination of drugs or drugs with alcohol causes overdose (or even death).
+Taking drugs intravenously causes [...]	Taking drugs intravenously causes increased likelihood of acquiring AIDS, Hepatitis B, etc.
+Alcohol during adolescence causes [...].	Alcohol during adolescence causes heavy drinking in adulthood.
+Chronic use of drugs and alcohol damages the [...].	Chronic use of drugs and alcohol damages the nervous system and liver (cirrhosis).  cirrhosis: liver damage
+Drugs/alcohol use during pregnancy causes [...].	Drugs/alcohol use during pregnancy causes adverse effects to the fetus.
+What is intravenous drug use?	direct injection of drugs into the vein using a needle and syringe
+examples of PEDs	narcotic analgesics (opioids), anabolic-androgenic steroids, diuretics, hormones   anabolic: building muscle androgenic: increased male sex characteristics diuretics: increased urine production
+Why are PEDs used by sportsmen?	to increase muscle strength and bulk to promote aggressiveness to increase athletic performance
+side effects of PEDs in females	increased aggressiveness, mood swings, depression, abnormal menstrual cycles, enlargement of clitoris, masculinization, excessive hair growth on face and body, deepening of voice
+side effects of PEDs in males	acne, increased aggressiveness, mood swings, depression, reduction of testicle size, decreased sperm production, enlargement of prostate gland, breast enlargement, kidney and liver dysfunction, premature baldness
+side effects of PEDs in adolescents	severe facial and body acne, premature closure of growth centers of long bones (causing stunted growth)
+prevention and control of drugs	avoid undue peer pressure education and counselling seeking help from parents and peers looking for and identifying danger signs seeking professional and medical intervention (psychologists, psychiatrists, rehab)
+[...] is dubbed as the HIV factory.	Macrophage is dubbed as the HIV factory.

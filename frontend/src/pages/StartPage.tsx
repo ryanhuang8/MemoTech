@@ -4,6 +4,7 @@ function StartPage() {
   return (
     <div>
         <Navbar />
+
         <div id="stars1"></div>
         <div id="stars2"></div>
         
@@ -22,8 +23,9 @@ function StartPage() {
         </div>
 
         <h1>Memorize FlashCards with Feedback</h1>
-        {/* <div id="stars3"></div> */}
-        {/* <li><a href="/import">Create Your Flashcards</a></li> */}
+
+        <a href="/import">Create Your Flashcards</a>
+
     </div>
     
   )
