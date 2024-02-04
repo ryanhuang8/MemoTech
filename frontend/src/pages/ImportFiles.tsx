@@ -1,5 +1,3 @@
-import React from "react";
-import Navbar from "../components/Navbar";
 import "../styles/ImportFiles.css"; // Import a separate CSS file for styling
 
 function ImportFiles() {
@@ -17,19 +15,24 @@ function ImportFiles() {
           const parsedData = JSON.parse(fileContent);
 
           // Create a dictionary based on the parsed data
-          const cardDictionary = {};
-          parsedData.forEach((pair) => {
-            cardDictionary[pair.id] = pair;
-          });
+          const cardDictionary = [];
+          let index = 0;
+          for (const key in parsedData[0]) {
+            cardDictionary[index++] = {"id": index, "question": key, "answer": parsedData[0][key]};
+          }
 
+          console.log(parsedData[0])
           // Use the cardDictionary as needed
-          console.log("Card Dictionary:", cardDictionary);
+          localStorage.setItem('cardPairs', JSON.stringify(cardDictionary));
+          console.log(localStorage);
+          console.log("Card Dictionary:", JSON.stringify(cardDictionary));
         } catch (error) {
           console.error("Error parsing file:", error);
         }
       };
 
       reader.readAsText(selectedFile);
+      window.location.reload();
     } else {
       alert("Please select a valid text file (.txt)");
       // You can also clear the file input if needed
@@ -39,8 +42,6 @@ function ImportFiles() {
 
   return (
     <div>
-      <Navbar />
-      <h1 className="memotech-title">Memotech</h1>
       {/* File input button */}
       <input
         type="file"

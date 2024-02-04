@@ -1,5 +1,6 @@
 import React, { useState, ChangeEvent, useEffect } from 'react';
 import '../styles/CardInput.css';
+import ImportFiles from "../pages/ImportFiles";
 
 interface CardPair {
   id: number;
@@ -57,6 +58,8 @@ function CardInput() {
     return storedPairs ? JSON.parse(storedPairs) : [{ id: 1, question: '', answer: '' }];
   });
 
+  const [pairIdCounter, setPairIdCounter] = useState<number>(pairs.length + 1);
+
   const [cardDictionary, setCardDictionary] = useState<Record<number, CardPair>>({});
 
   useEffect(() => {
@@ -66,8 +69,9 @@ function CardInput() {
   const handleAddPair = () => {
     setPairs((prevPairs) => [
       ...prevPairs,
-      { id: prevPairs.length + 1, question: '', answer: '' },
+      { id: pairIdCounter, question: '', answer: '' },
     ]);
+    setPairIdCounter((prevCounter) => prevCounter + 1);
   };
 
   const handleDeletePair = (id: number) => {
@@ -75,6 +79,8 @@ function CardInput() {
       const updatedPairs = prevPairs.filter((pair) => pair.id !== id);
       return updatedPairs.map((pair, index) => ({ ...pair, id: index + 1 }));
     });
+  
+    setPairIdCounter((prevCounter) => prevCounter - 1);
   };
 
   const handleInputChange = (id: number, field: string, value: string) => {
@@ -98,6 +104,7 @@ function CardInput() {
 
   return (
     <div>
+      <ImportFiles></ImportFiles>
       <div>Input your card here:</div>
       {pairs.map((pair) => (
         <CardPairComponent

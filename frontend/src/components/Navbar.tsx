@@ -8,7 +8,6 @@ const Navbar = () => {
                 <div className="nav-tabs">
                 <ul>
                     <li><a href="/">Home</a></li>
-                    <li><a href="/import_files">Import Files</a></li>
                     <li><a href="/flashcard">Cards</a></li>
                 </ul>
                 </div>

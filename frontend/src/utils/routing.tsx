@@ -14,10 +14,6 @@ export const router = createBrowserRouter([
                 element: <Start />,
             },
             {
-                path: "import_files",
-                element: <ImportFiles />,
-            },
-            {
                 path: "flashcard",
                 element: <Card />,
             }
