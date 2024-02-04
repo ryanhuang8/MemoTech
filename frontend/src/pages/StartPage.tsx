@@ -23,7 +23,11 @@ function StartPage() {
         </div>
 
         <h1>Memorize FlashCards with Feedback</h1>
-        <a className="create-a" href="/import">Create Your Flashcards</a>
+        <br></br>
+        <br></br>
+        <br></br>
+          <a className="a-button" href="/import">Create Your Flashcards</a>
+        
 
     </div>
     

@@ -575,6 +575,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Courier New';
 }
 
 a {
@@ -588,7 +589,7 @@ a:hover {
 body {
   margin: 50px;
   display: flex;
-  position: relative;
+  /* position: relative; */
 }
 
 
@@ -598,6 +599,7 @@ h1 {
 }
 
 button, .a-button {
+  z-index: 909000;
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
@@ -615,9 +617,9 @@ button:focus, button:focus-visible, .a-button:focus, .a-button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
-.a-button {
+/* .a-button {
   color: white;
-}
+} */
 /* .a-button:hover {
   color: black;
 } */
@@ -677,7 +679,7 @@ a, a:visited{
   top:0;
   left:0;
   width:25%;
-  z-index:999;
+  z-index:0;
   p{
     font-size:.9em;
     & + p{
@@ -728,7 +730,7 @@ code{
     top:50%;
     left:50%;
     position:absolute;
-    z-index:999;
+    z-index:-1;
     &:not(.sun){
       border: 1px solid rgba(102, 166, 229, 0.12);
       &:before{
@@ -948,8 +950,10 @@ code{
 }
 
 .create-a{
-  margin-top: 10000px;
-  z-index: 10000px;
+  /* margin-top: 1000000px; */
+  z-index: 1000000;
+
+  font-weight: bold;
 }
 
 
