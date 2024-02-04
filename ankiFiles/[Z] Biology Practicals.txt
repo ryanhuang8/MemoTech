@@ -1,0 +1,57 @@
+#separator:tab
+#html:false
+Describe how you would carry out an investigation into osmosis using potato tissue	● Cut identical potato cylinders  ● Measure and record the length and mass of cylinders ● Add each cylinder to one of three solutions: 1M sugar solution, 0.5M sugar solution and distilled water  ● Leave cylinders in tubes overnight  ● Remove cylinders from tubes and blot them using paper towels  ● Record length and mass of each cylinder
+What test do you use to test for glucose?	Benedict test
+How do you do the benedict test?	- Prepare food sample and transfer 5cm3 of food sample to a test tube - Prepare a water bath that is set to 75 C - Add some Benedict solution to test tube using a pipette - Place test tube in water bath using test tube holder
+How much of the food sample do you transfer to a test tube when doing the Benedict test?	5cm3
+What temperature should the water bath be when doing the Benedict test?	75 degrees C
+How many drops of the Benedict's solution should you add to the test tube?	10 drops
+How long should you leave the test tube in the water bath for when doing the Benedict test?	5 minutes
+If the food sample contains a reducing sugar, what will the solution in the test tube change from normal blue? ( Benedict Test )	- Green  - Yellow  - Brickred
+What does the colour of the solution depend on when doing the Benedict test?	how much sugar is in the food
+What do you use to test for starch?	Iodine Solution
+How do you do the Iodine Solution test?	- Make food sample and transfer 5cm3 of food sample to test tube - Add few drops of iodine solution and shake tube to mix contents
+If the sample contains starch, what will the colour of the solution change from?	Browny-orange to black or blue-black
+What test do you use to test for proteins?	Biuert test
+How do you do the Biuret test?	- Prepare sample, and transfer 2cm3 of sample to test tube - Add 2cm3 of biuret solution to sample and mix contents
+If a food sample contains proteins, what will the solution change from and to?	Change from blue to purple
+If there is no protein present in the food sample when doing the Biuret test, then what colour will the solution be?	Blue
+How much of your food should you transfer to your test tube when doing the Biuret test?	2cm3
+How much of Biuret solution should you add to the sample when doing the Biuret test?	2cm3
+What test do you use to test for lipids?	Sudan III test
+How do you do the Sudan III test?	- Prepare sample of food, transfer 5cm3 to test tube - Use pipette to add 3 drops of Sudan III stain solution to test tube and gently shake
+What does the Sudan III stain solution do?	Stain lipids
+If a sample contains lipids, what will the Sudan III stain solution do?	It will seperate out the sample into two layers. With the top layer be bright red (indicating that there are lipids)
+If there are no lipids present, then what will not be formed at the top of the liquid when doing the Sudan III stain test?	No seperate red layer will form at the top of the liquid
+What consideration must you take when doing the Benedict test for glucose?	Do not boil the mixture for a long time, because any starch present might break down into sugar and test positive
+If you boil the mixture for too long in the water bath what will happen to the starch when doing the Benedict test?	Might break down into sugar and test positive
+What consideration must you take when doing the Biuret test for proteins?	Sometimes the purple colour is difficult to see. So hold the test tube in front of a white paper sheet.
+What can you use to cut identical potato cylinders with?	Cork Borer
+How can you measure the length and mass of the potato cylinders?	Using a ruler and balance
+What is the first step in the sample method?	Place a tissue sample on a microscope slide
+What is the second step in the sample method?	Add a few drops of a suitable stain (iodine)
+What is the third step in the sample method?	Lower a coverslip onto the tissue
+What is the fourth step in the sample method?	Place the slide on the microscope stage and focus on the cells use low power
+What is the fifth step in the sample method?	Change to high power and refocus
+What is the sixth step in the sample method?	Draw any type of cells that can be seen
+What is the seventh step in the sample method?	Add a scale line to the diagram
+What is the independant variable when investigating the effect of sugar solutions on plant tissue?	Concentration of sugar solution
+What is the dependant variable when investigating the effect of sugar solutions on plant tissue?	Change in mass of the potato
+What is the control variable when investigating the effect of sugar solutions on plant tissue?	- Temperature - Length of time the cylinders were left in the solution - Volume of the solution
+Why do the cylinders need to be left in the solution long enough?	For a change in mass to occur
+Before the mass of the cylinders is measured again, what must be done?	They should be rolled on tissue paper to remove any excess solution
+If the cylinders have changed in mass, what is this a result of?	Result of them gaining or losing water by osmosis
+What hazard and risk is there when investigating the effect of sugar solutions on a potato cylinder?	Care must be taken when cutting the cylinders of potatao
+What is the first step in the sample method?	Put a test tube containing starch solution and a test tube containing amylase into a water bath at 37oC
+What is the second step in the sample method?	After 5 minutes add the amylase solution to the starch
+What is the third step in the sample method?	Every 30 seconds take a drop from the mixture and test it for starch using iodine solution
+What is the fourth step in the sample method?	Record how long it takes for the starch to be completely digested
+What is the fifth step in the sample method?	Repeat the experiment at a different pH values using different buffer solutions
+What should the temperature of the water bath be when putting the test tube containing starch solution and a test tube containing amylase into the waterbath?	37C
+After how many minutes should you add the amylase solution to the starch?	
+Every [] seconds take a drop from the mixture and test it for starch using iodine solution	Every 30 seconds take a drop from the mixture and test it for starch using iodine solution
+What is the independant variable in the experiment?	pH
+What is the dependant variable in the experiment?	Time taken for the starch to be digested
+What is the control variables in the experiment?	- Temperature - Concentration - Volume of starch and amylase
+What are the considerations, mistakes and errors in the experiment?	- Solutions need to be left in the water bath for a while to reach the correct temperature before they are mixed - After mixing, tube must be kept in the water bath - Buffer solution must be used to keep the reaction mixture at a certain fixed pH
+What are the hazards and risks?	- Care must be taken if a bunsen burner is used to heat the water bath - Take care not to spill iodine solution on skin

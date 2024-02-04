@@ -1,9 +1,9 @@
 import pymongo
 import requests
 
-client = pymongo.MongoClient("mongodb+srv://ryanyhuang:ctwj2kRNIVNOV1Wd@cluster0.yualorr.mongodb.net/?retryWrites=true&w=majority")
-db = client.Memotech
-collection = db.embeddings
+client = pymongo.MongoClient("mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority")
+db = client.Database
+collection = db.vector_search
 
 hf_token = "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"
 embedding_url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
@@ -20,9 +20,9 @@ def generate_embedding(text: str) -> list[float]:
 
   return response.json()
 
-# for doc in collection.find({'question':{"$exists":True}}):
-#    doc['plot_embedding_hf'] = generate_embedding(doc['question'])
-#    collection.replace_one({'_id': doc['_id']}, doc)
+for doc in collection.find({'premise':{"$exists":True}}):
+   doc['plot_embedding_hf'] = generate_embedding(doc['premise'])
+   collection.replace_one({'_id': doc['_id']}, doc)
 
 def vector_search(query):
 
@@ -30,14 +30,17 @@ def vector_search(query):
     {"$vectorSearch": {
       "queryVector": generate_embedding(query),
       "path": "plot_embedding_hf",
-      "numCandidates": 100,
-      "limit": 4, # num results returned
-      "index": "PlotSemanticSearch",
+      "numCandidates": 10,
+      "limit": 3, # num results returned
+      "index": "default",
       }}
   ])
-
+  
   q_and_a = {}
+  i = 0
   for document in results:
-      q_and_a[document["question"]] = document["answer"]
+      parsed = document["q_a"]
+      q_and_a[i] = parsed
+      i+=1
     
   return q_and_a

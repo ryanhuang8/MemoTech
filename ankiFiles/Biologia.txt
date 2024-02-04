@@ -1,0 +1,99 @@
+#separator:tab
+#html:false
+Fecundação	encontro de gametas
+Tecido Epitelial	-formado por células justapostas, avascularizadas e possuem pequena quantidade de substância intercelular -Revestimento e glandular
+Fertilização	fusão do par de gametas, formando o zigoto
+Glândula	produz secreção, que é importante para o corpo, formada por tecido epitelial. São 2 tipos: endócrina e exócrina
+Tecido Conjuntivo	-possui elevada qtd de substância intercelular -diversidade celular conecta os demais tecidos
+Cariogamia/Anfimixia	encontro de material genético 2n
+Gastrulação	-aumento do volume embrionário paralelo ao surgimento dos folhetos embrionários (arquentero, blastoparo)
+Organogênese	Surgimento de orgãos e tecidos
+Substância Intercelular (matriz)	é formada por 2 constituintes: substancia amorfa (água,proteínas) e fibras (colágenas)
+Processo de fecundação	1)Reação acrossômica 2)Reconhecimento do espermatozóide 3)Cariogamia
+Segmentação ou clivagem	-sucessivas divisões mitóticas -número celular aumenta e o volume do embrião NÃO muda
+Membrana Basal	separa o tecido epitelial do conjuntivo
+Órgãos homólogos	mesma origem embrionária e funções diferentes
+Órgãos Análogos	diferentes origens embrionárias e funções iguais
+Teoria Evolutiva de Llamark	- uso e desuso -transmissão dos caracteres adquiridos -meio induz modificação
+Teoria Evolutiva de Darwin	-seleção natural
+Neodarwinismo	-Darwin+genética -mutações ocasionam variações genéticas -evolução:mudança na frequencia gênica
+Mutações são:	-aleatórias -células somáticas -não é passado adiante
+Causas das mutações	-replicação erronea -influências externas
+Aptidão de um indivíduo	quantidade de descendentes
+Coevolução	quando um organismo influencia na evolução do outro
+Especiação	surge uma nova espécie
+Causas da especiação	-isolamento geográfico e reprodutivo
+Heredograma	genética
+Cladograma	evolução de espécies
+Plesiomorfia	característica + ancestral
+Apomorfia	característica + recente
+Seleção Estabilizadora	favorece os intermediários
+Seleção direcional	1 fenótipo extremo é favorecido -aumenta a frequencia na população
+Seleção disruptiva	2 extremos favorecidos
+Composição dos seres vivos	1)inorgânicos 2)orgânicos
+Tipos de metabolismo	-anabolismo -catabolismo
+Anabolismo	reações de síntese
+Catabolismo	reações de quebra
+Nomenclatura dos monossacarídeos	Cn(H2O)n
+Tipos de pentose	ribose e desoxirribose
+Tipos de hexoses?	glicose,frutose,galactose
+Glicose + Glicose	maltose
+Glicose+frutose	sacarose
+Glicose+galactose	lactose
+O que o glicogênio faz?	armazena energia
+O que são os triglicerídeos?	3 ácidos graxos
+Gorduras Trans são fontes de que?	fontes de síntese das lipoproteínas
+Ateroesclerose	-entupimento da veia por causa da presença de lipídeos (endurece a veia)
+O que é fundamental na determinação da função de uma proteína?	- sequência de aminoácidos
+Desnaturação de uma proteína?	desenrolar da proteína *perde/diminui a sua função (eficiência)
+Nucléolo	região com acúmulo de RNAr
+Funções do RNAr	síntese proteica tradução do RNAm
+Cromatina	material genético descondensado (aberto)
+Cromossomo	cromatina+histonas -forma condensado
+Bases Nitrogenadas, quais são?	Púricas e Pirimídicas
+Quais são as bases nitrogenadas púricas?	adenina e guanina
+Quais são as bases nitrogenadas pirimídicas?	timina, uracila e citosina
+Gordura é formada pelo que?	Lipídios, ou seja triglicerídeos saturados
+Como se formam as gorduras trans?	Era um óleo, contudo, com a retirada das insaturações torna-se a gordura trans
+Tipos de colesterol	LDL e HDL
+O excesso de qual colesterol gera a ateroesclerose?	LDL
+Pra que serve o LDL?	parte dele é metabolizado no fígado e utilizado para a fabricação de membranas celulares
+Pra que serve o HDL?	São as principais transportadoras de fosfolipídeos -o hdl pega o excesso do colesterol no sangue e transporta até o fígado. Aonde este, é convertido em bile
+Desmossomos	permitem a passagem de proteínas do citoesqueleto para a outra célula
+Junção Compacta (zônula de oclusão)	União entre as células (do intestino), impedindo a passagem e armazenamento de substâncias e macromoléculas fora da célula ,ou seja, veda a comunicação entre dois meios.
+Junção comunicante	-do tipo GAP-pontos comunicantes entre uma membrana e outra, com a formação de poros (canais) por onde passam substâncias (íons..)
+Tipos de tecido conjuntivo	-propriamente dito -adiposo -cartilaginoso -ósseo -hematopoiético -sanguíneo
+Quais são os Tecido Conjuntivos Propriamente Ditos?	-frouxo:mto colágeno -denso:pouco colágeno
+Como é o Tecido Conjuntivo Adiposo	-reserva energética -acumula gordura -isolante térmico -protege contra choques físicos -adipócito
+Como é o Tecido Conjuntivo Cartilaginoso?	-avascular -sem nervo -condrócito e condroblasto
+Como é o Tecido Conjuntivo Ósseo?	-matriz mineral e orgânica -reservatório de cálcio  -osteocitos,osteoblastos e osteoclasto -canal perfurante, canal central
+Como é o Tecido Conjuntivo Sanguíneo?	-transporte de nutrientes e excretas -plasma é a parte NÃO CELULAR do sangue -eritrócitos (hemácias) -hemoglobina -plaquetas -leucócitos
+Pra que servem as plaquetas?	coagulação sanguínea -faz o sangue mudar de forma
+Pra que servem os leucócitos?	são celulas de defesa
+Pra que serve o linfócito B?	Fabricação de anticorpos
+Pra que serve o Linfócito T?	auxiliar CD4 citotóxico CD8 - matar as células infectadas
+Tecido Conjuntivo Hematopoiético?	-células tronco -medula óssea vermelha (meio do osso) -indústria de produção sanguínea
+Eritropoetina	-produz as células vermelhas do sangue -120 dias todas as hemácias foram trocadas
+Pra que serve o Sincício?	É um tecido muscular esquelético que junta várias células
+O que é o Miócito?	Fibras musculares
+Quais são os miofilamentos?	Actina e Miosina
+Porque ao longo da fibra ficam alternadas em feixes claros e escuros?	por causa da presença da miosina (grossa) e actina (fina)
+O que é o sarcômero?	é a repetição da actina e miosina (unidades contráteis) ao longo da miofibrila. É de uma linha Z até a outra
+Quando uma célula muscular está relaxada?	quando há o espaço entre a miosina e actina
+O que são as linhas Z na miofibrila?	é o ponto onde se originam os filamentos de actina
+O que acontece na contração muscular?	"o sarcômero encurta e as moléculas de miosina ""encostam"" nas linhas Z"
+Como saber se um tecido muscular é esquelético	se você controla
+Como saber se um tecido muscular é liso?	se você não controla
+Tipos de tecido muscular	-esquelético (estriado) -liso -cardíaco (estriado)
+Miogênico	-estímulo gerado pelo coração -não é controlado pelo sistema nervoso
+Tipos de fibras	-glicolítica -oxidativa
+Ácido Latico é um músculo de?	explosão
+Mioglobina é um músculo de?	resistência
+Tecido nervoso, pra que serve?	controle e coordenação -neurônio
+Células da glia, pra que servem?	dá suporte aos neurônios
+Funções da Microglia	-limpeza/defesa -fagocita corpos estranhos e restos de neurônios mortos
+Oligodendrócitos	são responsáveis pela produção de bainha de mielina
+Astrócitos	tira nutrientes do vaso sanguíneo e passa pro neurônio
+Mielina, o que é?	-capa de mebrana -estrutura lipídica
+Barreira hematoencefálica	barreira entre o sangue e o encéfalo
+Sinapse	região de contato químico entre os neurônios

@@ -1,0 +1,80 @@
+#separator:tab
+#html:false
+Found substance that transformed bacteria from nonvirulant to virulent form	Griffith
+Identified DNA as substance that transformered nonvirulent bacteria to virulent form	Avery, McLeod, and McCarty
+Determined that DNA carries genetic material, not protein	Chase and Hershey
+Discovered DNA's helical structure	Franklin
+Which process was used in determining DNA's helical structure	X-Ray Diffraction
+Who discovered nitrogenous base ratios?	Chargaff
+Which process was used in discovering nitrogenous base ratios?	Biochemical analysis
+The rule of nitrogenous base ratio are referred to as what?	Chargaff's Rule
+Who developed the double helix model of DNA?	Watson and Crick
+What is on the outside of a DNA model?	sugar-phosphate backbone
+What's in the middle of a DNA model?	Two poly nucleotide strands wound around each other
+What's inside a DNA model?	Nitrogenous bases
+How many base pairs are in each double helix turn?	10
+How are DNA strands that run in opposite directions referred?	Antiparallel
+Are the end of polynucleotide chains the same?	No
+3' (3 prime) carbon of a deoxyribose sugar are attached to what?	A Hydroxyl (OH) group
+A (5 prime) 5' carbon of deoxyribose is attached to what?	A Phosphate group
+The nucleotide sugar	Deoxyribose
+The nucleotide group	Phosphate group
+Nucleotides contain what kind of bases?	Nitrogenous Bases
+These single-ring structeres include Thymine, Cytosine, and Uracil	Pyrimidines
+These double-ring structures include Adenine and Guanine	Purines
+Are purines or pyrimidines smaller?	Pyrimidines
+Are purines or pyrimidines larger?	Purines
+What is the backbone made of?	Sugars and Phosphates
+Do sugars and phosphate occur in a repeating pattern?	Yes
+Why does the backbone have a negative charge?	Because of the negative charge on phosphate group
+What links nucleotides?	Phosphodiester bonds
+Where are phosphodiester bond links on backbone?	Between 5' carbon on one sugar, and 3' carbon on the next sugar
+A pairs with what?	T
+G pairs with what?	C
+What are held together by two hydrogen bonds?	Adenine and Thymine
+What are held together by three hydrgen bonds?	Guanine and Cytosine
+Base pairings follow whose rules?	Chargaff's Rules
+Model of replication is know as what kind of replication exactly?	SemiConservative
+What must occur for replication to occur?	Parental strands unwind
+Each strand serves as a [...] new strands. Each strand serves as a {{c1::template}} new strands.	Each strand serves as a template new strands.
+During replication, strands are labeled what?	old and new strands
+A replication bubble is initiated by what?	Special proteins
+Where do the events of DNA replication occur?	the Replisome
+The replication factor is also what?	Replisome
+The replication factor contains what key materials important for DNA replication?	Key proteins and  enzymes
+What is the replisome attached to?	the Nuclear Matrix
+Where does the replisome attach to the nuclear matrix?	At certain locations
+Does the replisome move or stay still?	Remains stationary
+Where does the DNA to be replicated travel?	Moves through the replisome
+Where does DNA begin to unwind?	At the Ori site of the chromosome
+How many Ori do eukaryotes have?	Multiple
+What unwinds the double helix?	the enzyme Helicase
+How does Helicase unwind the double helix?	Uses energy from ATP
+What produces the replication fork?	Helicase
+What prevents reforming of double helix?	Single stranded binding proteins
+How does single stranded binding proteins effct DNA?	stabilizes the single strand of DNA
+What relieves overwinding of the strain?	the enzyme Topoisomerase
+Where does Topiosomerase help DNA?	ahead of replication fork
+How does Topoisomerase relieve overwinding?	Creates cuts in DNA
+Synthesis of new DNA is intitiated by what?	Primer
+The Primer is synthesized by what enzyme?	Primase
+What is a short strand of RNA, 10-12 nucleotides long?	Primer
+What forms a complimentary DNA strand?	DNA Polymerase III
+How is a complimentary strand added?	Adds complimentary bases to DNA template
+In which direction are complimentary bases added?	At 3' to 5' direction
+What anchors DNA polymerase III to template strand?	the Sliding Clamp protein
+New DNA strands are synthesized continuously or discontinuously?	Both continuously and discontinuously
+The addition of nucleotides in continuously synthesized DNA are directed in which direction from the replictaion fork?	Away
+Continuously adddition of nucleotides in replication is called what?	The leading strand
+New DNA synthizes discontinuously with addition of nucleotides in which direction from the replication fork?	Towards
+Addition of nucleotides discontinuously is called what?	Lagging Strand
+Short lengths of DNA fragments present in the lagging strand	Okazaki fragments
+First step of lagging strand DNA synthesis?	Synthesis of DNA fragment
+Second Step of Lagging Strand DNA synthesis?	Complimentary nucleotide added
+Where is the complimentary nucleotide added to during DNA synthesis of lagging strand?	to the Template Strand
+After complimentary nucleotide added to the lagging strand, what happens?	Syntheis of another RNA primer
+After second RNA primer is added to lagging strand, what is next?	Another complimentary necleotide is added
+Once second complimentary nucleotide is added to lagging strand, what happens next?	Previously synthesized RNA primers are removed
+What are the RNA primers called?	DNA Polymerase I
+What is the gap that remains in the lagging strand called?	a nick
+What seals the nicks in the lagging strand?	DNA Ligase
