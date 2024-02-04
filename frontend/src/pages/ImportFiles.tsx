@@ -12,14 +12,28 @@ function ImportFiles() {
       reader.onload = (event) => {
         try {
           const fileContent = event.target.result;
-          const parsedData = JSON.parse(fileContent);
+          const replacedTabs = fileContent.replace(/\t/g, ":::");
+          console.log(replacedTabs)
+          const parsedData = replacedTabs.replace(/\n/g, ";;;");
+          console.log("Modified Content:", parsedData);
+          // parse here
+          console.log(parsedData)
+          const lines = parsedData.split(";;;");
 
-          // Create a dictionary based on the parsed data
+          // Initialize an array to store question-answer pairs
           const cardDictionary = [];
-          let index = 0;
-          for (const key in parsedData[0]) {
-            cardDictionary[index++] = {"id": index, "question": key, "answer": parsedData[0][key]};
-          }
+
+          // Loop through each line
+          lines.forEach((line, index) => {
+            // Split each line by ':::' to separate question and answer
+            const [question, answer] = line.split(":::");
+            // Add question-answer pair to the array
+            cardDictionary.push({
+              id: index + 1, // assuming id starts from 1
+              question: question, // remove leading/trailing spaces
+              answer: answer // remove leading/trailing spaces
+            });
+          });
 
           // Use the cardDictionary as needed
           localStorage.setItem('cardPairs', JSON.stringify(cardDictionary));
@@ -37,6 +51,7 @@ function ImportFiles() {
       // e.target.value = null;
     }
   };
+
 
   return (
     <div>
