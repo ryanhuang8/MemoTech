@@ -1,4 +1,4 @@
-import React, { useState, ChangeEvent, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import '../styles/CardInput.css';
 import ImportFiles from "../pages/ImportFiles";
 
@@ -15,7 +15,7 @@ interface CardPairProps {
 }
 
 const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDeletePair }) => {
-  const handleFocus = (e: React.FocusEvent<HTMLDivElement>, field: string) => {
+  const handleFocus = (e: React.FocusEvent<HTMLDivElement>, _field: string) => {
     if (e.currentTarget.innerText === `Question ${pair.id}` || e.currentTarget.innerText === `Answer ${pair.id}`) {
       e.currentTarget.innerText = ''; // Clear placeholder text on focus
     }
@@ -60,7 +60,7 @@ function CardInput() {
 
   const [pairIdCounter, setPairIdCounter] = useState<number>(pairs.length + 1);
 
-  const [cardDictionary, setCardDictionary] = useState<Record<number, CardPair>>({});
+  const [, setCardDictionary] = useState<Record<number, CardPair>>({});
 
   useEffect(() => {
     localStorage.setItem('cardPairs', JSON.stringify(pairs));

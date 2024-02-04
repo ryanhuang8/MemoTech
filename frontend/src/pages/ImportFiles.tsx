@@ -21,10 +21,8 @@ function ImportFiles() {
             cardDictionary[index++] = {"id": index, "question": key, "answer": parsedData[0][key]};
           }
 
-          console.log(parsedData[0])
           // Use the cardDictionary as needed
           localStorage.setItem('cardPairs', JSON.stringify(cardDictionary));
-          console.log(localStorage);
           console.log("Card Dictionary:", JSON.stringify(cardDictionary));
         } catch (error) {
           console.error("Error parsing file:", error);
