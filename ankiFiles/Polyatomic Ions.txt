@@ -1,0 +1,50 @@
+#separator:tab
+#html:false
+Acetate	C2H3O2-
+C2H3O2-	Acetate
+Bicarbonate	HCO3-
+HCO3-	Bicarbonate
+Bisulfate	HSO4-
+HSO4-	Bisulfate
+Chlorate	ClO3-
+ClO3-	Chlorate
+Chlorite	ClO2-
+ClO2-	Chlorite
+Cyanate	OCN-
+OCN-	Cyanate
+Cyanide	CN-
+CN-	Cyanide
+Dihydrogen phosphate	H2PO4-
+H2PO4-	Dihydrogen phosphate
+Hydroxide	OH-
+OH-	Hydroxide
+Nitrate	NO3-
+NO3-	Nitrate
+Nitrite	NO2-
+NO2-	Nitrite
+Perchlorate	ClO4-
+ClO4-	Perchlorate
+Permanganate	MnO4-
+MnO4-	Permanganate
+Thiocyanate	SCN-
+SCN-	Thiocyanate
+Carbonate	CO32-
+CO32-	Carbonate
+Chromate	CrO42-
+CrO42-	Chromate
+Dichromate	Cr2O7-2
+Cr2O7-2	Dichromate
+Hydrogen phosphate	HPO42-
+HPO42-	Hydrogen phosphate
+Peroxide	O2-2
+O2-2	Peroxide
+Sulfate	SO4-2
+SO4-2	Sulfate
+Sulfite	SO3-2
+SO3-2	Sulfite
+Thiosulfate	S2O32-
+S2O32-	Thiosulfate
+Borate	BO3-3
+BO3-3	Borate
+Phosphate	PO4-3
+PO4-3	Phosphate
