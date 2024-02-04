@@ -125,16 +125,11 @@ function CardInput() {
         <br />
         <br />
       </div>
+      <StudyButton></StudyButton>
       <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:
       {/* <a href="/flashcard" className="a-button" style={{ marginLeft: '880px' }}>
         Study
       </a> */}
-      <StudyButton></StudyButton>
-      </div>
-      <div>
-        <br />
-        <br />
-        <br />
       </div>
       {pairs.map((pair) => (
         <CardPairComponent

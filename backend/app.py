@@ -12,7 +12,7 @@ from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
-openai.api_key = "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"
+openai.api_key = "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"
 os.environ["OPEN_API_KEY"] = "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"
 # os.environ["ATLAS_CONNECTION_STRING"] = "mongodb+srv://ryanyhuang:ctwj2kRNIVNOV1Wd@cluster0.yualorr.mongodb.net/?retryWrites=true&w=majority"
 # client = pymongo.MongoClient(os.environ["ATLAS_CONNECTION_STRING"])

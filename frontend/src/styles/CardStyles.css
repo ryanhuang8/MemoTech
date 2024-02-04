@@ -1,6 +1,7 @@
 .card {
     margin: 10px auto;
-    background: var(--grad-one);
+    background: rgb(216, 210, 210);
+    color: black;
     height: 350px;
     width: 350px;
     display: flex;
@@ -24,7 +25,7 @@
   
   /* when card is clicked adding .side class */
   .side {
-    background: var(--grad-two);
+    /* background: var(--grad-two); */
     transform: rotateY(-180deg);
   }
   

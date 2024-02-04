@@ -18,8 +18,8 @@ const MyComponent: React.FC = () => {
 
   return (
     <div>
-      <button onClick={sendRequest}>Send Request</button>
-      <div>Response: {responseData}</div>
+      <a className="a-button" href="/flashcard" onClick={sendRequest}>Study Your Set</a>
+      {/* <div>Response: {responseData}</div> */}
     </div>
   );
 };

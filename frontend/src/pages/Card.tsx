@@ -54,9 +54,9 @@ function Card() {
         })
         .then(data => {
           // Handle the response data here
-          setSuggestedDeck(data[0]);
-          console.log('Response:', data[0]);
-          localStorage.cardPairs = data[0];
+          setSuggestedDeck(data[1]);
+          console.log('fuck u:', data[1]);
+          localStorage.cardPairs = data[1];
           // You may want to update your UI based on the response
         })
         .catch(error => {
@@ -108,8 +108,15 @@ function Card() {
       {suggestion && (
         <div style={{ marginTop: '10px' }}>
           <strong>Suggestion:</strong> {suggestion}
+          <div style={{marginTop:'15px'}}>
+          <a className="a-button" href="/import">Recommended Flashcards</a>
+          </div>
+
         </div>
+        
+
       )}
+      
     </div>
   );
 }

@@ -76,7 +76,6 @@ function ImportFiles() {
         className="file-input"
         accept=".txt"
       />
-      {/* Add any additional content or components as needed */}
     </div>
   );
 }

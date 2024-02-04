@@ -618,9 +618,9 @@ button:focus, button:focus-visible, .a-button:focus, .a-button:focus-visible {
 .a-button {
   color: white;
 }
-.a-button:hover {
+/* .a-button:hover {
   color: black;
-}
+} */
 
 @media (prefers-color-scheme: light) {
   :root {
@@ -945,6 +945,11 @@ code{
 
 .hide{
   display:none;
+}
+
+.create-a{
+  margin-top: 10000px;
+  z-index: 10000px;
 }
 
 
