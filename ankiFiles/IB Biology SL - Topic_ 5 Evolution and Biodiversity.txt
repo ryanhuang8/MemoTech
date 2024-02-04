@@ -1,0 +1,24 @@
+#separator:tab
+#html:false
+Bryophytes	no vascular tissue
+no vascular tissue	Bryophytes
+Filicinophytes	Vascular tissue
+Vascular tissue	Filicinophytes
+Coniferophytes	Vascular tissue
+Vascular tissue	Coniferophytes
+Angiospermophytes	Vascular tissue
+Vascular tissue	Angiospermophytes
+Porifera	no symmetry, no segmentation, no mouth or anus
+no symmetry, no segmentation, no mouth or anus	Porifera
+Cinidaria	radial symmetry, no segmentation, mouth but no anus
+radial symmetry, no segmentation, mouth but no anus	Cinidaria
+Platyhelminthes	bilateral symmetry, no segmentation, mouth but no anus
+bilateral symmetry, no segmentation, mouth but no anus	Platyhelminthes
+Annelida	bilateral symmetry, very segmented, mouth and anus
+bilateral symmetry, very segmented, mouth and anus	Annelida
+Mollusca	bilateral symmetry, non visible segmentation, mouth and anus
+bilateral symmetry, non visible segmentation, mouth and anus	Mollusca
+Anthropoda	bilateral symmetry, segmented, mouth and anus
+bilateral symmetry, segmented, mouth and anus	Anthropoda
+Chorodata	bilateral symmetry, segmented, mouth and anus
+bilateral symmetry, segmented, mouth and anus	Chorodata

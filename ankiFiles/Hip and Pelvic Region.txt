@@ -1,347 +1,131 @@
 #separator:tab
-#html:true
-Bony Points of Hip and Pelvic Region	1) Spinous and Transverse Processes of Lumbar Vertebrae<div>2) ASIS</div><div>3) PSIS</div><div>4) Iliac Crest</div><div>5) Ischial Tuberosity</div><div>6) Inguinal Ligament</div><div>7) The Sacrum</div><div>8) Pubic Symphysis</div><div>9) Greater Trochanter</div>
-1) Spinous and Transverse Processes of Lumbar Vertebrae<div>2) ASIS</div><div>3) PSIS</div><div>4) Iliac Crest</div><div>5) Ischial Tuberosity</div><div>6) Inguinal Ligament</div><div>7) The Sacrum</div><div>8) Pubic Symphysis</div><div>9) Greater Trochanter</div>	Bony Points of Hip and Pelvic Region
-Joint Lines/Surface Markings of Hip and Pelvic Region	1) Hip Joint<div>2) Sacroiliac Joint</div>
-1) Hip Joint<div>2) Sacroiliac Joint</div>	Joint Lines/Surface Markings of Hip and Pelvic Region
-Hip Extensors	1) Gluteus Maximus<div>2) Semimembranosis</div><div>3) Semitendinonsis</div><div>4) Biceps Femoris</div>
-1) Gluteus Maximus<div>2) Semimembranosis</div><div>3) Semitendinonsis</div><div>4) Biceps Femoris</div>	Hip Extensors
-Hip Flexors	1) Psoas Major<div>2) Iliacus</div><div>3) Pectineus</div><div>4) Rectus Femoris</div><div>5) Sartorius</div>
-1) Psoas Major<div>2) Iliacus</div><div>3) Pectineus</div><div>4) Rectus Femoris</div><div>5) Sartorius</div>	Hip Flexors
-Hip Adductors	1) Adductor Magnus<div>2) Adductor Longus</div><div>3) Adductor Brevis</div><div>4) Gracilis</div><div>5) Pectineus</div>
-1) Adductor Magnus<div>2) Adductor Longus</div><div>3) Adductor Brevis</div><div>4) Gracilis</div><div>5) Pectineus</div>	Hip Adductors
-Hip Abductors	1) Gluteus Maximus<div>2) Gluteus Medius</div><div>3) Gluteus Minimus</div><div>4) Tensor Fascia Lata</div>
-1) Gluteus Maximus<div>2) Gluteus Medius</div><div>3) Gluteus Minimus</div><div>4) Tensor Fascia Lata</div>	Hip Abductors
-Hip Lateral Rotators	1) Gluteus Maximus<div>2) Piriformis</div><div>3) Obturator Internus</div><div>4) Obturator Externus</div><div>5) Gemelli</div><div>6) Quadratus Femoris</div>
-1) Gluteus Maximus<div>2) Piriformis</div><div>3) Obturator Internus</div><div>4) Obturator Externus</div><div>5) Gemelli</div><div>6) Quadratus Femoris</div>	Hip Lateral Rotators
-Hip Medial Rotators	1) Gluteus Medius<div>2) Gluteus Minimus</div><div>3) Tensor Fascia Lata</div>
-1) Gluteus Medius<div>2) Gluteus Minimus</div><div>3) Tensor Fascia Lata</div>	Hip Medial Rotators
-"Gluteus Maximus Actions
-
-"	
-"Gluteus Maximus Origins
-
-"	
-"Gluteus Maximus Insertions
-
-"	
-"What is the gluteal tuberosity
-
-"	
-"Gluteus Maximus Nerve
-
-"	
-"Gluteus Medius Origins
-
-"	
-"Gluteus Medius Insertions
-
-"	
-"Gluteus Medius Nerve
-
-"	
-"Gluteus Medius Actions
-
-"	
-"Gluteus Minimus Actions
-
-"	
-"Gluteus Minimus Origin
-
-"	
-"Gluteus Minimus Insertions
-
-"	
-"Gluteus Minimus Nerve
-
-"	
-"Psoas Major Actions
-
-"	
-"Psoas Major Origins
-
-"	
-"Psoas Major Insertions
-
-"	
-"Iliacus Action
-
-"	
-"Iliacus Origin
-
-"	
-"What is the Ala of Sacrum
-
-"	
-"Iliacus Insertion
-
-"	
-"Iliacus Nerve
-
-"	
-"Pectineus Action
-
-"	
-"Pectineus Origin
-
-"	
-"pectineus insertion
-
-"	
-"Adductor Magnus Action
-
-"	
-"Adductor Magnus Origin
-
-"	
-"Adductor Magnus Insertion
-
-"	
-"adductor magnus nerve
-
-"	
-"adductor longus action
-
-"	
-"<font color=""#222222"" face=""arial, sans-serif""><span style=""font-size: 16px;"">Adductor Longus Origin</span></font>
-
-"	
-"<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 16px;"">Adductor Longus insertions</span>
-
-"	
-"<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 16px;"">Adductor Longus nerve</span>
-
-"	
-"<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 16px;"">Adductor Brevis actions</span><br>
-
-"	
-"<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 16px;"">Adductor Brevis Origin</span>
-
-"	
-"<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 16px;"">Adductor Brevis insertion</span>
-
-"	
-"<span style=""color: rgb(34, 34, 34); font-family: arial, sans-serif; font-size: 16px;"">Adductor Brevis nerve</span>
-
-"	
-"Gracilis Action
-
-"	
-"Gracilis Origin
-
-"	
-"Gracilis insertion
-
-"	
-"Gracilis Nerve
-
-"	
-"Piriformis Action
-
-"	
-"Piriformis origin
-
-"	
-"Piriformis insertion
-
-"	
-"Hamstrings: Semitendinosis Action
-
-"	
-"Hamstrings: Semitendinosis origin
-
-"	
-"Hamstrings: Semitendinosis insertion
-
-"	
-"Hamstrings: Semitendinosis nerve
-
-"	
-"Hamstrings: Semimembranosis action
-
-"	
-"Hamstrings: Semimembranosis origin
-
-"	
-"Hamstrings: Semimembranosis insertion
-
-"	
-"Hamstrings: Semimembranosis nerve
-
-"	
-"Hamstrings: Biceps femoris actions
-
-"	
-"Hamstrings: Biceps femoris origin
-
-"	
-"Hamstrings: Biceps femoris insertion
-
-"	
-"Sartorius action
-
-"	
-"Sartorius origin
-
-"	
-"Sartorius Insertion
-
-"	
-"Sartorius nerve
-
-"	
-"Tensor Fascia Lata Action
-
-"	
-"Tensor Fascia Lata Origin
-
-"	
-"Tensor Fascia Lata insertion
-
-"	
-"Iliotibial tract insertion
-
-"	
-"Rectus Femoris action
-
-"	
-"Rectus Femoris origin
-
-"	
-"Rectus Femoris insertion
-
-"	
-"Rectus Femoris nerve
-
-"	
-"What are the three muscles of erector spinae, lateral to medial
-
-"	
-"Erector Spinae: Iliocostalis action
-
-"	
-"Erector Spinae: Iliocostalis origin
-
-"	
-"Erector Spinae: Iliocostalis insertion
-
-"	
-"Erector Spinae: Longissimus Action
-
-"	
-"Erector Spinae: Longissimus Origin&nbsp;
-
-"	
-"Erector Spinae: Longissimus insertion
-
-"	
-"Erector Spinae: Spinalis action
-
-"	
-"Erector Spinae: Spinalis origin&nbsp;
-
-"	
-"Erector Spinae: Spinalis insertion
-
-"	
-"External Obliques Action
-
-"	
-"External Obliques origin
-
-"	
-"External Obliques insertion
-
-"	
-"External Obliques nerve
-
-"	
-"Internal Oblique action
-
-"	
-"Internal Oblique origin
-
-"	
-"Internal Oblique insertion
-
-"	
-"Internal Oblique nerve
-
-"	
-"Transverse abdominis Action
-
-"	
-"Transverse abdominis origin
-
-"	
-"What is the Thorocolumbar Fascia
-
-"	
-"Transverse abdominis insertion
-
-"	
-"Direction and postition of external oblique fibres
-
-"	
-"Direction and postition of internal oblique fibres
-
-"	
-"Direction and postition of transversus abdominis
-
-"	
-"Direction and postition of rectus abdominis
-
-"	
-"what is the rectus sheath
-
-"	
-"Rectus Abdominis Actions
-
-"	
-"Rectus abdominis origin
-
-"	
-"Rectus Abdominis Insertion
-
-"	
-"rectus abdominis nerve
-
-"	
-"transverse abdominis nerve
-
-"	
-Actions of Abdominal muscles	1) Trunk Flexion -&nbsp; internal and external obliques and rectus abdominis of both sides<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- reversed action - ribs fixed; pelvis lifted, altering pelvic tilt</div><div>2) Trunk Lat. Flexion - external and internal obliques and rectus abdominis of one side only</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Reversed action - pelvis on same side only lifted, i.e walking</div><div>3) Trunk rotation - Left - left internal and right external obliques</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Right - right internal and left external obliques</div>
-1) Trunk Flexion -&nbsp; internal and external obliques and rectus abdominis of both sides<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- reversed action - ribs fixed; pelvis lifted, altering pelvic tilt</div><div>2) Trunk Lat. Flexion - external and internal obliques and rectus abdominis of one side only</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Reversed action - pelvis on same side only lifted, i.e walking</div><div>3) Trunk rotation - Left - left internal and right external obliques</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;- Right - right internal and left external obliques</div>	Actions of Abdominal muscles
-"Lymph Nodes of Pelvic and Hip Region
-
-"	
-"Pulses of Pelvic and Hip Region
-
-"	
-"Nerves of Pelvic and Hip Region
-
-"	
-"Muscles innervated by Femoral Nerve
-
-"	
-"Muscles innervated by Obturator Nerve
-
-"	
-"Muscles innervated by the Sciatic Nerve
-
-"	
-"Muscles innervated by superior gluteal nerve
-
-"	
-"Muscles innervated by inferior gluteal nerve
-
-"	
-"Sensory nerves of ant. thigh
-
-"	
-"Sensory nerves of post. thigh
-
-"	
-branches from femoral nerve	1) saphenous - divides in femoral triangle<div>2) lat. and med. ant. cutaneous nerves of thigh</div><div><br></div>
-branches from sciatic nerve	<div>divides just below mid point of thigh</div>1) Common peroneal Nerve&nbsp;<div>2) tibial Nerve</div>
-Saphenous Nerve Path	divides from femoral nerve in femoral triangle<div>passes across thigh to medial knee, along medial side of leg and foot to base of big toe</div>
+#html:false
+Bony Points of Hip and Pelvic Region	1) Spinous and Transverse Processes of Lumbar Vertebrae 2) ASIS 3) PSIS 4) Iliac Crest 5) Ischial Tuberosity 6) Inguinal Ligament 7) The Sacrum 8) Pubic Symphysis 9) Greater Trochanter
+1) Spinous and Transverse Processes of Lumbar Vertebrae 2) ASIS 3) PSIS 4) Iliac Crest 5) Ischial Tuberosity 6) Inguinal Ligament 7) The Sacrum 8) Pubic Symphysis 9) Greater Trochanter	Bony Points of Hip and Pelvic Region
+Joint Lines/Surface Markings of Hip and Pelvic Region	1) Hip Joint 2) Sacroiliac Joint
+1) Hip Joint 2) Sacroiliac Joint	Joint Lines/Surface Markings of Hip and Pelvic Region
+Hip Extensors	1) Gluteus Maximus 2) Semimembranosis 3) Semitendinonsis 4) Biceps Femoris
+1) Gluteus Maximus 2) Semimembranosis 3) Semitendinonsis 4) Biceps Femoris	Hip Extensors
+Hip Flexors	1) Psoas Major 2) Iliacus 3) Pectineus 4) Rectus Femoris 5) Sartorius
+1) Psoas Major 2) Iliacus 3) Pectineus 4) Rectus Femoris 5) Sartorius	Hip Flexors
+Hip Adductors	1) Adductor Magnus 2) Adductor Longus 3) Adductor Brevis 4) Gracilis 5) Pectineus
+1) Adductor Magnus 2) Adductor Longus 3) Adductor Brevis 4) Gracilis 5) Pectineus	Hip Adductors
+Hip Abductors	1) Gluteus Maximus 2) Gluteus Medius 3) Gluteus Minimus 4) Tensor Fascia Lata
+1) Gluteus Maximus 2) Gluteus Medius 3) Gluteus Minimus 4) Tensor Fascia Lata	Hip Abductors
+Hip Lateral Rotators	1) Gluteus Maximus 2) Piriformis 3) Obturator Internus 4) Obturator Externus 5) Gemelli 6) Quadratus Femoris
+1) Gluteus Maximus 2) Piriformis 3) Obturator Internus 4) Obturator Externus 5) Gemelli 6) Quadratus Femoris	Hip Lateral Rotators
+Hip Medial Rotators	1) Gluteus Medius 2) Gluteus Minimus 3) Tensor Fascia Lata
+1) Gluteus Medius 2) Gluteus Minimus 3) Tensor Fascia Lata	Hip Medial Rotators
+Gluteus Maximus Actions	
+Gluteus Maximus Origins	
+Gluteus Maximus Insertions	
+What is the gluteal tuberosity	
+Gluteus Maximus Nerve	
+Gluteus Medius Origins	
+Gluteus Medius Insertions	
+Gluteus Medius Nerve	
+Gluteus Medius Actions	
+Gluteus Minimus Actions	
+Gluteus Minimus Origin	
+Gluteus Minimus Insertions	
+Gluteus Minimus Nerve	
+Psoas Major Actions	
+Psoas Major Origins	
+Psoas Major Insertions	
+Iliacus Action	
+Iliacus Origin	
+What is the Ala of Sacrum	
+Iliacus Insertion	
+Iliacus Nerve	
+Pectineus Action	
+Pectineus Origin	
+pectineus insertion	
+Adductor Magnus Action	
+Adductor Magnus Origin	
+Adductor Magnus Insertion	
+adductor magnus nerve	
+adductor longus action	
+Adductor Longus Origin	
+Adductor Longus insertions	
+Adductor Longus nerve	
+Adductor Brevis actions	
+Adductor Brevis Origin	
+Adductor Brevis insertion	
+Adductor Brevis nerve	
+Gracilis Action	
+Gracilis Origin	
+Gracilis insertion	
+Gracilis Nerve	
+Piriformis Action	
+Piriformis origin	
+Piriformis insertion	
+Hamstrings: Semitendinosis Action	
+Hamstrings: Semitendinosis origin	
+Hamstrings: Semitendinosis insertion	
+Hamstrings: Semitendinosis nerve	
+Hamstrings: Semimembranosis action	
+Hamstrings: Semimembranosis origin	
+Hamstrings: Semimembranosis insertion	
+Hamstrings: Semimembranosis nerve	
+Hamstrings: Biceps femoris actions	
+Hamstrings: Biceps femoris origin	
+Hamstrings: Biceps femoris insertion	
+Sartorius action	
+Sartorius origin	
+Sartorius Insertion	
+Sartorius nerve	
+Tensor Fascia Lata Action	
+Tensor Fascia Lata Origin	
+Tensor Fascia Lata insertion	
+Iliotibial tract insertion	
+Rectus Femoris action	
+Rectus Femoris origin	
+Rectus Femoris insertion	
+Rectus Femoris nerve	
+What are the three muscles of erector spinae, lateral to medial	
+Erector Spinae: Iliocostalis action	
+Erector Spinae: Iliocostalis origin	
+Erector Spinae: Iliocostalis insertion	
+Erector Spinae: Longissimus Action	
+Erector Spinae: Longissimus Origin	
+Erector Spinae: Longissimus insertion	
+Erector Spinae: Spinalis action	
+Erector Spinae: Spinalis origin	
+Erector Spinae: Spinalis insertion	
+External Obliques Action	
+External Obliques origin	
+External Obliques insertion	
+External Obliques nerve	
+Internal Oblique action	
+Internal Oblique origin	
+Internal Oblique insertion	
+Internal Oblique nerve	
+Transverse abdominis Action	
+Transverse abdominis origin	
+What is the Thorocolumbar Fascia	
+Transverse abdominis insertion	
+Direction and postition of external oblique fibres	
+Direction and postition of internal oblique fibres	
+Direction and postition of transversus abdominis	
+Direction and postition of rectus abdominis	
+what is the rectus sheath	
+Rectus Abdominis Actions	
+Rectus abdominis origin	
+Rectus Abdominis Insertion	
+rectus abdominis nerve	
+transverse abdominis nerve	
+Actions of Abdominal muscles	1) Trunk Flexion -  internal and external obliques and rectus abdominis of both sides                            - reversed action - ribs fixed; pelvis lifted, altering pelvic tilt 2) Trunk Lat. Flexion - external and internal obliques and rectus abdominis of one side only                                   - Reversed action - pelvis on same side only lifted, i.e walking 3) Trunk rotation - Left - left internal and right external obliques                            - Right - right internal and left external obliques
+1) Trunk Flexion -  internal and external obliques and rectus abdominis of both sides                            - reversed action - ribs fixed; pelvis lifted, altering pelvic tilt 2) Trunk Lat. Flexion - external and internal obliques and rectus abdominis of one side only                                   - Reversed action - pelvis on same side only lifted, i.e walking 3) Trunk rotation - Left - left internal and right external obliques                            - Right - right internal and left external obliques	Actions of Abdominal muscles
+Lymph Nodes of Pelvic and Hip Region	
+Pulses of Pelvic and Hip Region	
+Nerves of Pelvic and Hip Region	
+Muscles innervated by Femoral Nerve	
+Muscles innervated by Obturator Nerve	
+Muscles innervated by the Sciatic Nerve	
+Muscles innervated by superior gluteal nerve	
+Muscles innervated by inferior gluteal nerve	
+Sensory nerves of ant. thigh	
+Sensory nerves of post. thigh	
+branches from femoral nerve	1) saphenous - divides in femoral triangle 2) lat. and med. ant. cutaneous nerves of thigh
+branches from sciatic nerve	divides just below mid point of thigh1) Common peroneal Nerve  2) tibial Nerve
+Saphenous Nerve Path	divides from femoral nerve in femoral triangle passes across thigh to medial knee, along medial side of leg and foot to base of big toe

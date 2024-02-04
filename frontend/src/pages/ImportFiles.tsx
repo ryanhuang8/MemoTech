@@ -27,7 +27,8 @@ function ImportFiles() {
                 const cardDictionary = [];
 
                 // Loop through each line
-                for (let index = 2; index < lines.length; index++) {
+                // assume that the last entry is always blank
+                for (let index = 2; index < lines.length-1; index++) {
                   const line = lines[index];
                   // Split each line by ':::' to separate question and answer
                   const [question, answer] = line.split(":::");

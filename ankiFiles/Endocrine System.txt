@@ -1,0 +1,35 @@
+#separator:tab
+#html:false
+What is the primary difference between exocrine and endocrine glands?	Exocrine glands secrete products into ducts whereas endocrine glands secrete their products into interstitial fluid to be carried by the bloodstream.
+Give some examples of organs that contain both endocrine and exocrine glandular tissue:	- Pancreas - Gonads: Testies and Ovaries
+Name the type of epithelium common to both endocrine and exocrine glands (Hint: major function is secretion)	Simple cuboidal epithelium
+What type of hormone travels through the bloodstream in order to reach it's destination?	Circulating hormones
+What are the two types of local hormones?	- Paracrines - Autocrines
+What is up-regulation?	An inreased need for hormone respone or hormone deficiency causes an increase in the number of receptors/target cells resulting in increased hormone sensitivity.
+A decrease in the number of receptors/target cell resulting in less sensitivity.	Down-regulation
+T/F: The majority of hormones are lipid-soluble.	False: The majority of hormones are water-soluble.
+This type of hormone travels throughout the bloodstream in free form, is secreted in active form, and has a short half-life in circulation.	Water-soluble hormones
+T/F: Water-soluble hormones are bound to a transport protein to allow transport through blood plasma.	False: Lipid-soluble hormones are bound to a transport protein.
+Give some examples of lipid soluble hormones (Tip: if you memorize lipid-soluble hormones you'll know which are water soluble)	- Steroid hormones - Thyroid hormones - Nitric Oxide - Eicosanoids
+Most hormones are regulated by a _______ feedback system.	Negative
+Which brain structure has major control of the endocrine system because it controls the pituitary gland?	The hypothalamus
+What are the three kinds of affects of hormonal interactions on target cells?	1. Permissive effects 2. Synergistic effects 3. Antagonistic effects
+Give an example of a synergistic effect:	Epinephren and glucagon causes stimulation of release of a large amount of glucose from storage resulting in dramatic increase in blood glucose levels.
+__________ regulates the release of all anterior pituitary gland hormones using negative feedback systems.	Hypothalamus
+Give an example of a hypothalamic releasing hormone and what specific anterior pituitary hormones are secreted afterwards:	- Example 2: Thyrotropin Releasing Hormone stimulates thyrotrophs to release thyroid stimulating hormone.
+What two hormones are produced by the hypothalamus:	- Antidiuretic Hormone - Oxytocin
+What structure connects the pituitary gland to the hypothalamus?	The infundibulum
+Defined as hormones that influence the activity of another endocrine gland.	Trophic hormones
+The hypothalamus produces ADH and OT, but what endocrine gland is used for the storage of ADH and OT	The posterior pituitary gland.
+Which endocrine gland is responsible for controlling the basal metabolic rate of bodily functions?	Thyroid gland
+Which hormone is secreted by the parathyroid glands?	Parathyroid hormone.
+Which hormones are secreted by the adrenal medulla? How much of each is produced?	- Epinephren (80%) - Norepinephren (20%)
+Which part of the adrenal glands secretes cortisol?	The adrenal cortex.
+________ and _________ work in opposition to maintain normal blood glucose levels.	Insulin and glucagon
+This endocrine gland is responsible for the secretion of digestive enzymes.	The pancreas
+Give an example of sex hormones secreted by both the ovaries and testes:	Ovaries: Estrogens, progesteron, relaxin, inhibin. Testes: Testosterone, DHEA, Inhibin
+Which hormone helps in the maturation of specific WBC's called T lymphocytes?	Thymopoietins, secreted by the thymus gland.
+What is a stressor?	Anything which causes homeostatic imbalance in the internal environment or external environment.
+What are the main body systems involved in the stress response?	- Nervous System - Endocrine System - Immune System
+Give some examples of physiological effects of fight-or-flight:	- Increased blood glucose - Increased HR, pulse pressure, BP, and RR - Pupils dilate - Increased glucose and oxygen consumption - Increased blood flow to brain, skeletal muscles, heart and lungs.
+What are some of the effects of prolonged exposure to high cortisol levels during the exhaustion stage?	Immunosuppresion, digestive disturbances, cardiovascular disturbances

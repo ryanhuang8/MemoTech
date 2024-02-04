@@ -1,0 +1,149 @@
+#separator:tab
+#html:false
+Painful genital lesion	Herpes, chancroid
+Giant Cell Pneumonia	Measles in an immunocompromised – no rash
+Non-itchy Rash	Measles, Dengue
+Bull Neck	Cornybacterium diphtheria
+Grey pharynx	Cornybacterium diphtheria
+Raw shellfish	Vibrio, norovirus
+Negri Body	Rabies
+Slap-cheek syndrome	Parvovirus B19
+Nuclear inclusions	Adenovirus
+Amantadine	M2 = uncoat
+Tamiflu	NA = release
+Aspirin to kids problem	Reye’s syndrome
+Tegument layer	Herpesvirus
+Unilateral rash, 1 dermatome	Zoster from varicella zoster virus
+Mononucleosis-like w/o sore throat	CMV
+Mononucleosis-like w/ worst sore throat	EBV
+Oral hairy leukoplakia	EBV in AIDS patients (complication)
+Atypical lymphocytes	EBV, CMV
+Post-Tx lymphoproliferative disorder (PTLD)	EBV
+Fulminant Hepatitis	HAV, hepatitis A virus
+DNA viral genome + RT enzyme	HBV, hepatitis B virus
+Koplik’s spots	Measles
+Subacute sclerosing paraencephalitis (SSPE)	Measles
+Orchitis / oophoritis	Mumps
+Bullet-shaped virus	Rabies
+Basal ganglia swelling	WNV, west nile virus
+Croup	Parainfluenza virus, laryngotrachealbronchitis
+RSV infant antiviral	Ribavirin
+Focal encephalitis	HSV-1
+Right Upper Quadrant Pain	Hepatitis
+Conjunctivitis, most common	Adenovirus (pink eye), others = GC, CT, H.flu,
+Viral Diarrhea	Rotavirus, adenovirus, astrovirus, norovirus
+Viral Lower Resp. Infection	RSV,Adenovirus,Parainfluenza,Influenza,
+Viral CNS infection	WNV, HSV-1, Enterovirus, Rabies
+Rash causing viruses	Measles, Rubella, VZV, Parvovirus B19, HHV-6 Roseola
+Respiratory Spread	VZV, Adenovirus, RSV, Rhinovirus
+Hematogenous spread	VZV, HBV, HepB
+Fecal-oral spread	Norovirus, Adenovirus, HAV-hepatitis A virus
+Sexual Spread	HPV, HBV
+Bird reservoir	WNV, west nile virus
+Liver transplant	HCV, hepatitis C virus
+Congenital hearing loss	CMV, Rubella
+Summer meningitis, teenagers	Non-polio enterovirus
+Pharyngoconjunctival Fever	Adenovirus – no exudate
+Roseola	HHV-6
+Lymphadenopathy, posterior auricular, suboccip	Rubella
+Ganciclovir	CMV
+Infant respiratory infection	RSV
+Inhaling rodent feces	Hantavirus
+Acute hemolytic anemia	Parvovirus B19
+Nucleocapsid	RSV
+Trigeminal Nerve	HSV-1
+Dane Particles	HBV, hepatitis B virus
+Epidemic gastroenteritis	Norwalk or norovirus
+Acyclovir	VZV, HSV
+Aplastic crises	Parvovirus B19
+HAV symptoms w/o HAV	HEV
+Westà East spread	Rotavirus
+Naked, dsDNA genome	HPV, Adenovirus
+Enveloped, dsDNA genome	HSV, VZV, CMV, EBV
+Enveloped, -ssRNA genome	Orthomyxovirus, RSV, hMPV, rabies, parainfluenza, Measles, Mumps (Ebola, hanta)
+Naked, +ssRNA genome	Rhinovirus, HAV, Enteroviruses, Norovirus, sapovirus, astrovirus
+Enveloped, +ssRNA genome	Coronavirus, rubella, WNV , HCV
+Genomes with RT enzyme, enveloped	HIV = +ssRNA, HBV = dsDNA
+Naked, ssDNA genome	Parvovirus B19
+Naked, dsRNA genome	Rotavirus (segmented)
+Naked Viruses	HPV, adeno, rhino, HAV, entero, noro, sapo, astro, Parvo, rota
+Enveloped Viruses	HSV, VZV, CMV, EBV, Orthomyxo, RSV, hMPV, rabies, parainfluenza, Measles, Mumps
+Icosahedral Viruses	Adeno, VZV, CMV, EBV
+Lower Resp. Infection in babies	"RSV=#1, Parainfelunza=#2"
+Exudative pharyngitis	Adenovirus
+SARS	Coronavirus
+Severe bronchiolitis	hMPV
+Tzanck Smear	HSV
+Blood transfusion infection	CMV
+Ultimate B cell Parasite	EBV
+Monospot test	EBV
+Vitamin A deficient infection	Measles
+Centrifugal rash	Measles
+PEG-IFN	Rx for HCV (+ribavirin)
+Fetal Hydrops	Parvovirus B19
+Hand, Foot and Mouth Syndrome	Coxsackievirus A16 (non-polio enterovirus)
+Pentavalent Vaccine	Rotateq
+Guillan Barre Mimicking	WNV
+Persistant IgM	WNV
+Coreceptor Switch	HIV (CCR5 à CXCR4)
+TORCHS	Toxoplasm, Rubella, CMV, HepB, Syphilis
+Fruiting Body	B. anthracis
+Viral infection	No phagocytes present!
+Mononuclear/interstitial inflammation	Lymphocytes and macros, intracellular or persisting infec
+Cytopathic inflammation	Viruses only
+Naked virus genome	Must be icosahedral, naked can not be helical,
+PFU	Plaque forming unit – amount in sample
++ssRNA strategy	Translate first, infectious by itself
+-ssRNA strategy	Transcribe first, have RNApol in capsid, not infectious
+Main cause of influenza variation	Segmented genome, antigenic shift
+3 influenza surface proteins	Hemagglutinin, Neuraminidase, M2 ion channel
+Main seasonal influenza strains	H1N1, H3N2
+Pandemic criteria	Novelty, virulent, R-factor (person transmission)
+Trivalent vaccine vs. flumist	Flumist is only for young, healthy people, no one at risk
+3 types of herpesviruses	Alpha(neuro), gamma(lympho), beta (not alpha/gamma)
+ICP47	Viral protein to block MHCI presentation in HSV-1
+Corneal transplant	HSV-1
+Neonatal herpes	HSV-2
+Most prevalent congenital infection	CMV
+Cervix shedding diseases	HSV worst, CMV is mild
+B cell Mitogen	EBV
+Gp320/gp42	EBV
+Viral Capsid Antigen Assay	EBV
+PTLD Rx	Rituximab
+G and F proteins	RSV paramyxovirus
+Severe complication of respiratory viruses	SIDS
+RSV prevention	Synagis
+Dubin-johnson disease	Increased conjugated bilirubin
+P and G proteins	Serotypes of Rotavirus for vaccines
+Confluent Rash	Measles, rubella
+Bone marrow Tx disease	Roseola, HHV-6
+Retrovirus enzymes	RT, integrase, protease
+M tropic HIV	CCR5
+T tropic HIV	CXCR4
+Δ32-ccr5 polymorphism	Homozygous, possibly HIV resistant, ccr5 antag drugs?
+gp120/gp41	HIV binding
+Enfuvirtide	HR2-gp41 antagonist, block binding to HR1, stop fusion
+HIV diagnosis	Viral RNA used til 4-6 weeks and Ig turns positive
+Exposed-uninfected	HIV resistant, only some are ccr5 neg-homozygous
+Rapid progressors	HIV into AIDS within 3 years
+Long term non-progressors	HIV for 20+years without AIDS
+Elite controllers	HIV so low can barely be detected, <50copies/mL
+Vif protein	Viral infectivity protein, required for infection
+Vpu protein	Viral protein unknown function – for virus release
+Non-permissive cells	Have anti-vpu and APOBEC3g
+APOBEC3G	Anti-vif protein
+Permissive cells	Lack anti-vpu and lack APOBEC3G, can be infected by viruses that also lack vif and vpu
+2 routes of entry for neurotropic viruses	Hematogenous and neural
+Meningitis triad	Fever, headache, photophobia, neck stiff
+Encephalitis Key	Early onset mental status change
+Kernig Sign	Resistance when try to flex hip and extend knee, pt flat
+Brudzinski Sign	Pt flat, try to flex neck, knees legs flex reflexively
+Confusion, hydrophobia	Rabies
+Centripetal and centrifugal viral spread	Rabies
+Rabies Rx	Depends on inoculating animal, vaccine and Ig
+Scrapie	Sheep spongiform encephalopathies
+Insomnia	CJD
+Startle myoclonus	CJD
+M/M129	Higher risk for vCJD, instead of valine
+Cortical blindness	CJD
+Young people spongiform	vCJD, old is regular CJD

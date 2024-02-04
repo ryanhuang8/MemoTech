@@ -1,0 +1,262 @@
+#separator:tab
+#html:false
+What is the relative mass of protons and neutrons?	1
+What is the relative mass of electrons?	1/1836
+What is the relative charge of protons?	+1
+What is the relative charge of neutrons?	0
+What is the relative charge of electrons?	-1
+What is the mass (kg) of a proton?	1.672 x 10^-27
+What is the mass of a neutron?	1.675 x 10^-27
+What is the mass (kg) of an electron?	9.109 x 10^-31
+What is the charge (C) of a proton?	1.602 x 10^-19
+What is the charge (C) of a neutron?	0
+What is the charge (C) of an electron?	1.602 x 10^-19
+Define ‘mass number’	Sun of protons + neutrons in the nucleus
+Define ‘atomic number’	Number of protons in nucleus (of atom)
+How do you work out the number of neutrons?	Mass number - atomic number
+What does the atomic number tell you (besides no of protons)?	Type of element
+What are the 2 definitions of ‘isotope’?	1) atoms with the same atomic no but diff mass no 2) same no of protons but diff no of neutrons
+Which subatomic particle wouldn’t be deflected by an electric field?	Neutron - bc it has no charge
+EQ: State 2 diff between ‘plum pudding’ model + modern atomic structure model	1) nucleus - protons + neutrons 2) electrons - arranged in orbitals
+How to calculate average relative atomic mass?	1) turn relative abundance into percentage/decimal 2) multiple by each isotope  3) add results together
+Define ‘bonding’	Electrostatic forces of attraction bw atoms/ions —> formation of compounds/molecules
+Define ‘ionic bond’	Electrostatic force of attraction between oppositely-charged ions
+Define ‘covalent bond’	Electrostatic force of attraction between shared pair of electrons + nuclei of 2 non-metal nuclei
+Define ‘metallic bond’	Electrostatic forge of attraction bw a lattice of cations + sea of delocalised electrons
+Define ‘conductor’	Substance —> enables flow of e-/charge —> flow through structure
+Define ‘melting point’	Temp —> substance changes state of matter: solid —> liquid
+Define ‘boiling point’	Temp substance changes state of matter: liquid —> gas
+Define ‘electrons’	(-) charged subatomic particles
+Define ‘electrostatic force’	Force of attraction/repulsion bw 2 charged particles
+Define ‘polar molecule’	Molecule containing polar bonds (arranged so dipoles don’t cancel —> permanent dipole across whole molecule)
+Why do elements bond? How?	To obtain more stable e- arrangement   By sharing/donating/accepting e-
+What are the 3 types of intramolecular forces (chemical bonds)?	Ionic, covalent, metallic bonding
+What is an intermolecular force?	Weak forces of attraction bw 2 diff molecules (eg simple covalent molecules)
+What is an intramolecular force?	Electrostatic force of attraction within molecules/compounds (bw atoms)
+What’s common between intramolecular + intermolecular forces?	Electrostatic forces of attraction
+What does ionic bonding occur between?	Metal + non-metal ions
+How are the ions formed in ionic bonding? What forces are involved?	Metal atom donates e- —> non-metal atom —> forming cation + anion (electrostatic force of attraction bw them)
+What charge do ionic compounds have?	Neutral
+What is impact of strong electrostatic forces of attraction in ionic bonding?	High melting + boiling points
+Are there intermolecular forces in ionic bonding?	No
+What suffix will ionic compound gain if non-metal reacts with 1 element?	-ide
+What suffix will ionic compound gain if non-metal is combined with O2?	-ate
+Why do ionic compounds have very high melting + boiling points? What is the structure like?	Strong electrostatic forces of attraction bw op charged ions (within giant ionic lattice structure)
+What are the 4 main properties of ionic compounds?	- very high MP + BP - brittle - soluble in water - conduct electricity (when molten/aq)
+Why are ionic compounds brittle?	Force —> lattice of alternations ions —> layers shift —> similarly charge ions = exposed + repel —> structure shatters
+Why are ionic compounds soluble in water?	Polar structure water —> attracted to ions —> surrounds surface of ions
+Why do ionic compounds conduct electricity when molten/aq?	Charged ions can flow (transferring charge + energy)    Solids - ions fixed in positions
+How does ion charge affect ionic bonding?	Greater the charge —> stronger ionic bonding
+How does size of ion impact strength of ionic bonding?	Smaller the ion —> stronger the ionic bonding
+What is the difference between single + double covalent bond?	Single = 1 shared pair of electrons Double = 2 shared pairs of electrons
+What is a dative covalent bond/coordinate bond?	2 non-metal atoms share pair of e- (both e- come from same atom)
+What are the properties of simple covalent molecules?	- low MP + BP - insulators  - do not conduct electricity
+Why do simple covalent molecules have low MP + BP?	Weak intermolecular forces (require little energy to break)
+Where does metallic bonding occur?	Within metal atoms
+How does metallic bonding occur (the process)?	When metal atoms lose outer shell of e- —> form charged cations (forming a lattice structure) —> e- surround ions as sea of delocalised e-
+What is metallic bonding?	A lattice structure of cations in sea of delocalised e-
+What are the 3 properties of metals?	- high MP + BP - conductors of heat + electricity  - malleable + ductile
+Why do metals have high MP + BP?	Strong electrostatic forces of attraction be lattice of cations + sea of delocalised e-
+Why are metals conductors?	Sea of delocalised e- —> flow throughout structure + transfer energy
+Why are metals malleable + ductile?	Lattice structure of cations —> can slide (relatively soft)
+What are the names of the 3 isotopes of hydrogen?	1 = Protium 2 = Deuterium 3 = Tritium
+Define ‘electronegativity’	The ability of an atom to attract a pair of electrons within a covalent bond
+How does electronegativity occur?	Positive nucleus attracts negatively charged electron pairs towards itself
+What is ‘The Pauling Scale’?	Value of electronegativity
+What is the most electronegative element?	Fluorine
+In what direction does electronegativity increase?	Towards fluorine
+Why don’t the noble gases have electronegativity values?	Don’t form covalent bonds —> chemically inert
+Are electrons shared equally within a covalent bond? Why?	No —> electronegativity determines how e- = shared
+What 3 factors determine electronegativity?	- nuclear charge - atomic radius  - shielding
+How does nuclear charge impact electronegativity? Why?	Increased nuclear charge = increased electronegativity    Increase proton no = increase in nuclear attraction
+How does atomic radius impact electronegativity? Why?	Increased atomic radius = decreased electronegativity   Closer —> nucleus = more strongly attracted —> (+) nucleus
+How does shielding impact electronegativity? Why?	Increased no of inner shells + subshells = decreased electronegativity    Filled energy levels —> outer electrons = less attracted —> force of nucleus
+How are nuclear charge, atomic radius + shielding linked?	Increase nuclear charge = greater attractive force on electrons in shells —> shielding doesn’t increase = atomic radius decreases
+What happens to electronegativity as you go across a period? Why?	Electronegativity increases    No of charge on nucleus increases —> attracts bonding pair more strongly
+What happens to electronegativity as you go down a group? Why?	Electronegativity decreases   Bonding pair = increasingly distant from attraction of nucleus
+What does it mean if atoms are ‘equally electronegative’ in a covalent bond?	Same tendency —> attract bonding pair of e- (halfway bw atoms)
+What types of elements have ‘equally electronegative’ atoms?	Diatomotic: H2, Cl2
+What is a ‘pure’ covalent molecule?	E- = shared evening between 2 atoms
+What is an ‘electron charge cloud’	Region of (-) charge around atomic nucleus (associated with atomic orbital)
+What happens if atoms are different in a covalent bond?	1 atom = more electronegative than other —> attracts e- pair more than other —> more electron dense = partially (-)
+Define ‘polar bond’	Covalent bond —> uneven distribution of e-    —> 1 side = partially (-), other = partially (+)
+What happens to the e- when 1 atom is more electronegative than the other?	Electron pair —> dragged to that end of bond (Other side = lost control of e-) Atom = control over both e-  Ion = formed
+What are the properties of a purely ionic substance?	- large diff in electronegativity - e- completely transferred - e- not shared
+What are the properties of a purely covalent substance?	- no diff in electronegativity  - e- not transferred - e- shared equally
+NaCl is an ionic solid but…	Hasn’t completely lost control of its e-
+How is LiI described? Why?	Ionic w some covalent character   E- pair —> not moved entirely to iodine end of bond
+What does LiI do that ionic substances don’t usually do?	Dissolve in solvents
+Why are only the bonds polar in CCl4?	Doesn’t have end —> slightly (-) + slightly (+)
+Is CHCl3 polar? Why?	H at top = less electronegative than C —> slightly (+)  —> slightly (+) top + slightly (-) bottom = POLAR
+Why is AlCl3 covalent as a solid but ionic as molten/aq?	- Al3+ = very small —> charge density = very high (3 (+) charges)   - Al3+ —> polarises Cl-   - E- pairs —> Al (bonds = covalent)
+What type of bonds form bw AlCl3? Why?	Polar covalent bonds  Cl- electronegative > Al3+  E- pairs pulled > half way
+Define ‘polarising’	Electrically distorting
+What are the components of a smaller ion/atom?	- less shielding - small ionic radius
+Define ‘polarising ability’?	Ability to attract e- towards itself
+What can non-metal ions polarise?	Nearby metal atoms
+What impacts polarising ability?	Charge density (NM ion)
+What 2 factors makes polarising ability increase?	- NM ion gets smaller - charge no gets larger
+How does size of metal ion affect polarising ability?	M ion gets bigger = easier to polarise
+What type of bonding is Aluminium Iodide (AlI)?	Covalent —> e- pair = easily dragged away from I-
+What type of bonding is AlF?	Ionic —> Al3+ can’t polarise small F- (to form covalent bond)
+What are Fajan’s rules?	Rules to predict: chemical bond = covalent/ionic
+What are the properties of ionic bond (acc to Fajan’s Rules)?	- low (+) charge - large cation - small anion
+What are the properties of covalent bonding (acc to Fajan’s rules)?	- high (+) charge - small cation - large anion
+What type of bonding will it be if cation is smaller?	Smaller cation —> vol of ions = less  —> higher charge density —> high polarising power = covalent
+What type of bonding is it if there is a larger anion w small nuclear charge?	Covalent
+Define ‘relative mass’	Weighted avg compared —> 1/12 of mass of carbon-12 atom
+Define ‘isotope’:	Atoms with = no of protons but diff no of neutrons
+What happens as shell/energy level increases?	Energy increases
+How do you work out e- no in shell n?	2n^2
+What makes up shells/energy levels?	Sub-shells/sub-energy levels
+What makes up sub-shells/sub-energy levels?	Atomic orbitals of same type
+Define ‘atomic orbital’	Region of space that can hold 2 e- w opp spin
+What type of orbital does every shell have?	S-orbital
+What makes up the ‘s’ sub shell?	1 ‘s’ orbital —> holding up to 2 e-
+What type of orbitals are found from shells 2 (n=2) upwards?	‘P’ orbitals
+What makes up ‘p’ subshell?	3 ‘p’ orbitals —> holding up to 6e- (in total)
+What are the 3 types of intermolecular forces (in order of decreasing strength?	1) Hydrogen bonding 2) dipole dipole forces 3) Van der Waals forces
+What is a ‘lone pair’ of e-?	E- not used in bonding
+What atoms are required for hydrogen bonding?	Hydrogen + Fluorine Or Oxygen Or Nitrogen
+What are 3 reasons for FON in hydrogen bonding?	—> Very electronegative —> lone pair of e-  —> -OH or - NH griup
+What happens during hydrogen bonding?	H = covalently bonded —> electronegative atom (FON) —> bond = very highly polarised    —> H becomes partially positive —> form a bond with lone pair of an ON atom in another molecule
+How do dipole-dipole forces arise?	Partially positive end of 1 molecule = attracted —> partially negative end of other molecule
+Give examples of molecules with dipole-dipole forces	—> hydrogen bromide —> hydrogen iodide —> H2SO4 —> HCl
+How do Van der Waals forces arise?	Non-polar mol’s e- = dynamic —> e- density = greater on 1 side than other (temp dipole) —> induces dipole in nearby molecule    Attraction bw 2 temp dipoles
+How does atom no impact strength of VDW forces?	More atoms in molecule = more e- —> stronger VDW force
+How are the e- arranged in VDW forces?	Move around randomly
+What type of molecules are required for Dipole dipole forces?	2 polar mols
+Why do some molecules have same no of C + H atoms but diff boiling points?	Structure of molecules —> branched: weaker VDW forces —> lower BP
+What forces must be broken in molecules when we boil them?	Intermolecular (intramolecular covalent bonds = same) —> Inter forces = broken + water molecules —> gas particle formation
+What did both Witte + Stolypin aim to do?	Modernise Russia
+How can Sergei Witte be politically described?	Liberal reformist
+He was appointed director of what department? When?	Department of Railway Affairs (1899)
+What did Witte drive the expansion of?	Trans-Siberian Railway
+What economic reform was Sergei Witte responsible for?	‘The Great Spurt’
+Bw what years was Witte Chief Minister?	1903–1906
+What did Witte say the main problems with Russia are?	—> should be making goods (not importing) —> haven’t industrialised —> Russia = exploited by West Europe (treated like colony)
+How does industrialisation help Russia to overcome problems? (Eg importing goods + being treated like colony)	Russia = able to trade, produce goods on own terms (no need to rely on West Europe)
+Witte knew that Russia’s military strength depended on ability to, what?	produce modern weapons —> depended on developed industries
+What is the name of Stage 1 of ToFMS?	Ionisation
+What are the 2 ways of ionisation in ToFMS?	—> electron impact ionisation  —> electrospray ionisation
+How does ionisation occur in electron impact ionisation?	Sample = vaporised —> high energy e- = fired at it —> knocks 1e- from each particle —> 1+ ion
+Where do the high energy e- come from and n electron impact ionisation?	‘Electron gun’
+What is an ‘electron gun’?	Hot wire filament w current running through that emits e-
+What types of elements is electron impact ionisation used for?	Elements/substance w low RFM
+What is the generic formula to show electron impact ionisation?	X(g) —> X+(g) + e-
+What are the 1+ ions called after electron impact ionisation?	Molecular ion
+Which type of ionisation is prone to fragmentation?	Electron impact ionisation
+How does electrospray ionisation occur?	Sample dissolve —> volatile solvent + injected through fine hypodermic needle —> fine mist —> gain proton as leave needle (ionised)
+What is the tip of the needle attached to in electrospray ionisation?	(+) terminate of high-voltage power supply
+What is the general formula for ionisation in electrospray ionisation?	X(g) + H+ —> XH+(g)
+What are the ions attracted to in both types of ionisation?	Negative plate (where accelerated)
+What types of substances are ionised via electrospray ionisation?	Higher molecular mass (eg biological substances: proteins)
+What is electrospray ionisation also known as?	‘Soft’ ionisation (fragmentation rarely takes places)
+What is the 2nd stage of ToFMS?	Acceleration
+How are (+) ions accelerated in ToFMS? What is the impact?	Using electric field —> all = same KE
+What is the rearrangement of physics KE equation?	V = \(2KE/m)
+As all particles have same KE, what does velocity of particle depend on?	Mass —> light = faster velocity, heavier = slower velocity
+What is stage 3 of ToFMS?	Flight tube
+What happens in flight tube stage?	(+) ions —> travel through hole in (-) charged plate —> tube
+What does Time of Flight of particles dependent on?	Velocity (dependent on mass)
+What is the equation to calculate Time of Flight?	t = d\(m/2KE)
+Which types of ions reach detector first?	Lighter bc travel faster + reach detector first
+What is stage 4 of ToFMS?	Detection
+What happens in Detection stage of ToFMS?	(+) ions hit (-) e- plate —> (+) ions = discharge by gaining e- (from plate) —> movement of e- —> electric current measured
+What does size of current on (-) plate measure?	No of ions hitting plate
+How can you find out RAM of isotopes produce by the Mass Spectrum?	Calculate mean mass of isotopes
+What is the equation for RAM?	Combined mass (all isotopes)/combined abundance (all isotopes)
+What is m/z value?	Mass to charge
+Out of the molecules ionised by e- impact, what type of ion has the greatest m/z value? Why?	Molecule ion —> highest molecular mass
+What does the higher the m/z charge prove?	The higher the relative molecular mass
+When using electron impact ionisation, why are there lower m/z values?	Fragments of molecular ion
+State in terms of fundamental particles, why the isotopes 10B + 11B have similar chemical reactions (1)	—> same no of e- (in outer shell/orbital) OR —> same e- configuration/arrangement
+EQ: State the relative change + relative mass of a proton, a neutron + e-   In terms of particles, explain the relationship bw 2 isotopes of same element   Explain why these isotopes have identical chemical properties	—> proton: mass = 1, charge = +1 (1) —> neutron: mass = 1, charge = 0 (1) —> e-: mass = 1/1840, charge = -1 (1)   —> isotopes have = no of protons (1) —> diff no of e- (1)   —> isotopes have = e- configuration (1) —> chem properties depend on e- (1)
+Define ‘ionic compound’	A giant ionic lattice arranged in alternating cations + anions
+Define ‘ionic lattice’	Giant 3D structure of regularly arranged columns + rows of alternating pos + neg ions
+What compound has a higher melting point, NaCl or NaI? — explain why	NaCl = higher melting point as Cl- = smaller than I- (+ has same charge)
+Why are covalent molecules gases, liquids or have low melting points?	Weak intermolecular forces (require little energy to break/overcome)
+Define ‘dative covalent bond’	2 non-metal atoms share pair of e- (both e- come from 1 atom)
+Compare + contrast metallic + ionic bonding	Both = electrostatic force of attraction   Metallic = attraction bw matrix of catiojsbin sea of delocalised e-   Ionic compound: force or attraction bw oppositely charged ions
+Explain why metals are good conductors or heat + electricity	Sea of delocalised e- which can flow throughout the structure + transfer energy
+Explain why metals can be malleable	Giant lattice structure where ions = arranged neatly in rows —> when force = applied: layers can slide past each other
+Why do metals have high melting points?	Strong electrostatic forces of attraction be lattice of cations + sea of delocalised e- (which require large amounts of energy to break)
+EQ: Explain in terms of structure +. I don’t why nickel has a high melting point	Strong electrostatic forces of attraction bw lattice of cations + sea of delocalised e-
+EQ: Suggest why the melting point of NaI is lower than melting point of NaBr (1)	—> Br- = smaller than I- —> so less attraction to Na+ ion
+EQ: Explain why Mg has a big glee melting point than Na (2)	(1) more protons (2) attracts delocalised e- more strongly
+Why do diamond + graphite both have high melting points?	(1) macromolecular (2) covalent (3) strong covalent bonds
+EQ: Why is graphite a good conductor of electricity? (1)	Delocalised e-
+EQ: Why is graphite soft? (2)	(1) planes (2) weak forces bw planes
+EQ: in terms of structure + bonding - explain why BP of Br = diff to Mg   Suggest why Mg = liquid over greater temp range (5)	(1) Br = (simple) molecular (2) Mg = metallic/consists of cations in sea of delocalised e- (3) Br = weak intermolecular forces/(VDW) forces bw molecules (4) so more energy = needed to overcome the stronger metallic bonds  (5) Mg has greater liquid range bc forces of attraction in molten metals + stronger
+When do ionic bonds occur? (2)	—> metal donates e- —> non metal —> strong electrostatic do cos of attractions oppositely charged ions
+Are e- shared equally in a covalent bond?	No —> atoms’ electronegativity determines how e- are shared
+Explain why oxygen is more electronegative than sulphur	—> O2 = smaller atomic radius + less shielding  —> greater electronegativity
+Why is phosphorus more electronegative than fluorine?	Smaller nuclear charge than Cl2
+Why is chlorine more electronegative than iodine?	Iodine: greater shielding + greater atomic radius
+Explain the electronegativity across a period	—> Across period: level of shielding stays same  —> hw nuclear charge increase by 1+  —> electronegativity of each element increases
+Explain the electronegativity down a group	Decreases: —> bonding pair of e- become increasingly distant from attraction of nucleus —> + shielding
+What is the name of the 3D diagrams of molecules?	Fischer proj diagrams
+What is the election pair repulsion theory?	E- = spaces: ‘orbitals’ —> (-) so repel other pairs —> e- distance (minimise repulsion
+What is the order of repulsion in molecules	Lp-Lp > Lp-Bp > Bp-Bp
+How do we use EPR to predict shape of molecules?	—> each e- pair around atom repels all other pairs —> e- pairs: position far away —> min repulsion
+What is the shape + angles of molecule w 2Bp?	Linear (180°)
+What is the shape + angles of a molecule w 3Bp?	Trigonal Planar (120°)
+What is the shape + angles of molecule w 4 Bp?	Tetrahedral (109.5°)
+What is the shape + angles of molecules with 5Bp?	Trigonal bipyramid (90° + 120°)
+What is the shape + angles of molecule w 6Bp?	Octahedral (90°)
+What is the shape + angles of molecule w 3Bp + 1Lp?	Bent/non-linear (117.5°)
+What is the shape + angles of molecule w 4Bp + 1Lp?	Trigonal pyramidal (107°)
+What is the shape + angles of molecule w 5Bp + 1Lp?	Seesaw (120° + 86.5°)
+What is the shape + angles of molecule with 6Bp + 1Lp?	Square pyramid (90°)
+What is the shape + angles of molecule w 4Bp + 2 Lp?	Bent/non-linear (104.5°)
+What is the shape + angles of molecule w 5Bp + 2Lp?	T-shaped (87.5°)
+What is the shape + angles of molecule w 6Bp + 2Lp?	Square planar (90°)
+What is the shape + angles of molecule w 5Bp + 3Lp?	Linear (180°)
+What is the shape + angles of molecule w 6Bp + 3Lp?	T-shaped (87.5°)
+What is the shape + angles of molecule w 6Bp + 4Lp?	Linear (180°)
+What is the rule about molecule angles and lone pairs?	-2.5° per Lp
+What was J.J. Thomson’s atom discovery? What year?	1897 - Atoms = divisible + contain neutral particles (neutrons)
+What was Ernest Rutherford’s atom discovery? Which year?	1897 - Nucleus + extra nuclear part —> (+) charged + (-) e- revolve around central nucleus
+What was James Chadwick’s atom discovery? Which year?	1932 - atoms = neutral particles (neutrons) —> nucleus
+What was John Dalton’s atom discovery? What year?	1803 - all matter = made up of tiny particles (atoms)
+What was what was Niels Bohr’s atom discovery? Which year?	1915 - e- orbit around nucleus (in orbits) with set size + energy
+What was Wolfgang Pauli’s atom discovery? Which year?	1924 - concept of electron spin
+Define ‘1st Ionisation energy’	Energy required —> remove outer e- from neutral atom in gas or phase
+How does 1st ionisation energy change as you go down a group? (Give 2 reasons)	Decreases —> e- = further from nucleus —> less attraction —> more shielding —> less attraction
+EQ: 1 of the methods of ionising samples in ToF MS is by electron impact? How is this ionisation done? (4)	—> high energy e- —> from electron gun —> fired at sample —> knocks of 1e-
+EQ: explain why diff ions take diff times —> travel through flight tube	—> ToF depends on mass of ions —> smaller ions = lighter + so travel faster
+What were 5 policies of Sergei Witte?	—> ‘The Great Spurt’ —> ‘gold standard’ —> high import duties —> increased indirect taxes —> developed industries: coal + iron (large factories)
+What was the impact of ‘The Great spurt’ economic reform program?	—> economy = booming —> output increased: 96% (other euro countries = 40%)
+What was the impact of putting rouble on ‘gold standard’?	—> prevented inflation —> currency = based on how much gold you have (Russia = lots) —> encouraged investment + trade from abroad
+What was the impact of high import duties?	—> more Russian goods = bought —> Russia = less manipulated by west euro —> ST: borrowed loans (Fr), LT: booming economy
+What was the impact of increasing indirect taxes?	Increased state revenue (brings in more money)
+What was the impact of developing coal + iron industries?	Russia = imports less goods —> made in Russia (instead)
+What was the impact of Witte expanding railways?	—> improve exports —> connection (country)
+What was the impact of Witte putting tariffs on imports?	—> protect Russian industries —> decrease revenue —> similar tariffs (imposed by other nations)
+How are electrons arranged in atoms?	Occupy certain energy levels
+How are energy levels arranged?	Increasing energy = further from nucleus
+What makes up each energy level?	1/more sub-levels or subshells
+What are the 4 types of sub-levels?	S, p, d, f
+How many e- can be held in ‘s’ sub level?	2e-
+How many e- can be held in ‘p’ sub-level	6e-
+How many e- can be held on ‘d’ sub-shell?	10e-
+How many e- can be held in ‘d’ sub-shell?	14e-
+What is the relationship between sub-shells in terms of energy level?	Increasing energy level: s —> p —> d —f
+What is the ‘Afbau principle’?	E- fill in order of increasing energy
+Why do we fill 4s sub-level before 3d?	Lower in energy
+Define ‘orbital’	Defined region of space close to nucleus
+What is the chance of finding in an e- in an orbital?	95%
+How many e- can an orbital hold?	2e-
+What 2 states can e- live in?	Spin up + spin diwb
+What must happen when 2e- occupy one orbital?	Must have opposite spins
+What is the ‘Pauli exclusion principle’?	2e- in orbital —> opposite spins
+What is the shape of ‘p’ orbital?	Figure if 8
+What is shape of ‘s’ orbital?	Spherical circle
+How many orbitals in ‘s’ sub-level?	1
+How many orbitals in ‘p’ sub-level?	3
+How many orbitals in ‘d’ sub-level?	5
+How do we show e- in orbitals in spin diagrams?	Using arrows
+What is the electron configuration of Cr?	1s2 2s2 2p6 3s2 3p6 4s1 3d5
+Why are full/half-full sub-levels more stable?	No repulsion —> singularly arranged
+What are columns called in the periodic table?	Groups
+What are rows called in the periodic table?	Periods

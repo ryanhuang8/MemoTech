@@ -1,0 +1,54 @@
+#separator:tab
+#html:false
+supine	laying on the back
+prone	laying on the stomach
+lateral recumbent	lying on the side
+standing anatomical position	palms facing forward, standing
+back	neck to right above buttocks
+throrax	chest, surrounded by ribcage
+abdomen	stomach region
+pelvic cavity	pelvis
+perineum	genitalia
+upper extremities	upper limbs
+lower extremity	full leg
+frontal (coronal) plane	anterior/posterior planes
+transverse plane	horizontal plane
+median plane or saggital plane	left/right portions
+parasagittal plane	left and right portions, not even halves
+longitudinal section	cut an extremity length wise
+transverse section	horizontal section of a part
+oblique section	any section of the body not following traditional planes
+anterior	ventral, front of body
+posterior	dorsal, back of body
+superior	cranial, cephalad, towards the head
+inferior	caudal, towards the feet
+lateral	away from the midline
+medial	towards the midline
+proximal	towards the trunk
+distal	towards the end of the extremity
+median	the middle or midline of the body
+superficial	towards the surface of the skin
+deep	farther from the skin
+flexion	decreases and angle, makes it more acute
+extension	increases an angle, making it less acute
+trunk flexion	moving forward
+trunk extension	leaning backward
+abduction	away from the midline
+adduction	towards the midline
+lateral rotation	anterior side spins away from the midline
+medial rotation	anterior side spins toward the midline
+lateral bending	lateral flexion leaning sideways
+elevation	movement in superior direction
+depression	movement in the inferior direction
+tendons	connects muscle to bone
+ligaments	connects bone to bone
+aponeurosis	broad flat tendon
+bellie	muscle bellies usually in the middle of the muscle, the part that contracts
+insertion	end that moves the bone
+origin	end that doesn't move with muscle contraction
+insertion/origin	insertion usually distal, origin usually proximal
+innervation	what nerve supplies the muscle, generally deep to their target muscle
+anastomosis	when arteries converge with each other
+fascia	band of fibrous connective tissue
+superficial fascia	between skin and underlying organs, adipose tissue
+deep fascia	strong fibrous network, dense connective tissue, on muscles, tendons, ect

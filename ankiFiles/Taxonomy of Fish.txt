@@ -1,0 +1,1248 @@
+#separator:tab
+#html:false
+Order: Carcharhiniformes   Family: Carcharhinidae	Family: Requiem Sharks
+Order: Carcharhiniformes   Family: Requiem Sharks	Family: Carcharhinidae
+Order: Carcharhiniformes   Family: Hemigaleidae	Family: Weasel Sharks
+Order: Carcharhiniformes   Family: Weasel Sharks	Family: Hemigaleidae
+Order: Carcharhiniformes   Family: Leptochariidae	Family: Barbled Houndshark
+Order: Carcharhiniformes   Family: Barbled Houndshark	Family: Leptochariidae
+Order: Carcharhiniformes   Family: Proscylliidae	Family: Finback Cat Sharks
+Order: Carcharhiniformes   Family: Finback Cat Sharks	Family: Proscylliidae
+Order: Carcharhiniformes   Family: Pseudotriakidae	Family: False Cat Sharks
+Order: Carcharhiniformes   Family: False Cat Sharks	Family: Pseudotriakidae
+Order: Carcharhinidae   Family: Scyliorhinidae	Family: Cat Sharks
+Order: Carcharhinidae   Family: Cat Sharks	Family: Scyliorhinidae
+Order: Carcharhiniformes   Family: Sphyrnidae	Family: Hammerhead Sharks
+Order: Carcharhiniformes   Family: Hammerhead Sharks	Family: Sphyrnidae
+Order: Carcharhiniformes   Family: Triakidae	Family: Hound Sharks
+Order: Carcharhiniformes   Family: Hound Sharks	Family: Triakidae
+Order: Heterodontiformes   Family: Heterodontidae	Family: Bullhead Sharks
+Order: Heterodontiformes   Family: Bullhead Sharks	Family: Heterodontidae
+Order: Lamniformes   Family: Alopiidae	Family: Thresher Sharks
+Order: Lamniformes   Family: Thresher Sharks	Family: Alopiidae
+Order: Lamniformes   Family: Cetorhinidae	Family: Basking Shark
+Order: Lamniformes   Family: Basking Shark	Family: Cetorhinidae
+Order: Lamniformes   Family: Lamnidae	Family: Mackerel Sharks
+Order: Lamniformes   Family: Mackerel Sharks	Family: Lamnidae
+Order: Lamniformes   Family: Megachasmidae	Family: Megamouth Sharks
+Order: Lamniformes   Family: Megamouth Sharks	Family: Megachasmidae
+Order: Lamniformes   Family: Mitsukurinidae	Family: Goblin Sharks
+Order: Lamniformes   Family: Goblin Sharks	Family: Mitsukurinidae
+Order: Lamniformes   Family: Odontaspididae	Family: Sand Sharks
+Order: Lamniformes   Family: Sand Sharks	Family: Odontaspididae
+Order: Lamniformes   Family: Pseudocarchariidae	Family: Crocodile Sharks
+Order: Lamniformes   Family: Crocodile Sharks	Family: Pseudocarchariidae
+Order: Orectolobiformes   Family: Brachaeluridae	Family: Blind Sharks
+Order: Orectolobiformes   Family: Blind Sharks	Family: Brachaeluridae
+Order: Orectolobiformes   Family: Ginglymostomatidae	Family: Nurse Sharks
+Order: Orectolobiformes   Family: Nurse Sharks	Family: Ginglymostomatidae
+Order: Orectolobiformes   Family: Hemiscylliidae	Family: Bamboo Sharks
+Order: Orectolobiformes   Family: Bamboo Sharks	Family: Hemiscylliidae
+Order: Orectolobiformes   Family: Orectolobidae	Family: Wobbegong Sharks
+Order: Orectolobiformes   Family: Wobbegong Sharks	Family: Orectolobidae
+Order: Orectolobiformes   Family: Parascylliidae	Family: Collared Carpet Sharks
+Order: Orectolobiformes   Family: Collared Carpet Sharks	Family: Parascylliidae
+Order: Orectolobiformes   Family: Rhincodontidae	Family: Whale Sharks
+Order: Orectolobiformes   Family: Whale Sharks	Family: Rhincodontidae
+Order: Orectolobiformes   Family: Stegostomatidae	Family: Zebra Sharks
+Order: Orectolobiformes   Family: Zebra Sharks	Family: Stegostomatidae
+Order: Echinorhiniformes   Family: Echinorhinidae	Family: Bramble Sharks
+Order: Echinorhiniformes   Family: Bramble Sharks	Family: Echinorhinidae
+Order: Hexanchiformes   Family: Chlamydoselachidae	Family: Frilled Sharks
+Order: Hexanchiformes   Family: Frilled Sharks	Family: Chlamydoselachidae
+Order: Hexanchiformes   Family: Hexanchidae	Family: Cow Sharks
+Order: Hexanchiformes   Family: Cow Sharks	Family: Hexanchidae
+Order: Pristiophoriformes   Family: Pristiophoridae	Family: Saw Sharks
+Order: Pristiophoriformes   Family: Saw Sharks	Family: Pristiophoridae
+Order: Squaliformes   Family: Centrophoridae	Family: Gulper Sharks
+Order: Squaliformes   Family: Gulper Sharks	Family: Centrophoridae
+Order: Squaliformes   Family: Dalatiidae	Family: Kitefin Sharks
+Order: Squaliformes   Family: Kitefin Sharks	Family: Dalatiidae
+Order: Squaliformes   Family: Etmopteridae	Family: Lantern Sharks
+Order: Squaliformes   Family: Lantern Sharks	Family: Etmopteridae
+Order: Squaliformes   Family: Oxynotidae	Family: Rough Sharks
+Order: Squaliformes   Family: Rough Sharks	Family: Oxynotidae
+Order: Squaliformes   Family: Somniosidae	Family: Sleeper Sharks
+Order: Squaliformes   Family: Sleeper Sharks	Family: Somniosidae
+Order: Squaliformes   Family: Squalidae	Family: Dogfish Sharks
+Order: Squaliformes   Family: Dogfish Sharks	Family: Squalidae
+Order: Squatiniformes   Family: Squatinidae	Family: Angel Sharks
+Order: Squatiniformes   Family: Angel Sharks	Family: Squatinidae
+Order: Torpediniformes   Family: Narcinidae	Family: Numbfishes
+Order: Torpediniformes   Family: Numbfishes	Family: Narcinidae
+Order: Torpediniformes   Family: Torpedinidae	Family: Torpedo Rays
+Order: Torpediniformes   Family: Torpedo Rays	Family: Torpedinidae
+Order: Pristiformes   Family: Pristidae	Family: Sawfish
+Order: Pristiformes   Family: Sawfish	Family: Pristidae
+Order: Rajiformes   Family: Anacanthobatidae	Family: Smooth Skates
+Order: Rajiformes   Family: Smooth Skates	Family: Anacanthobatidae
+Order: Rajiformes   Family: Rajidae	Family: Skates
+Order: Rajiformes   Family: Skates	Family: Rajidae
+Order: Rajiformes   Family: Rhinidae	Family: Bowmouth Guitarfish
+Order: Rajiformes   Family: Bowmouth Guitarfish	Family: Rhinidae
+Order: Rajiformes   Family: Rhinobatidae	Family: Guitarfish
+Order: Rajiformes   Family: Guitarfish	Family: Rhinobatidae
+Order: Rajiformes   Family: Rhynchobatidae	Family: Wedgefishes
+Order: Rajiformes   Family: Wedgefishes	Family: Rhynchobatidae
+Order: Myliobatiformes   Family: Dasyatidae	Family: Whiptail Stingrays
+Order: Myliobatiformes   Family: Whiptail Stingrays	Family: Dasyatidae
+Order: Myliobatiformes   Family: Gymnuridae	Family: Butterfly Rays
+Order: Myliobatiformes   Family: Butterfly Rays	Family: Gymnuridae
+Order: Myliobatiformes   Family: Hexatrygonidae	Family: Sixgill Stingrays
+Order: Myliobatiformes   Family: Sixgill Stingrays	Family: Hexatrygonidae
+Order: Myliobatiformes   Family: Myliobatidae	Family: Eagle Rays
+Order: Myliobatiformes   Family: Eagle Rays	Family: Myliobatidae
+Order: Myliobatiformes   Family: Platyrhinidae	Family: Thornback Rays
+Order: Myliobatiformes   Family: Thornback Rays	Family: Platyrhinidae
+Order: Myliobatiformes   Family: Plesiobatidae	Family: Deepwater Stingrays
+Order: Myliobatiformes   Family: Deepwater Stingrays	Family: Plesiobatidae
+Order: Myliobatiformes   Family: Potamotrygonidae	Family: River Stingrays
+Order: Myliobatiformes   Family: River Stingrays	Family: Potamotrygonidae
+Order: Myliobatiformes   Family: Urolophidae	Family: Round Stingrays
+Order: Myliobatiformes   Family: Round Stingrays	Family: Urolophidae
+Order: Myliobatiformes   Family: Urotrygonidae	Family: American Round Stingrays
+Order: Myliobatiformes   Family: American Round Stingrays	Family: Urotrygonidae
+Order: Myliobatiformes   Family: Zanobatidae	Family: Panrays
+Order: Myliobatiformes   Family: Panrays	Family: Zanobatidae
+Order: Chimaeriformes   Family: Callorhinchidae	Family: Plough-nose Chimaeras
+Order: Chimaeriformes   Family: Plough-nose Chimaeras	Family: Callorhinchidae
+Order: Chimaeriformes   Family: Chimaeridae	Family: Shortnose Chimaeras
+Order: Chimaeriformes   Family: Shortnose Chimaeras	Family: Chimaeridae
+Order: Chimaeriformes   Family: Rhinochimaeridae	Family: Long-nosed Chimaeras
+Order: Chimaeriformes   Family: Long-nosed Chimaeras	Family: Rhinochimaeridae
+Order: Hagfish	Order: Myxiniformes
+Order: Myxiniformes	Order: Hagfish
+Order: Myxiniformes   Family: Myxinidae	Family: Hagfish
+Order: Myxiniformes   Family: Hagfish	Family: Myxinidae
+Order: Lampreys	Order: Petromyzontiformes
+Order: Petromyzontiformes	Order: Lampreys
+Order: Petromyzontiformes   Family: Geotriidae	Family: Pouched Lamprey
+Order: Petromyzontiformes   Family: Pouched Lamprey	Family: Geotriidae
+Order: Petromyzontiformes   Family: Mordaciidae	Family: Southern Topeyed Lampreys
+Order: Petromyzontiformes   Family: Southern Topeyed Lampreys	Family: Mordaciidae
+Order: Petromyzontiformes   Family: Petromyzontidae	Family: Northern Lampreys
+Order: Petromyzontiformes   Family: Northern Lampreys	Family: Petromyzontidae
+Order: Queensland Lungfish	Order: Ceratodontiformes
+Order: Ceratodontiformes	Order: Queensland Lungfish
+Order: Lungfish (African and American)	Order: Lepidosireniformes
+Order: Lepidosireniformes	Order: Lungfish (African and American)
+Order: Ceratodontiformes   Family: Ceratodontidae	Family: Queensland Lungfish
+Order: Ceratodontiformes   Family: Queensland Lungfish	Family: Ceratodontidae
+Order: Lepidosireniformes   Family: Lepidosirenidae	Family: South American Lungfish
+Order: Lepidosireniformes   Family: South American Lungfish	Family: Lepidosirenidae
+Order: Lepidosireniformes   Family: Protopteridae	Family: African Lungfish
+Order: Lepidosireniformes   Family: African Lungfish	Family: Protopteridae
+Order: Coelacanths	Order: Coelacanthiformes
+Order: Coelacanthiformes	Order: Coelacanths
+Order: Coelacanthiformes   Family: Latimeriidae	Family: Coelacanths
+Order: Coelacanthiformes   Family: Coelacanths	Family: Latimeriidae
+Order: Sturgeons and Paddlefish	Order: Acipenseriformes
+Order: Acipenseriformes	Order: Sturgeons and Paddlefish
+Order: Bichirs and Reedfish	Order: Polypteriformes
+Order: Polypteriformes	Order: Bichirs and Reedfish
+Order: Acipenseriformes   Family: Acipenseridae	Family: Sturgeons
+Order: Acipenseriformes   Family: Sturgeons	Family: Acipenseridae
+Order: Acipenseriformes   Family: Polydontidae	Family: Paddlefish
+Order: Acipenseriformes   Family: Paddlefish	Family: Polydontidae
+Order: Polypteriformes   Family: Polypteridae	Family: Bichirs and Reedfish
+Order: Polypteriformes   Family: Bichirs and Reedfish	Family: Polypteridae
+Order: Bowfin	Order: Amiiformes
+Order: Amiiformes	Order: Bowfin
+Order: Gars	Order: Lepisosteiformes
+Order: Lepisosteiformes	Order: Gars
+Order: Amiiformes   Family: Amiidae	Family: Bowfin
+Order: Amiiformes   Family: Bowfin	Family: Amiidae
+Order: Lepisosteiformes   Family: Lepisosteidae	Family: Gar
+Order: Lepisosteiformes   Family: Gar	Family: Lepisosteidae
+Order: Bony-tongued Fish	Order: Osteoglossiformes
+Order: Osteoglossiformes	Order: Bony-tongued Fish
+Order: Osteoglossiformes   Family: Gymnarchidae	Family: Aba Aba Knifefish
+Order: Osteoglossiformes   Family: Aba Aba Knifefish	Family: Gymnarchidae
+Order: Osteoglossiformes   Family: Mormyridae	Family: Elephantfishes
+Order: Osteoglossiformes   Family: Elephantfishes	Family: Mormyridae
+Order: Osteoglossiformes   Family: Notopteridae	Family: Featherfin Knifefishes
+Order: Osteoglossiformes   Family: Featherfin Knifefishes	Family: Notopteridae
+Order: Osteoglossiformes   Family: Arapaimidae	Family: Boneytongues
+Order: Osteoglossiformes   Family: Boneytongues	Family: Arapaimidae
+Order: Osteoglossiformes   Family: Pantodontidae	Family: Arowana
+Order: Osteoglossiformes   Family: Arowana	Family: Pantodontidae
+Order: Mooneyes	Order: Hiodontiformes
+Order: Hiodontiformes	Order: Mooneyes
+Order: Hiodontiformes   Family: Hiodontidae	Family: Mooneye
+Order: Hiodontiformes   Family: Mooneye	Family: Hiodontidae
+Order: Tarpon and Ladyfish	Order: Elopiformes
+Order: Elopiformes	Order: Tarpon and Ladyfish
+Order: Elopiformes   Family: Elopidae	Family: Ladyfish
+Order: Elopiformes   Family: Ladyfish	Family: Elopidae
+Order: Elopiformes   Family: Megalopidae	Family: Tarpon
+Order: Elopiformes   Family: Tarpon	Family: Megalopidae
+Order: Bonefish	Order: Albuliformes
+Order: Albuliformes	Order: Bonefish
+Order: Albuliformes   Family: Albulidae	Family: Bonefish
+Order: Albuliformes   Family: Bonefish	Family: Albulidae
+Order: Spiny Eels and Halosaurs	Order: Notacanthiformes
+Order: Notacanthiformes	Order: Spiny Eels and Halosaurs
+Order: Notacanthiformes   Family: Halosauridae	Family: Halosaurs
+Order: Notacanthiformes   Family: Halosaurs	Family: Halosauridae
+Order: Notacanthiformes   Family: Notacanthidae	Family: Deep-sea Spiny Eels
+Order: Notacanthiformes   Family: Deep-sea Spiny Eels	Family: Notacanthidae
+Order: Eels and Gulpers	Order: Anguilliformes
+Order: Anguilliformes	Order: Eels and Gulpers
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Anguillidae	Family: Freshwater Eels
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Freshwater Eels	Family: Anguillidae
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Chlopsidae	Family: False Morays
+Order: Anguilliformes (Suborder Anguilloidei)   Family: False Morays	Family: Chlopsidae
+Order: Anguilliformes   Family: Heterenchelyidae	Family: Mud Eels
+Order: Anguilliformes   Family: Mud Eels	Family: Heterenchelyidae
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Moringuidae	Family: Spaghetti Eels
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Spaghetti Eels	Family: Moringuidae
+Order: Anguilliformes   Family: Muraenidae	Family: Moray Eels
+Order: Anguilliformes   Family: Moray Eels	Family: Muraenidae
+Order: Anguilliformes   Family: Myrocongridae	Family: Thin Eels
+Order: Anguilliformes   Family: Thin Eels	Family: Myrocongridae
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Protanguillidae	Family: Protanguilla
+Order: Anguilliformes (Suborder Anguilloidei)   Family: Protanguilla	Family: Protanguillidae
+Order: Anguilliformes (Suborder Congroidei)   Family: Colocongridae	Family: Worm Eels
+Order: Anguilliformes (Suborder Congroidei)   Family: Worm Eels	Family: Colocongridae
+Order: Anguilliformes (Suborder Congroidei)   Family: Congridae	Family: Conger and Garden Eels
+Order: Anguilliformes (Suborder Congroidei)   Family: Conger and Garden Eels	Family: Congridae
+Order: Anguilliformes (Suborder Congroidei)   Family: Derichthyidae	Family: Longneck Eels
+Order: Anguilliformes (Suborder Congroidei)   Family: Longneck Eels	Family: Derichthyidae
+Order: Anguilliformes   Family: Muraenesocidae	Family: Pike Congers
+Order: Anguilliformes   Family: Pike Congers	Family: Muraenesocidae
+Order: Anguilliformes (Suborder Congroidei)   Family: Nettastomatidae	Family: Duck-bill Eels
+Order: Anguilliformes (Suborder Congroidei)   Family: Duck-bill Eels	Family: Nettastomatidae
+Order: Anguilliformes (Suborder Congroidei)   Family: Ophichthidae	Family: Snake Eels
+Order: Anguilliformes (Suborder Congroidei)   Family: Snake Eels	Family: Ophichthidae
+Order: Anguilliformes (Suborder Nemichthyoidei)   Family: Nemichthyidae	Family: Snipe Eels
+Order: Anguilliformes (Suborder Nemichthyoidei)   Family: Snipe Eels	Family: Nemichthyidae
+Order: Anguilliformes (Suborder Nemichthyoidei)   Family: Serrivomeridae	Family: Sawtooth Eels
+Order: Anguilliformes (Suborder Nemichthyoidei)   Family: Sawtooth Eels	Family: Serrivomeridae
+Order: Anguilliformes   Family: Synaphobranchidae	Family: Cutthroat Eels
+Order: Anguilliformes   Family: Cutthroat Eels	Family: Synaphobranchidae
+Order: Herrings and Anchovies	Order: Clupeiformes
+Order: Clupeiformes	Order: Herrings and Anchovies
+Order: Clupeiformes   Family: Chirocentridae	Family: Wolf Herrings
+Order: Clupeiformes   Family: Wolf Herrings	Family: Chirocentridae
+Order: Clupeiformes   Family: Clupeidae	Family: Herrings, Sardines, Shads, and Menhadens
+Order: Clupeiformes   Family: Herrings, Sardines, Shads, and Menhadens	Family: Clupeidae
+Order: Clupeiformes   Family: Denticipitidae	Family: Denticle Herring
+Order: Clupeiformes   Family: Denticle Herring	Family: Denticipitidae
+Order: Clupeiformes   Family: Dussumieriidae	Family: Round Herrings
+Order: Clupeiformes   Family: Round Herrings	Family: Dussumieriidae
+Order: Clupeiformes   Family: Engraulidae	Family: Anchovies
+Order: Clupeiformes   Family: Anchovies	Family: Engraulidae
+Order: Clupeiformes   Family: Pristidasteridae	Family: Longfin Herring
+Order: Clupeiformes   Family: Longfin Herring	Family: Pristidasteridae
+Order: Clupeiformes   Family: Sundasalangidae	Family: Sundaland Noodlefish
+Order: Clupeiformes   Family: Sundaland Noodlefish	Family: Sundasalangidae
+Order: Milkfish and Relatives	Order: Gonorynchiformes
+Order: Gonorynchiformes	Order: Milkfish and Relatives
+Order: Gonorynchiformes   Family: Chanidae	Family: Milkfish
+Order: Gonorynchiformes   Family: Milkfish	Family: Chanidae
+Order: Gonorynchiformes   Family: Gonorynchidae	Family: Beaked Salmons
+Order: Gonorynchiformes   Family: Beaked Salmons	Family: Gonorynchidae
+Order: Gonorynchiformes   Family: Kneriidae	Family: Shellears
+Order: Gonorynchiformes   Family: Shellears	Family: Kneriidae
+Order: Gonorynchiformes   Family: Phractolaemidae	Family: Hingemouths
+Order: Gonorynchiformes   Family: Hingemouths	Family: Phractolaemidae
+Order: Carps and Minnows	Order: Cypriniformes
+Order: Cypriniformes	Order: Carps and Minnows
+Order: Cypriniformes   Family: Balitoridae	Family: Hillstream Loaches
+Order: Cypriniformes   Family: Hillstream Loaches	Family: Balitoridae
+Order: Cypriniformes   Family: Barbuccidae	Family: Barbucca
+Order: Cypriniformes   Family: Barbucca	Family: Barbuccidae
+Order: Cypriniformes   Family: Botiidae	Family: Fusiform Loaches
+Order: Cypriniformes   Family: Fusiform Loaches	Family: Botiidae
+Order: Cypriniformes   Family: Catostomidae	Family: Suckers
+Order: Cypriniformes   Family: Suckers	Family: Catostomidae
+Order: Cypriniformes   Family: Cobitidae	Family: True Loaches
+Order: Cypriniformes   Family: True Loaches	Family: Cobitidae
+Order: Cypriniformes   Family: Cyprinidae	Family: Carps and Minnows
+Order: Cypriniformes   Family: Carps and Minnows	Family: Cyprinidae
+Order: Cypriniformes   Family: Ellopostomatidae	Family: Ellopostoma Loaches
+Order: Cypriniformes   Family: Ellopostoma Loaches	Family: Ellopostomatidae
+Order: Cypriniformes   Family: Gastromyzontidae	Family: Butterfly Loaches
+Order: Cypriniformes   Family: Butterfly Loaches	Family: Gastromyzontidae
+Order: Cypriniformes   Family: Gyrinocheilidae	Family: Sucking Loaches
+Order: Cypriniformes   Family: Sucking Loaches	Family: Gyrinocheilidae
+Order: Cypriniformes   Family: Nemacheilidae	Family: Stone Loaches
+Order: Cypriniformes   Family: Stone Loaches	Family: Nemacheilidae
+Order: Cypriniformes   Family: Psilorhynchidae	Family: Stone Carps
+Order: Cypriniformes   Family: Stone Carps	Family: Psilorhynchidae
+Order: Cypriniformes   Family: Serpenticobitidae	Family: Snake Loaches
+Order: Cypriniformes   Family: Snake Loaches	Family: Serpenticobitidae
+Order: Cypriniformes   Family: Vaillantellidae	Family: Long-finned Loaches
+Order: Cypriniformes   Family: Long-finned Loaches	Family: Vaillantellidae
+Order: Tetras and Relatives	Order: Characiformes
+Order: Characiformes	Order: Tetras and Relatives
+Order: Characiformes   Family: Acestrorhynchus	Family: Needle-jaw Characins (Freshwater Barracuda)
+Order: Characiformes   Family: Needle-jaw Characins (Freshwater Barracuda)	Family: Acestrorhynchus
+Order: Characiformes   Family: Alestidae	Family: African Tetras
+Order: Characiformes   Family: African Tetras	Family: Alestidae
+Order: Characiformes   Family: Anostomidae	Family: Cigarfish
+Order: Characiformes   Family: Cigarfish	Family: Anostomidae
+Order: Characiformes   Family: Characidae	Family: Tetras
+Order: Characiformes   Family: Tetras	Family: Characidae
+Order: Characiformes   Family: Chilodontidae	Family: Headstanders
+Order: Characiformes   Family: Headstanders	Family: Chilodontidae
+Order: Characiformes   Family: Citharinidae	Family: Lutefishes
+Order: Characiformes   Family: Lutefishes	Family: Citharinidae
+Order: Characiformes   Family: Crenuchidae	Family: South American Darters
+Order: Characiformes   Family: South American Darters	Family: Crenuchidae
+Order: Characiformes   Family: Ctenoluciidae	Family: Pike-Characins
+Order: Characiformes   Family: Pike-Characins	Family: Ctenoluciidae
+Order: Characiformes   Family: Curimatidae	Family: Toothless Characins
+Order: Characiformes   Family: Toothless Characins	Family: Curimatidae
+Order: Characiformes   Family: Cynodontidae	Family: Dogteeth Tetras
+Order: Characiformes   Family: Dogteeth Tetras	Family: Cynodontidae
+Order: Characiformes   Family: Distichodontidae	Family: Distichodus and Relatives
+Order: Characiformes   Family: Distichodus and Relatives	Family: Distichodontidae
+Order: Characiformes   Family: Erythrinidae	Family: Trahiras (Wolf Fish)
+Order: Characiformes   Family: Trahiras (Wolf Fish)	Family: Erythrinidae
+Order: Characiformes   Family: Gasteropelecidae	Family: Freshwater Hatchetfish
+Order: Characiformes   Family: Freshwater Hatchetfish	Family: Gasteropelecidae
+Order: Characiformes   Family: Hemiodontidae	Family: Halftooths
+Order: Characiformes   Family: Halftooths	Family: Hemiodontidae
+Order: Characiformes   Family: Hepsetidae	Family: African Pikes
+Order: Characiformes   Family: African Pikes	Family: Hepsetidae
+Order: Characiformes   Family: Lebiasinidae	Family: Pencilfish, Splash Tetras, and Relatives
+Order: Characiformes   Family: Pencilfish, Splash Tetras, and Relatives	Family: Lebiasinidae
+Order: Characiformes   Family: Parodontidae	Family: Scrapetooths
+Order: Characiformes   Family: Scrapetooths	Family: Parodontidae
+Order: Characiformes   Family: Prochilodontidae	Family: Flannel-Mouthed Characins
+Order: Characiformes   Family: Flannel-Mouthed Characins	Family: Prochilodontidae
+Order: Characiformes   Family: Serrasalmidae	Family: Piranhas
+Order: Characiformes   Family: Piranhas	Family: Serrasalmidae
+Order: Characiformes   Family: Triportheidae	Family: Triportheus and Relatives
+Order: Characiformes   Family: Triportheus and Relatives	Family: Triportheidae
+Order: South American Knifefishes	Order: Gymnotiformes
+Order: Gymnotiformes	Order: South American Knifefishes
+Order: Gymnotiformes   Family: Gymnotidae	Family: Naked-backed Knifefishes
+Order: Gymnotiformes   Family: Naked-backed Knifefishes	Family: Gymnotidae
+Order: Gymnotiformes   Family: Rhamphichthyidae	Family: Sand Knifefishes
+Order: Gymnotiformes   Family: Sand Knifefishes	Family: Rhamphichthyidae
+Order: Gymnotiformes   Family: Hypopomidae	Family: Bluntnose Knifefish
+Order: Gymnotiformes   Family: Bluntnose Knifefish	Family: Hypopomidae
+Order: Gymnotiformes   Family: Sternopygidae	Family: Glass Knifefish
+Order: Gymnotiformes   Family: Glass Knifefish	Family: Sternopygidae
+Order: Gymnotiformes   Family: Apteronotidae	Family: Ghost Knifefish
+Order: Gymnotiformes   Family: Ghost Knifefish	Family: Apteronotidae
+Order: Catfish	Order: Siluriformes
+Order: Siluriformes	Order: Catfish
+Order: Siluriformes   Family: Akysidae	Family: Stream Catfishes
+Order: Siluriformes   Family: Stream Catfishes	Family: Akysidae
+Order: Siluriformes   Family: Amblycipitidae	Family: Torrent Catfishes
+Order: Siluriformes   Family: Torrent Catfishes	Family: Amblycipitidae
+Order: Siluriformes   Family: Amphiliidae	Family: Loach Catfishes
+Order: Siluriformes   Family: Loach Catfishes	Family: Amphiliidae
+Order: Siluriformes   Family: Anchariidae	Family: Vaonas
+Order: Siluriformes   Family: Vaonas	Family: Anchariidae
+Order: Siluriformes   Family: Ariidae	Family: Ariid Catfish
+Order: Siluriformes   Family: Ariid Catfish	Family: Ariidae
+Order: Siluriformes   Family: Aspredinidae	Family: Banjo Catfish
+Order: Siluriformes   Family: Banjo Catfish	Family: Aspredinidae
+Order: Siluriformes   Family: Astroblepidae	Family: Naked Sucker-mouth Catfish
+Order: Siluriformes   Family: Naked Sucker-mouth Catfish	Family: Astroblepidae
+Order: Siluriformes   Family: Auchenipteridae	Family: Driftwood Catfish
+Order: Siluriformes   Family: Driftwood Catfish	Family: Auchenipteridae
+Order: Siluriformes   Family: Austroglanididae	Family: Rock-Catfish
+Order: Siluriformes   Family: Rock-Catfish	Family: Austroglanididae
+Order: Siluriformes   Family: Bagridae	Family: Naked Catfish
+Order: Siluriformes   Family: Naked Catfish	Family: Bagridae
+Order: Siluriformes   Family: Callichthyidae	Family: Armoured Catfish
+Order: Siluriformes   Family: Armoured Catfish	Family: Callichthyidae
+Order: Siluriformes   Family: Cetopsidae	Family: Whale Catfish
+Order: Siluriformes   Family: Whale Catfish	Family: Cetopsidae
+Order: Siluriformes   Family: Chacidae	Family: Frogmouth Catfish
+Order: Siluriformes   Family: Frogmouth Catfish	Family: Chacidae
+Order: Siluriformes   Family: Clariidae	Family: Airbreathing Catfish
+Order: Siluriformes   Family: Airbreathing Catfish	Family: Clariidae
+Order: Siluriformes   Family: Claroteidae	Family: Giraffe Catfish and Relatives
+Order: Siluriformes   Family: Giraffe Catfish and Relatives	Family: Claroteidae
+Order: Siluriformes   Family: Cranoglanididae	Family: Armourhead Catfish
+Order: Siluriformes   Family: Armourhead Catfish	Family: Cranoglanididae
+Order: Siluriformes   Family: Diplomystidae	Family: Velvet Catfish
+Order: Siluriformes   Family: Velvet Catfish	Family: Diplomystidae
+Order: Siluriformes   Family: Doradidae	Family: Thorny Catfish
+Order: Siluriformes   Family: Thorny Catfish	Family: Doradidae
+Order: Siluriformes   Family: Erethistidae	Family: South Asian River Catfishes
+Order: Siluriformes   Family: South Asian River Catfishes	Family: Erethistidae
+Order: Siluriformes   Family: Heptapteridae	Family: Three-barbeled Catfish
+Order: Siluriformes   Family: Three-barbeled Catfish	Family: Heptapteridae
+Order: Siluriformes   Family: Heteropneustidae	Family: Airsack Catfish
+Order: Siluriformes   Family: Airsack Catfish	Family: Heteropneustidae
+Order: Siluriformes   Family: Ictaluridae	Family: Bullhead Catfish (inc. Madtoms, Channel, Blue catfish)
+Order: Siluriformes   Family: Bullhead Catfish (inc. Madtoms, Channel, Blue catfish)	Family: Ictaluridae
+Order: Siluriformes   Family: Lacantuniidae	Family: Chiapas Catfish
+Order: Siluriformes   Family: Chiapas Catfish	Family: Lacantuniidae
+Order: Siluriformes   Family: Loricariidae	Family: Suckermouth Catfish
+Order: Siluriformes   Family: Suckermouth Catfish	Family: Loricariidae
+Order: Siluriformes   Family: Malapteruridae	Family: Electric Catfish
+Order: Siluriformes   Family: Electric Catfish	Family: Malapteruridae
+Order: Siluriformes   Family: Mochokidae	Family: Squeaker Catfish
+Order: Siluriformes   Family: Squeaker Catfish	Family: Mochokidae
+Order: Siluriformes   Family: Nematogenyiidae	Family: Mountain Catfishes
+Order: Siluriformes   Family: Mountain Catfishes	Family: Nematogenyiidae
+Order: Siluriformes   Family: Olyridae	Family: Fighting Catfish
+Order: Siluriformes   Family: Fighting Catfish	Family: Olyridae
+Order: Siluriformes   Family: Pangasiidae	Family: Shark Catfish
+Order: Siluriformes   Family: Shark Catfish	Family: Pangasiidae
+Order: Siluriformes   Family: Pimelodidae	Family: Long-whiskered Catfish
+Order: Siluriformes   Family: Long-whiskered Catfish	Family: Pimelodidae
+Order: Siluriformes   Family: Plotosidae	Family: Eeltail Catfish
+Order: Siluriformes   Family: Eeltail Catfish	Family: Plotosidae
+Order: Siluriformes   Family: Pseudopimelodidae	Family: Bumblebee Catfish
+Order: Siluriformes   Family: Bumblebee Catfish	Family: Pseudopimelodidae
+Order: Siluriformes   Family: Schilbeidae	Family: Schilbe and Relatives
+Order: Siluriformes   Family: Schilbe and Relatives	Family: Schilbeidae
+Order: Siluriformes   Family: Scoloplacidae	Family: Spiny Dwarf Catfishes
+Order: Siluriformes   Family: Spiny Dwarf Catfishes	Family: Scoloplacidae
+Order: Siluriformes   Family: Siluridae	Family: Sheetfish
+Order: Siluriformes   Family: Sheetfish	Family: Siluridae
+Order: Siluriformes   Family: Sisoridae	Family: Sisor and Relatives
+Order: Siluriformes   Family: Sisor and Relatives	Family: Sisoridae
+Order: Siluriformes   Family: Trichomycteridae	Family: Pencil Catfish
+Order: Siluriformes   Family: Pencil Catfish	Family: Trichomycteridae
+Order: Slickheads and Barreleyes	Order: Argentiniformes
+Order: Argentiniformes	Order: Slickheads and Barreleyes
+Order: Argentiniformes   Family: Alepocephalidae	Family: Slickheads
+Order: Argentiniformes   Family: Slickheads	Family: Alepocephalidae
+Order: Argentiniformes   Family: Bathylaconidae	Family: Deepwater Marine Smelts
+Order: Argentiniformes   Family: Deepwater Marine Smelts	Family: Bathylaconidae
+Order: Argentiniformes   Family: Leptochilichthyidae	Family: Aberrant Slickheads
+Order: Argentiniformes   Family: Aberrant Slickheads	Family: Leptochilichthyidae
+Order: Argentiniformes   Family: Platytroctidae	Family: Tubeshoulders
+Order: Argentiniformes   Family: Tubeshoulders	Family: Platytroctidae
+Order: Argentiniformes   Family: Argentinidae	Family: Herring Smelts
+Order: Argentiniformes   Family: Herring Smelts	Family: Argentinidae
+Order: Argentiniformes   Family: Bathylagidae	Family: Deep-sea Smelts
+Order: Argentiniformes   Family: Deep-sea Smelts	Family: Bathylagidae
+Order: Argentiniformes   Family: Microstomatidae	Family: Pencil Smelts
+Order: Argentiniformes   Family: Pencil Smelts	Family: Microstomatidae
+Order: Argentiniformes   Family: Opisthoproctidae	Family: Barreleyes
+Order: Argentiniformes   Family: Barreleyes	Family: Opisthoproctidae
+Order: Trout and Salmon	Order: Salmoniformes
+Order: Salmoniformes	Order: Trout and Salmon
+Order: Salmoniformes   Family: Salmonidae	Family: Trout, Char, Salmon, and Relatives
+Order: Salmoniformes   Family: Trout, Char, Salmon, and Relatives	Family: Salmonidae
+Order: Pikes and Mudminnows	Order: Esociformes
+Order: Esociformes	Order: Pikes and Mudminnows
+Order: Esociformes   Family: Esocidae	Family: Pikes
+Order: Esociformes   Family: Pikes	Family: Esocidae
+Order: Esociformes   Family: Umbridae	Family: Mudminnows
+Order: Esociformes   Family: Mudminnows	Family: Umbridae
+Order: True Smelts and Allies	Order: Osmeriformes
+Order: Osmeriformes	Order: True Smelts and Allies
+Order: Osmeriformes   Family: Galaxiidae	Family: Galaxias and Allies
+Order: Osmeriformes   Family: Galaxias and Allies	Family: Galaxiidae
+Order: Osmeriformes   Family: Lepidogalaxiidae	Family: West Australian Salamanderfish
+Order: Osmeriformes   Family: West Australian Salamanderfish	Family: Lepidogalaxiidae
+Order: Osmeriformes   Family: Retropinnidae	Family: Australian-New Zealand Smelt and Graylings
+Order: Osmeriformes   Family: Australian-New Zealand Smelt and Graylings	Family: Retropinnidae
+Order: Osmeriformes   Family: Osmeridae	Family: True Smelt
+Order: Osmeriformes   Family: True Smelt	Family: Osmeridae
+Order: Osmeriformes   Family: Plecoglossidae	Family: Ayu
+Order: Osmeriformes   Family: Ayu	Family: Plecoglossidae
+Order: Osmeriformes   Family: Salangidae	Family: Noodlefishes
+Order: Osmeriformes   Family: Noodlefishes	Family: Salangidae
+Order: Tadpole Fish	Order: Ateleopodiformes
+Order: Ateleopodiformes	Order: Tadpole Fish
+Order: Ateleopodiformes   Family: Ateleopodidae	Family: Tadpole Fish
+Order: Ateleopodiformes   Family: Tadpole Fish	Family: Ateleopodidae
+Order: Dragonfish and Allies	Order: Stomiiformes
+Order: Stomiiformes	Order: Dragonfish and Allies
+Order: Stomiiformes   Family: Gonostomatidae	Family: Bristlemouths
+Order: Stomiiformes   Family: Bristlemouths	Family: Gonostomatidae
+Order: Stomiiformes   Family: Sternoptychidae	Family: Marine Hatchetfish
+Order: Stomiiformes   Family: Marine Hatchetfish	Family: Sternoptychidae
+Order: Stomiiformes   Family: Phosichthyidae	Family: Lightfish
+Order: Stomiiformes   Family: Lightfish	Family: Phosichthyidae
+Order: Stomiiformes   Family: Stomiidae	Family: Dragonfish
+Order: Stomiiformes   Family: Dragonfish	Family: Stomiidae
+Order: Lizardfishes and Allies	Order: Aulopiformes
+Order: Aulopiformes	Order: Lizardfishes and Allies
+Order: Aulopiformes   Family: Alepisauridae	Family: Lancetfishes
+Order: Aulopiformes   Family: Lancetfishes	Family: Alepisauridae
+Order: Aulopiformes   Family: Anotopteridae	Family: Daggertooths
+Order: Aulopiformes   Family: Daggertooths	Family: Anotopteridae
+Order: Aulopiformes   Family: Evermannelidae	Family: Sabertooth Fish
+Order: Aulopiformes   Family: Sabertooth Fish	Family: Evermannelidae
+Order: Aulopiformes   Family: Omosudidae	Family: Hammerjaw
+Order: Aulopiformes   Family: Hammerjaw	Family: Omosudidae
+Order: Aulopiformes   Family: Paralepididae	Family: Barracudinas
+Order: Aulopiformes   Family: Barracudinas	Family: Paralepididae
+Order: Aulopiformes   Family: Scopelarchidae	Family: Pearleyes
+Order: Aulopiformes   Family: Pearleyes	Family: Scopelarchidae
+Order: Aulopiformes   Family: Bathysaurididae	Family: Pale Deepsea Lizardfish
+Order: Aulopiformes   Family: Pale Deepsea Lizardfish	Family: Bathysaurididae
+Order: Aulopiformes   Family: Bathysauropsidae	Family: Lizard Greeneyes
+Order: Aulopiformes   Family: Lizard Greeneyes	Family: Bathysauropsidae
+Order: Aulopiformes   Family: Chloropthalmidae	Family: Greeneyes
+Order: Aulopiformes   Family: Greeneyes	Family: Chloropthalmidae
+Order: Aulopiformes   Family: Ipnopidae	Family: Deepsea Tripodfish
+Order: Aulopiformes   Family: Deepsea Tripodfish	Family: Ipnopidae
+Order: Aulopiformes   Family: Notosudidae	Family: Waryfish
+Order: Aulopiformes   Family: Waryfish	Family: Notosudidae
+Order: Aulopiformes   Family: Bathysauridae	Family: Deepwater Lizardfish
+Order: Aulopiformes   Family: Deepwater Lizardfish	Family: Bathysauridae
+Order: Aulopiformes   Family: Giganturidae	Family: Telescopefish
+Order: Aulopiformes   Family: Telescopefish	Family: Giganturidae
+Order: Aulopiformes   Family: Aulopidae	Family: Flagfins
+Order: Aulopiformes   Family: Flagfins	Family: Aulopidae
+Order: Aulopiformes   Family: Paraulopidae	Family: Cucumberfish
+Order: Aulopiformes   Family: Cucumberfish	Family: Paraulopidae
+Order: Aulopiformes   Family: Pseudotrichonotidae	Family: Sandliving Lizardfish
+Order: Aulopiformes   Family: Sandliving Lizardfish	Family: Pseudotrichonotidae
+Order: Aulopiformes   Family: Synodontidae	Family: Typical Lizardfish
+Order: Aulopiformes   Family: Typical Lizardfish	Family: Synodontidae
+Order: Lanternfish	Order: Myctophiformes
+Order: Myctophiformes	Order: Lanternfish
+Order: Myctophiformes   Family: Myctophidae	Family: Lanternfish
+Order: Myctophiformes   Family: Lanternfish	Family: Myctophidae
+Order: Myctophiformes   Family: Neoscopelidae	Family: Blackchins
+Order: Myctophiformes   Family: Blackchins	Family: Neoscopelidae
+Order: Opahs, Oarfishes, and Allies	Order: Lampriformes
+Order: Lampriformes	Order: Opahs, Oarfishes, and Allies
+Order: Lampriformes   Family: Veliferidae	Family: Sailfin Moonfishes
+Order: Lampriformes   Family: Sailfin Moonfishes	Family: Veliferidae
+Order: Lampriformes   Family: Lampridae	Family: Opahs
+Order: Lampriformes   Family: Opahs	Family: Lampridae
+Order: Lampriformes   Family: Stylephoridae	Family: Tube-eye
+Order: Lampriformes   Family: Tube-eye	Family: Stylephoridae
+Order: Lampriformes   Family: Lophotidae	Family: Crestfish
+Order: Lampriformes   Family: Crestfish	Family: Lophotidae
+Order: Lampriformes   Family: Radiicephalidae	Family: Tapertail
+Order: Lampriformes   Family: Tapertail	Family: Radiicephalidae
+Order: Lampriformes   Family: Trachipteridae	Family: Ribbonfish
+Order: Lampriformes   Family: Ribbonfish	Family: Trachipteridae
+Order: Lampriformes   Family: Regalecidae	Family: Oarfish
+Order: Lampriformes   Family: Oarfish	Family: Regalecidae
+Order: Beardfish	Order: Polymixiiformes
+Order: Polymixiiformes	Order: Beardfish
+Order: Polymixiiformes   Family: Polymixiidae	Family: Beardfish
+Order: Polymixiiformes   Family: Beardfish	Family: Polymixiidae
+Order: Cavefish and Trout-perch	Order: Percopsiformes
+Order: Percopsiformes	Order: Cavefish and Trout-perch
+Order: Percopsiformes   Family: Amblyopsidae	Family: Cavefishes
+Order: Percopsiformes   Family: Cavefishes	Family: Amblyopsidae
+Order: Percopsiformes   Family: Aphredoderidae	Family: Pirate Perch
+Order: Percopsiformes   Family: Pirate Perch	Family: Aphredoderidae
+Order: Percopsiformes   Family: Percopsidae	Family: Trout-Perch
+Order: Percopsiformes   Family: Trout-Perch	Family: Percopsidae
+Order: Toadfish	Order: Batrachoidiformes
+Order: Batrachoidiformes	Order: Toadfish
+Order: Batrachoidiformes   Family: Batrachoididae	Family: Toadfish
+Order: Batrachoidiformes   Family: Toadfish	Family: Batrachoididae
+Order: Anglerfish	Order: Lophiiformes
+Order: Lophiiformes	Order: Anglerfish
+Order: Lophiiformes   Family: Lophiidae	Family: Goosefish
+Order: Lophiiformes   Family: Goosefish	Family: Lophiidae
+Order: Lophiiformes   Family: Antennariidae	Family: Frogfish
+Order: Lophiiformes   Family: Frogfish	Family: Antennariidae
+Order: Lophiiformes   Family: Tetrabranchiidae	Family: Four-armed Frogfish
+Order: Lophiiformes   Family: Four-armed Frogfish	Family: Tetrabranchiidae
+Order: Lophiiformes   Family: Brachionichthyidae	Family: Handfish
+Order: Lophiiformes   Family: Handfish	Family: Brachionichthyidae
+Order: Lophiiformes   Family: Lophichthyidae	Family: Boschma's Frogfish
+Order: Lophiiformes   Family: Boschma's Frogfish	Family: Lophichthyidae
+Order: Lophiiformes   Family: Chaunacidae	Family: Sea Toads
+Order: Lophiiformes   Family: Sea Toads	Family: Chaunacidae
+Order: Lophiiformes   Family: Ogcocephalidae	Family: Batfish
+Order: Lophiiformes   Family: Batfish	Family: Ogcocephalidae
+Order: Lophiiformes   Family: Centrophrynidae	Family: Prickly Seadevil
+Order: Lophiiformes   Family: Prickly Seadevil	Family: Centrophrynidae
+Order: Lophiiformes   Family: Ceratiidae	Family: Warty Seadevils
+Order: Lophiiformes   Family: Warty Seadevils	Family: Ceratiidae
+Order: Lophiiformes   Family: Himantolophidae	Family: Footballfish
+Order: Lophiiformes   Family: Footballfish	Family: Himantolophidae
+Order: Lophiiformes   Family: Diceratiidae	Family: Doublespine Seadevils
+Order: Lophiiformes   Family: Doublespine Seadevils	Family: Diceratiidae
+Order: Lophiiformes   Family: Melanocetidae	Family: Black Seadevils
+Order: Lophiiformes   Family: Black Seadevils	Family: Melanocetidae
+Order: Lophiiformes   Family: Thaumatichthyidae	Family: Wolf-trap Seadevils
+Order: Lophiiformes   Family: Wolf-trap Seadevils	Family: Thaumatichthyidae
+Order: Lophiiformes   Family: Oneirodidae	Family: Dreamers
+Order: Lophiiformes   Family: Dreamers	Family: Oneirodidae
+Order: Lophiiformes   Family: Caulophrynidae	Family: Fanfin Seadevils
+Order: Lophiiformes   Family: Fanfin Seadevils	Family: Caulophrynidae
+Order: Lophiiformes   Family: Neoceratiidae	Family: Needlebeard Seadevil
+Order: Lophiiformes   Family: Needlebeard Seadevil	Family: Neoceratiidae
+Order: Lophiiformes   Family: Gigantactinidae	Family: Whipnose Seadevils
+Order: Lophiiformes   Family: Whipnose Seadevils	Family: Gigantactinidae
+Order: Lophiiformes   Family: Linophrynidae	Family: Leftvent Seadevils
+Order: Lophiiformes   Family: Leftvent Seadevils	Family: Linophrynidae
+Order: Cod and Allies	Order: Gadiformes
+Order: Gadiformes	Order: Cod and Allies
+Order: Gadiformes   Family: Bregmacerotidae	Family: Codlets
+Order: Gadiformes   Family: Codlets	Family: Bregmacerotidae
+Order: Gadiformes   Family: Euclichtyidae	Family: Eucla Cod
+Order: Gadiformes   Family: Eucla Cod	Family: Euclichtyidae
+Order: Gadiformes   Family: Gadidae	Family: True Cod
+Order: Gadiformes   Family: True Cod	Family: Gadidae
+Order: Gadiformes   Family: Lotidae	Family: Burbot and Rocklings
+Order: Gadiformes   Family: Burbot and Rocklings	Family: Lotidae
+Order: Gadiformes   Family: Macrouridae	Family: Grenadiers
+Order: Gadiformes   Family: Grenadiers	Family: Macrouridae
+Order: Gadiformes   Family: Melanonidae	Family: Pelagic Cods
+Order: Gadiformes   Family: Pelagic Cods	Family: Melanonidae
+Order: Gadiformes   Family: Merlucciidae	Family: Merluccid Hakes
+Order: Gadiformes   Family: Merluccid Hakes	Family: Merlucciidae
+Order: Gadiformes   Family: Moridae	Family: Moras, Codlets, and Hakelets
+Order: Gadiformes   Family: Moras, Codlets, and Hakelets	Family: Moridae
+Order: Gadiformes   Family: Muraenolepididae	Family: Eel Cods
+Order: Gadiformes   Family: Eel Cods	Family: Muraenolepididae
+Order: Gadiformes   Family: Phycidae	Family: Phycid Hakes
+Order: Gadiformes   Family: Phycid Hakes	Family: Phycidae
+Order: Pearlfish and Allies	Order: Ophidiiformes
+Order: Ophidiiformes	Order: Pearlfish and Allies
+Order: Ophidiiformes   Family: Aphyonidae	Family: Aphyonids
+Order: Ophidiiformes   Family: Aphyonids	Family: Aphyonidae
+Order: Ophidiiformes   Family: Bythitidae	Family: Brotulas
+Order: Ophidiiformes   Family: Brotulas	Family: Bythitidae
+Order: Ophidiiformes   Family: Carapidae	Family: Pearlfish
+Order: Ophidiiformes   Family: Pearlfish	Family: Carapidae
+Order: Ophidiiformes   Family: Ophidiidae	Family: Cusk-Eels
+Order: Ophidiiformes   Family: Cusk-Eels	Family: Ophidiidae
+Order: Ophidiiformes   Family: Parabrotulidae	Family: False Brotulas
+Order: Ophidiiformes   Family: False Brotulas	Family: Parabrotulidae
+Order: Mullets	Order: Mugiliformes
+Order: Mugiliformes	Order: Mullets
+Order: Mugiliformes   Family: Mugilidae	Family: Mullets
+Order: Mugiliformes   Family: Mullets	Family: Mugilidae
+Order: Silversides and Rainbowfish	Order: Atheriniformes
+Order: Atheriniformes	Order: Silversides and Rainbowfish
+Order: Atheriniformes   Family: Atherinidae	Family: Old-World Silversides
+Order: Atheriniformes   Family: Old-World Silversides	Family: Atherinidae
+Order: Atheriniformes   Family: Atherinopsidae	Family: Neotropical Silversides
+Order: Atheriniformes   Family: Neotropical Silversides	Family: Atherinopsidae
+Order: Atheriniformes   Family: Bedotiidae	Family: Madagascar Rainbowfish
+Order: Atheriniformes   Family: Madagascar Rainbowfish	Family: Bedotiidae
+Order: Atheriniformes   Family: Dentatherinidae	Family: Mercer's tusked Silverside
+Order: Atheriniformes   Family: Mercer's tusked Silverside	Family: Dentatherinidae
+Order: Atheriniformes   Family: Melanotaeniidae	Family: Rainbowfish
+Order: Atheriniformes   Family: Rainbowfish	Family: Melanotaeniidae
+Order: Atheriniformes   Family: Notocheiridae	Family: Surf Sardines
+Order: Atheriniformes   Family: Surf Sardines	Family: Notocheiridae
+Order: Atheriniformes   Family: Phallostethidae	Family: Priapum Fish
+Order: Atheriniformes   Family: Priapum Fish	Family: Phallostethidae
+Order: Atheriniformes   Family: Pseudomigilidae	Family: Blue-eyes
+Order: Atheriniformes   Family: Blue-eyes	Family: Pseudomigilidae
+Order: Atheriniformes   Family: Telmatherinidae	Family: Sail-fin Silversides
+Order: Atheriniformes   Family: Sail-fin Silversides	Family: Telmatherinidae
+Order: Needlefish and Allies	Order: Beloniformes
+Order: Beloniformes	Order: Needlefish and Allies
+Order: Beloniformes   Family: Adrianichthyidae	Family: Ricefish
+Order: Beloniformes   Family: Ricefish	Family: Adrianichthyidae
+Order: Beloniformes   Family: Belonidae	Family: Needlefish
+Order: Beloniformes   Family: Needlefish	Family: Belonidae
+Order: Beloniformes   Family: Scomberesocidae	Family: Sauries
+Order: Beloniformes   Family: Sauries	Family: Scomberesocidae
+Order: Beloniformes   Family: Exocoetidae	Family: Flying Fish
+Order: Beloniformes   Family: Flying Fish	Family: Exocoetidae
+Order: Beloniformes   Family: Hemiramphidae	Family: Halfbeaks
+Order: Beloniformes   Family: Halfbeaks	Family: Hemiramphidae
+Order: Beloniformes   Family: Zenarchopteridae	Family: Viviparous Halfbeaks
+Order: Beloniformes   Family: Viviparous Halfbeaks	Family: Zenarchopteridae
+Order: Whalefish	Order: Cetomimiformes
+Order: Cetomimiformes	Order: Whalefish
+Order: Cetomimiformes   Family: Cetomimidae	Family: Flabby Whalefish
+Order: Cetomimiformes   Family: Flabby Whalefish	Family: Cetomimidae
+Order: Cetomimiformes   Family: Rondeletiidae	Family: Redmouth Whalefish
+Order: Cetomimiformes   Family: Redmouth Whalefish	Family: Rondeletiidae
+Order: Cetomimiformes   Family: Barbourisiidae	Family: Velvet Whalefish
+Order: Cetomimiformes   Family: Velvet Whalefish	Family: Barbourisiidae
+Order: Toothcarps	Order: Cyprinodontiformes
+Order: Cyprinodontiformes	Order: Toothcarps
+Order: Cyprinodontiformes   Family: Aplocheilidae	Family: South Asian and Malagasy Killifish
+Order: Cyprinodontiformes   Family: South Asian and Malagasy Killifish	Family: Aplocheilidae
+Order: Cyprinodontiformes   Family: Nothobranchidae	Family: African Killifish
+Order: Cyprinodontiformes   Family: African Killifish	Family: Nothobranchidae
+Order: Cyprinodontiformes   Family: Rivulidae	Family: South American Killifish
+Order: Cyprinodontiformes   Family: South American Killifish	Family: Rivulidae
+Order: Cyprinodontiformes   Family: Profundulidae	Family: Central American Killifish
+Order: Cyprinodontiformes   Family: Central American Killifish	Family: Profundulidae
+Order: Cyprinodontiformes   Family: Goodeidae	Family: Splitfins
+Order: Cyprinodontiformes   Family: Splitfins	Family: Goodeidae
+Order: Cyprinodontiformes   Family: Fundulidae	Family: Topminnows and North American Killifish
+Order: Cyprinodontiformes   Family: Topminnows and North American Killifish	Family: Fundulidae
+Order: Cyprinodontiformes   Family: Valenciidae	Family: Mediterranean Killifish
+Order: Cyprinodontiformes   Family: Mediterranean Killifish	Family: Valenciidae
+Order: Cyprinodontiformes   Family: Cyprinodontidae	Family: Pupfish
+Order: Cyprinodontiformes   Family: Pupfish	Family: Cyprinodontidae
+Order: Cyprinodontiformes   Family: Anablepidae	Family: Four-eyed Fish and Relatives
+Order: Cyprinodontiformes   Family: Four-eyed Fish and Relatives	Family: Anablepidae
+Order: Cyprinodontiformes   Family: Poeciliidae	Family: Livebearers and Relatives
+Order: Cyprinodontiformes   Family: Livebearers and Relatives	Family: Poeciliidae
+Order: Ridgeheads and Allies	Order: Stephanoberyciformes
+Order: Stephanoberyciformes	Order: Ridgeheads and Allies
+Order: Stephanoberyciformes   Family: Melamphaidae	Family: Ridgeheads
+Order: Stephanoberyciformes   Family: Ridgeheads	Family: Melamphaidae
+Order: Stephanoberyciformes   Family: Gibberichthyidae	Family: Gibberfish
+Order: Stephanoberyciformes   Family: Gibberfish	Family: Gibberichthyidae
+Order: Stephanoberyciformes   Family: Stephanoberycidae	Family: Pricklyfish
+Order: Stephanoberyciformes   Family: Pricklyfish	Family: Stephanoberycidae
+Order: Stephanoberyciformes   Family: Hispidoberycidae	Family: Bristlyskin
+Order: Stephanoberyciformes   Family: Bristlyskin	Family: Hispidoberycidae
+Order: Fangtooths and Allies	Order: Beryciformes
+Order: Beryciformes	Order: Fangtooths and Allies
+Order: Beryciformes   Family: Berycidae	Family: Alfonsinos and Nannygais
+Order: Beryciformes   Family: Alfonsinos and Nannygais	Family: Berycidae
+Order: Beryciformes   Family: Holocentridae	Family: Squirrelfish and Soldierfish
+Order: Beryciformes   Family: Squirrelfish and Soldierfish	Family: Holocentridae
+Order: Beryciformes   Family: Anomalopidae	Family: Flashlight Fish
+Order: Beryciformes   Family: Flashlight Fish	Family: Anomalopidae
+Order: Beryciformes   Family: Anoplogasteridae	Family: Fangtooth
+Order: Beryciformes   Family: Fangtooth	Family: Anoplogasteridae
+Order: Beryciformes   Family: Diretmidae	Family: Spinyfins
+Order: Beryciformes   Family: Spinyfins	Family: Diretmidae
+Order: Beryciformes   Family: Monocentridae	Family: Pinecone Fish
+Order: Beryciformes   Family: Pinecone Fish	Family: Monocentridae
+Order: Beryciformes   Family: Trachichtyidae	Family: Slimeheads
+Order: Beryciformes   Family: Slimeheads	Family: Trachichtyidae
+Order: Dories	Order: Zeiformes
+Order: Zeiformes	Order: Dories
+Order: Zeiformes   Family: Cyttidae	Family: Lookdown Dories
+Order: Zeiformes   Family: Lookdown Dories	Family: Cyttidae
+Order: Zeiformes   Family: Grammicolepididae	Family: Tinselfish
+Order: Zeiformes   Family: Tinselfish	Family: Grammicolepididae
+Order: Zeiformes   Family: Oreosomatidae	Family: Oreos
+Order: Zeiformes   Family: Oreos	Family: Oreosomatidae
+Order: Zeiformes   Family: Parazenidae	Family: Parazens
+Order: Zeiformes   Family: Parazens	Family: Parazenidae
+Order: Zeiformes   Family: Zeidae	Family: Dories
+Order: Zeiformes   Family: Dories	Family: Zeidae
+Order: Zeiformes   Family: Zenionidae	Family: Zenionid Dories
+Order: Zeiformes   Family: Zenionid Dories	Family: Zenionidae
+Order: Clingfish	Order: Gobiesociformes
+Order: Gobiesociformes	Order: Clingfish
+Order: Gobiesociformes   Family: Gobiesocidae	Family: Clingfish
+Order: Gobiesociformes   Family: Clingfish	Family: Gobiesocidae
+Order: Sticlebacks and Allies	Order: Gasterosteiformes
+Order: Gasterosteiformes	Order: Sticlebacks and Allies
+Order: Gasterosteiformes   Family: Aulorhynchidae	Family: Tube-Snouts
+Order: Gasterosteiformes   Family: Tube-Snouts	Family: Aulorhynchidae
+Order: Gasterosteiformes   Family: Gasterosteidae	Family: Sticklebacks
+Order: Gasterosteiformes   Family: Sticklebacks	Family: Gasterosteidae
+Order: Gasterosteiformes   Family: Hypoptychidae	Family: Sand Eels
+Order: Gasterosteiformes   Family: Sand Eels	Family: Hypoptychidae
+Order: Gasterosteiformes   Family: Indostomidae	Family: Armoured Sticklebacks
+Order: Gasterosteiformes   Family: Armoured Sticklebacks	Family: Indostomidae
+Order: Seahorses and Allies	Order: Syngnathiformes
+Order: Syngnathiformes	Order: Seahorses and Allies
+Order: Syngnathiformes   Family: Centriscidae	Family: Shrimpfish and Snipefish
+Order: Syngnathiformes   Family: Shrimpfish and Snipefish	Family: Centriscidae
+Order: Syngnathiformes   Family: Ghost Pipefish	Family: Solenostomidae
+Order: Syngnathiformes   Family: Solenostomidae	Family: Ghost Pipefish
+Order: Syngnathiformes   Family: Seahorses and True Pipefish	Family: Syngnathidae
+Order: Syngnathiformes   Family: Syngnathidae	Family: Seahorses and True Pipefish
+Order: Syngnathiformes   Family: Trumpetfish	Family: Aulostomidae
+Order: Syngnathiformes   Family: Aulostomidae	Family: Trumpetfish
+Order: Syngnathiformes   Family: Fistulariidae	Family: Cornetfish
+Order: Syngnathiformes   Family: Cornetfish	Family: Fistulariidae
+Order: Swamp Eels	Order: Synbranchiformes
+Order: Synbranchiformes	Order: Swamp Eels
+Order: Synbranchiformes   Family: Synbranchidae	Family: Swamp Eels
+Order: Synbranchiformes   Family: Swamp Eels	Family: Synbranchidae
+Order: Synbranchiformes   Family: Chaudhuriidae	Family: Earthworm Eels
+Order: Synbranchiformes   Family: Earthworm Eels	Family: Chaudhuriidae
+Order: Synbranchiformes   Family: Mastacembelidae	Family: Spiny Eels
+Order: Synbranchiformes   Family: Spiny Eels	Family: Mastacembelidae
+Order: Pufferfish and Allies	Order: Tetraodontiformes
+Order: Tetraodontiformes	Order: Pufferfish and Allies
+Order: Tetraodontiformes   Family: Aracanidae	Family: Deepwater Boxfish
+Order: Tetraodontiformes   Family: Deepwater Boxfish	Family: Aracanidae
+Order: Tetraodontiformes   Family: Balistidae	Family: Triggerfish
+Order: Tetraodontiformes   Family: Triggerfish	Family: Balistidae
+Order: Tetraodontiformes   Family: Diodontidae	Family: Porcupinefish
+Order: Tetraodontiformes   Family: Porcupinefish	Family: Diodontidae
+Order: Tetraodontiformes   Family: Molidae	Family: Ocean Sunfish
+Order: Tetraodontiformes   Family: Ocean Sunfish	Family: Molidae
+Order: Tetraodontiformes   Family: Monacanthidae	Family: Filefish
+Order: Tetraodontiformes   Family: Filefish	Family: Monacanthidae
+Order: Tetraodontiformes   Family: Ostraciidae	Family: Boxfish
+Order: Tetraodontiformes   Family: Boxfish	Family: Ostraciidae
+Order: Tetraodontiformes   Family: Tetraodontidae	Family: Pufferfish
+Order: Tetraodontiformes   Family: Pufferfish	Family: Tetraodontidae
+Order: Tetraodontiformes   Family: Triacanthidae	Family: Triplespines
+Order: Tetraodontiformes   Family: Triplespines	Family: Triacanthidae
+Order: Tetraodontiformes   Family: Triacanthodidae	Family: Spikefish
+Order: Tetraodontiformes   Family: Spikefish	Family: Triacanthodidae
+Order: Tetraodontiformes   Family: Triodontidae	Family: Threetooth Puffer
+Order: Tetraodontiformes   Family: Threetooth Puffer	Family: Triodontidae
+Order: Flatfishes	Order: Pleuronectiformes
+Order: Pleuronectiformes	Order: Flatfishes
+Order: Pleuronectiformes   Family: Psettodidae	Family: Spiny Turbots
+Order: Pleuronectiformes   Family: Spiny Turbots	Family: Psettodidae
+Order: Pleuronectiformes   Family: Citharidae	Family: Zither Flounders
+Order: Pleuronectiformes   Family: Zither Flounders	Family: Citharidae
+Order: Pleuronectiformes   Family: Scophthalmidae	Family: Turbots
+Order: Pleuronectiformes   Family: Turbots	Family: Scophthalmidae
+Order: Pleuronectiformes   Family: Bothidae	Family: Lefteye Flounders
+Order: Pleuronectiformes   Family: Lefteye Flounders	Family: Bothidae
+Order: Pleuronectiformes   Family: Pleuronectidae	Family: Righteye Flounders
+Order: Pleuronectiformes   Family: Righteye Flounders	Family: Pleuronectidae
+Order: Pleuronectiformes   Family: Paralichthyidae	Family: Large-tooth Flounders
+Order: Pleuronectiformes   Family: Large-tooth Flounders	Family: Paralichthyidae
+Order: Pleuronectiformes   Family: Achiropsettidae	Family: Southern Flounder
+Order: Pleuronectiformes   Family: Southern Flounder	Family: Achiropsettidae
+Order: Pleuronectiformes   Family: Samaridae	Family: Crested Flounders
+Order: Pleuronectiformes   Family: Crested Flounders	Family: Samaridae
+Order: Pleuronectiformes   Family: Soleidae	Family: True Soles
+Order: Pleuronectiformes   Family: True Soles	Family: Soleidae
+Order: Pleuronectiformes   Family: Achiridae	Family: American Sole
+Order: Pleuronectiformes   Family: American Sole	Family: Achiridae
+Order: Pleuronectiformes   Family: Cynoglossidae	Family: Tonguefish
+Order: Pleuronectiformes   Family: Tonguefish	Family: Cynoglossidae
+Order: Scorpionfish	Order: Scorpaeniformes
+Order: Scorpaeniformes	Order: Scorpionfish
+Order: Scorpaeniformes   Family: Anoplopomatidae	Family: Sablefish
+Order: Scorpaeniformes   Family: Sablefish	Family: Anoplopomatidae
+Order: Scorpaeniformes   Family: Abyssocottidae	Family: Deep-water Scuplins
+Order: Scorpaeniformes   Family: Deep-water Scuplins	Family: Abyssocottidae
+Order: Scorpaeniformes   Family: Agonidae	Family: Poachers
+Order: Scorpaeniformes   Family: Poachers	Family: Agonidae
+Order: Scorpaeniformes   Family: Bathylutichthyidae	Family: Atlantic Sculpins
+Order: Scorpaeniformes   Family: Atlantic Sculpins	Family: Bathylutichthyidae
+Order: Scorpaeniformes   Family: Comephoridae	Family: Baikal Oilfishes
+Order: Scorpaeniformes   Family: Baikal Oilfishes	Family: Comephoridae
+Order: Scorpaeniformes   Family: Cottidae	Family: Sculpins
+Order: Scorpaeniformes   Family: Sculpins	Family: Cottidae
+Order: Scorpaeniformes   Family: Cottocomephoridae	Family: Baikal Sculpins
+Order: Scorpaeniformes   Family: Baikal Sculpins	Family: Cottocomephoridae
+Order: Scorpaeniformes   Family: Ereuniidae	Family: Deepwater Bullhead Sculpins
+Order: Scorpaeniformes   Family: Deepwater Bullhead Sculpins	Family: Ereuniidae
+Order: Scorpaeniformes   Family: Hemitripteridae	Family: Sailfin Sculpins
+Order: Scorpaeniformes   Family: Sailfin Sculpins	Family: Hemitripteridae
+Order: Scorpaeniformes   Family: Icelidae	Family: Scaled Sculpins
+Order: Scorpaeniformes   Family: Scaled Sculpins	Family: Icelidae
+Order: Scorpaeniformes   Family: Psychrolutidae	Family: Fatheads
+Order: Scorpaeniformes   Family: Fatheads	Family: Psychrolutidae
+Order: Scorpaeniformes   Family: Rhamphocottidae	Family: Grunt Sculpin
+Order: Scorpaeniformes   Family: Grunt Sculpin	Family: Rhamphocottidae
+Order: Scorpaeniformes   Family: Cyclopteridae	Family: Lumpsuckers
+Order: Scorpaeniformes   Family: Lumpsuckers	Family: Cyclopteridae
+Order: Scorpaeniformes   Family: Liparidae	Family: Snailfish
+Order: Scorpaeniformes   Family: Snailfish	Family: Liparidae
+Order: Scorpaeniformes (or Syngnathiformes)   Family: Dactylopteridae	Family: Flying Gurnards
+Order: Scorpaeniformes (or Syngnathiformes)   Family: Flying Gurnards	Family: Dactylopteridae
+Order: Scorpaeniformes   Family: Hexagrammidae	Family: Greenlings
+Order: Scorpaeniformes   Family: Greenlings	Family: Hexagrammidae
+Order: Scorpaeniformes   Family: Normanichthyidae	Family: Mote Sculpin
+Order: Scorpaeniformes   Family: Mote Sculpin	Family: Normanichthyidae
+Order: Scorpaeniformes   Family: Bembridae	Family: Deepwater Flatheads
+Order: Scorpaeniformes   Family: Deepwater Flatheads	Family: Bembridae
+Order: Scorpaeniformes   Family: Hoplichthyidae	Family: Ghost Flatheads
+Order: Scorpaeniformes   Family: Ghost Flatheads	Family: Hoplichthyidae
+Order: Scorpaeniformes   Family: Parabembridae	Family: African Deep-water Flathead and Relatives
+Order: Scorpaeniformes   Family: African Deep-water Flathead and Relatives	Family: Parabembridae
+Order: Scorpaeniformes   Family: Platycephalidae	Family: Flatheads
+Order: Scorpaeniformes   Family: Flatheads	Family: Platycephalidae
+Order: Scorpaeniformes   Family: Apistidae	Family: Wasp Scorpionfish
+Order: Scorpaeniformes   Family: Wasp Scorpionfish	Family: Apistidae
+Order: Scorpaeniformes   Family: Aploactinidae	Family: Velvetfish
+Order: Scorpaeniformes   Family: Velvetfish	Family: Aploactinidae
+Order: Scorpaeniformes   Family: Caracanthidae	Family: Orbicular Velvetfish
+Order: Scorpaeniformes   Family: Orbicular Velvetfish	Family: Caracanthidae
+Order: Scorpaeniformes   Family: Congiopodidae	Family: Horsefish and Pigfish
+Order: Scorpaeniformes   Family: Horsefish and Pigfish	Family: Congiopodidae
+Order: Scorpaeniformes   Family: Eschmeyeridae	Family: Cofish
+Order: Scorpaeniformes   Family: Cofish	Family: Eschmeyeridae
+Order: Scorpaeniformes   Family: Gnathanacanthidae	Family: Red Velvetfish
+Order: Scorpaeniformes   Family: Red Velvetfish	Family: Gnathanacanthidae
+Order: Scorpaeniformes   Family: Neosebastidae	Family: Gurnard Scorpionfish
+Order: Scorpaeniformes   Family: Gurnard Scorpionfish	Family: Neosebastidae
+Order: Scorpaeniformes   Family: Pataecidae	Family: Australian Prowfish
+Order: Scorpaeniformes   Family: Australian Prowfish	Family: Pataecidae
+Order: Scorpaeniformes   Family: Peristediidae	Family: Armored Searobins
+Order: Scorpaeniformes   Family: Armored Searobins	Family: Peristediidae
+Order: Scorpaeniformes   Family: Perryenidae	Family: Whitenose Pigfish
+Order: Scorpaeniformes   Family: Whitenose Pigfish	Family: Perryenidae
+Order: Scorpaeniformes   Family: Plectrogenidae	Family: Stinger Flatheads
+Order: Scorpaeniformes   Family: Stinger Flatheads	Family: Plectrogenidae
+Order: Scorpaeniformes   Family: Scorpaepindae	Family: Scorpionfish
+Order: Scorpaeniformes   Family: Scorpionfish	Family: Scorpaepindae
+Order: Scorpaeniformes   Family: Sebastidae	Family: Rockfish
+Order: Scorpaeniformes   Family: Rockfish	Family: Sebastidae
+Order: Scorpaeniformes   Family: Setachidae	Family: Deep-sea Bristly Scorpionfish
+Order: Scorpaeniformes   Family: Deep-sea Bristly Scorpionfish	Family: Setachidae
+Order: Scorpaeniformes   Family: Synanceiidae	Family: Stonefish
+Order: Scorpaeniformes   Family: Stonefish	Family: Synanceiidae
+Order: Scorpaeniformes   Family: Tetrarogidae	Family: Waspfish
+Order: Scorpaeniformes   Family: Waspfish	Family: Tetrarogidae
+Order: Scorpaeniformes   Family: Triglidae	Family: Searobins
+Order: Scorpaeniformes   Family: Searobins	Family: Triglidae
+Order: Perch-like Fish	Order: Perciformes
+Order: Perciformes	Order: Perch-like Fish
+Order: Perciformes   Family: Acropomatidae	Family: Temperate Ocean-Basses
+Order: Perciformes   Family: Temperate Ocean-Basses	Family: Acropomatidae
+Order: Perciformes   Family: Ambassidae	Family: Asiatic Glassfishes
+Order: Perciformes   Family: Asiatic Glassfishes	Family: Ambassidae
+Order: Perciformes   Family: Apogonidae	Family: Cardinalfish
+Order: Perciformes   Family: Cardinalfish	Family: Apogonidae
+Order: Perciformes   Family: Arripidae	Family: Australasian Salmon
+Order: Perciformes   Family: Australasian Salmon	Family: Arripidae
+Order:    Family: Badidae	Family: Chameleonfish
+Order:    Family: Chameleonfish	Family: Badidae
+Order: Perciformes   Family: Banjosidae	Family: Banjofish
+Order: Perciformes   Family: Banjofish	Family: Banjosidae
+Order: Perciformes   Family: Bathyclupidae	Family: Deepsea Herrings
+Order: Perciformes   Family: Deepsea Herrings	Family: Bathyclupidae
+Order: Perciformes   Family: Bramidae	Family: Pomfrets
+Order: Perciformes   Family: Pomfrets	Family: Bramidae
+Order: Perciformes   Family: Caesionidae	Family: Fuseliers
+Order: Perciformes   Family: Fuseliers	Family: Caesionidae
+Order: Perciformes   Family: Splendid Perches	Family: Callanthiidae
+Order: Perciformes   Family: Callanthiidae	Family: Splendid Perches
+Order: Perciformes   Family: Carangidae	Family: Jacks and Pompanos
+Order: Perciformes   Family: Jacks and Pompanos	Family: Carangidae
+Order: Perciformes   Family: Caristiidae	Family: Manefish
+Order: Perciformes   Family: Manefish	Family: Caristiidae
+Order: Perciformes   Family: Centracanthidae	Family: Picarels
+Order: Perciformes   Family: Picarels	Family: Centracanthidae
+Order: Perciformes   Family: Centrarchidae	Family: Freshwater Sunfish
+Order: Perciformes   Family: Freshwater Sunfish	Family: Centrarchidae
+Order: Perciformes   Family: Centrogenyidae	Family: False Scorpionfish
+Order: Perciformes   Family: False Scorpionfish	Family: Centrogenyidae
+Order: Perciformes   Family: Centropomidae	Family: Snooks
+Order: Perciformes   Family: Snooks	Family: Centropomidae
+Order: Perciformes   Family: Chaetodontidae	Family: Butterflyfish
+Order: Perciformes   Family: Butterflyfish	Family: Chaetodontidae
+Order: Perciformes   Family: Datnoididae	Family: Tigerfish
+Order: Perciformes   Family: Tigerfish	Family: Datnoididae
+Order: Perciformes   Family: Dichitiidae	Family: Galjoen Fish
+Order: Perciformes   Family: Galjoen Fish	Family: Dichitiidae
+Order: Perciformes   Family: Dinolestidae	Family: Long-finned Pike
+Order: Perciformes   Family: Long-finned Pike	Family: Dinolestidae
+Order: Perciformes   Family: Dinopercidae	Family: Cavebass
+Order: Perciformes   Family: Cavebass	Family: Dinopercidae
+Order: Perciformes   Family: Drepaneidae	Family: Sicklefish
+Order: Perciformes   Family: Sicklefish	Family: Drepaneidae
+Order: Perciformes   Family: Echeneidae	Family: Remoras
+Order: Perciformes   Family: Remoras	Family: Echeneidae
+Order: Perciformes   Family: Emmelichtyidae	Family: Rovers
+Order: Perciformes   Family: Rovers	Family: Emmelichtyidae
+Order: Perciformes   Family: Enoplosidae	Family: Old Wife
+Order: Perciformes   Family: Old Wife	Family: Enoplosidae
+Order: Perciformes   Family: Epigonidae	Family: Deepwater Cardinalfish
+Order: Perciformes   Family: Deepwater Cardinalfish	Family: Epigonidae
+Order: Perciformes   Family: Gerreidae	Family: Mojarras
+Order: Perciformes   Family: Mojarras	Family: Gerreidae
+Order: Perciformes   Family: Glaucosomatidae	Family: Pearl Perches
+Order: Perciformes   Family: Pearl Perches	Family: Glaucosomatidae
+Order: Perciformes   Family: Grammatidae	Family: Basslets
+Order: Perciformes   Family: Basslets	Family: Grammatidae
+Order: Perciformes   Family: Haemulidae	Family: Grunts
+Order: Perciformes   Family: Grunts	Family: Haemulidae
+Order: Perciformes   Family: Howellidae	Family: Oceanic Basslets
+Order: Perciformes   Family: Oceanic Basslets	Family: Howellidae
+Order: Perciformes   Family: Inermiidae	Family: Bonnetmouths
+Order: Perciformes   Family: Bonnetmouths	Family: Inermiidae
+Order: Perciformes   Family: Kuhliidae	Family: Flagtails
+Order: Perciformes   Family: Flagtails	Family: Kuhliidae
+Order: Perciformes   Family: Kyphosidae	Family: Sea Chubs
+Order: Perciformes   Family: Sea Chubs	Family: Kyphosidae
+Order: Perciformes   Family: Lactariidae	Family: False Trevallies
+Order: Perciformes   Family: False Trevallies	Family: Lactariidae
+Order: Perciformes   Family: Lateolabracidae	Family: Asian Seaperches
+Order: Perciformes   Family: Asian Seaperches	Family: Lateolabracidae
+Order: Perciformes   Family: Lates, Barramundi, Nile Perch	Family: Latidae
+Order: Perciformes   Family: Latidae	Family: Lates, Barramundi, Nile Perch
+Order: Perciformes   Family: Leiognathidae	Family: Ponyfishes
+Order: Perciformes   Family: Ponyfishes	Family: Leiognathidae
+Order: Perciformes   Family: Leptobramidae	Family: Beachsalmon
+Order: Perciformes   Family: Beachsalmon	Family: Leptobramidae
+Order: Perciformes   Family: Lethrinidae	Family: Emperor Breams
+Order: Perciformes   Family: Emperor Breams	Family: Lethrinidae
+Order: Perciformes   Family: Lobotidae	Family: Tripletails
+Order: Perciformes   Family: Tripletails	Family: Lobotidae
+Order: Perciformes   Family: Lutjanidae	Family: Snappers
+Order: Perciformes   Family: Snappers	Family: Lutjanidae
+Order: Perciformes   Family: Malacanthidae	Family: Tilefish
+Order: Perciformes   Family: Tilefish	Family: Malacanthidae
+Order: Perciformes   Family: Menidae	Family: Moonfish
+Order: Perciformes   Family: Moonfish	Family: Menidae
+Order: Perciformes   Family: Monodactylidae	Family: Moonyfish
+Order: Perciformes   Family: Moonyfish	Family: Monodactylidae
+Order: Perciformes   Family: Moronidae	Family: Temperate Bass
+Order: Perciformes   Family: Temperate Bass	Family: Moronidae
+Order: Perciformes   Family: Mullidae	Family: Goatfish
+Order: Perciformes   Family: Goatfish	Family: Mullidae
+Order: Perciformes   Family: Nandidae	Family: Asian Leaffish
+Order: Perciformes   Family: Asian Leaffish	Family: Nandidae
+Order: Perciformes   Family: Nematistiidae	Family: Roosterfish
+Order: Perciformes   Family: Roosterfish	Family: Nematistiidae
+Order: Perciformes   Family: Nemipteridae	Family: Threadfin Breams
+Order: Perciformes   Family: Threadfin Breams	Family: Nemipteridae
+Order: Perciformes   Family: Opistognathidae	Family: Jawfish
+Order: Perciformes   Family: Jawfish	Family: Opistognathidae
+Order: Perciformes   Family: Oplegnathidae	Family: Knifejaws
+Order: Perciformes   Family: Knifejaws	Family: Oplegnathidae
+Order: Perciformes   Family: Ostracoberycidae	Family: Shellskin Alfonsinos
+Order: Perciformes   Family: Shellskin Alfonsinos	Family: Ostracoberycidae
+Order: Perciformes   Family: Pempheridae	Family: Sweepers
+Order: Perciformes   Family: Sweepers	Family: Pempheridae
+Order: Perciformes   Family: Pentacerotidae	Family: Armorheads
+Order: Perciformes   Family: Armorheads	Family: Pentacerotidae
+Order: Perciformes   Family: Percichthyidae	Family: Temperate Perches
+Order: Perciformes   Family: Temperate Perches	Family: Percichthyidae
+Order: Perciformes   Family: Percidae	Family: Perches and Darters
+Order: Perciformes   Family: Perches and Darters	Family: Percidae
+Order: Perciformes   Family: Plesiopidae	Family: Roundheads
+Order: Perciformes   Family: Roundheads	Family: Plesiopidae
+Order: Perciformes   Family: Polycentridae	Family: Leaffishes
+Order: Perciformes   Family: Leaffishes	Family: Polycentridae
+Order: Perciformes   Family: Polynemidae	Family: Threadfins
+Order: Perciformes   Family: Threadfins	Family: Polynemidae
+Order: Perciformes   Family: Polyprionidae	Family: Wreckfish
+Order: Perciformes   Family: Wreckfish	Family: Polyprionidae
+Order: Perciformes   Family: Pomacanthidae	Family: Marine Angelfish
+Order: Perciformes   Family: Marine Angelfish	Family: Pomacanthidae
+Order: Perciformes   Family: Pomatomidae	Family: Bluefish
+Order: Perciformes   Family: Bluefish	Family: Pomatomidae
+Order: Perciformes   Family: Priacanthidae	Family: Bigeyes
+Order: Perciformes   Family: Bigeyes	Family: Priacanthidae
+Order: Perciformes   Family: Pseudochromidae	Family: Dottybacks
+Order: Perciformes   Family: Dottybacks	Family: Pseudochromidae
+Order: Perciformes   Family: Rachycentridae	Family: Cobia
+Order: Perciformes   Family: Cobia	Family: Rachycentridae
+Order: Perciformes   Family: Sciaenidae	Family: Drums
+Order: Perciformes   Family: Drums	Family: Sciaenidae
+Order: Perciformes   Family: Scombropidae	Family: Gnomefish
+Order: Perciformes   Family: Gnomefish	Family: Scombropidae
+Order: Perciformes   Family: Serranidae	Family: Sea Basses
+Order: Perciformes   Family: Sea Basses	Family: Serranidae
+Order: Perciformes   Family: Sillaginidae	Family: Whitings and Relatives
+Order: Perciformes   Family: Whitings and Relatives	Family: Sillaginidae
+Order: Perciformes   Family: Sparidae	Family: Sea Breams and Porgies
+Order: Perciformes   Family: Sea Breams and Porgies	Family: Sparidae
+Order: Perciformes   Family: Symphysanodontidae	Family: Slopefish
+Order: Perciformes   Family: Slopefish	Family: Symphysanodontidae
+Order: Perciformes   Family: Terapontidae	Family: Grunters
+Order: Perciformes   Family: Grunters	Family: Terapontidae
+Order: Perciformes   Family: Toxotidae	Family: Archerfish
+Order: Perciformes   Family: Archerfish	Family: Toxotidae
+Order: Perciformes   Family: Aplodactylidae	Family: Marblefish
+Order: Perciformes   Family: Marblefish	Family: Aplodactylidae
+Order: Perciformes   Family: Cheilodactylidae	Family: Morwongs
+Order: Perciformes   Family: Morwongs	Family: Cheilodactylidae
+Order: Perciformes   Family: Chironemidae	Family: Kelpfish
+Order: Perciformes   Family: Kelpfish	Family: Chironemidae
+Order: Perciformes   Family: Cirrhitidae	Family: Hawkfish
+Order: Perciformes   Family: Hawkfish	Family: Cirrhitidae
+Order: Perciformes   Family: Latridae	Family: Trumpeters
+Order: Perciformes   Family: Trumpeters	Family: Latridae
+Order: Perciformes   Family: Cepolidae	Family: Bandfish
+Order: Perciformes   Family: Bandfish	Family: Cepolidae
+Order: Perciformes   Family: Elassomatidae	Family: Pygmy Sunfish
+Order: Perciformes   Family: Pygmy Sunfish	Family: Elassomatidae
+Order: Perciformes   Family: Cichlidae	Family: Cichlids
+Order: Perciformes   Family: Cichlids	Family: Cichlidae
+Order: Perciformes   Family: Embiotocidae	Family: Surfperch
+Order: Perciformes   Family: Surfperch	Family: Embiotocidae
+Order: Perciformes   Family: Labridae	Family: Wrasses
+Order: Perciformes   Family: Wrasses	Family: Labridae
+Order: Perciformes   Family: Odacidae	Family: Cales and Weed Whitings
+Order: Perciformes   Family: Cales and Weed Whitings	Family: Odacidae
+Order: Perciformes   Family: Pomacentridae	Family: Damselfish
+Order: Perciformes   Family: Damselfish	Family: Pomacentridae
+Order: Perciformes   Family: Scaridae	Family: Parrotfish
+Order: Perciformes   Family: Parrotfish	Family: Scaridae
+Order: Perciformes   Family: Anarhichadidae	Family: Wolffishes
+Order: Perciformes   Family: Wolffishes	Family: Anarhichadidae
+Order: Perciformes   Family: Bathymasteridae	Family: Ronquils
+Order: Perciformes   Family: Ronquils	Family: Bathymasteridae
+Order: Perciformes   Family: Cryptacanthodidae	Family: Wrymouths
+Order: Perciformes   Family: Wrymouths	Family: Cryptacanthodidae
+Order: Perciformes   Family: Pholidae	Family: Gunnels
+Order: Perciformes   Family: Gunnels	Family: Pholidae
+Order: Perciformes   Family: Ptilichthyidae	Family: Quillfish
+Order: Perciformes   Family: Quillfish	Family: Ptilichthyidae
+Order: Perciformes   Family: Scytalinidae	Family: Gravediver
+Order: Perciformes   Family: Gravediver	Family: Scytalinidae
+Order: Perciformes   Family: Stichaeidae	Family: Pricklebacks
+Order: Perciformes   Family: Pricklebacks	Family: Stichaeidae
+Order: Perciformes   Family: Zaproridae	Family: Prowfish
+Order: Perciformes   Family: Prowfish	Family: Zaproridae
+Order: Perciformes   Family: Zoarchidae	Family: Eelpouts
+Order: Perciformes   Family: Eelpouts	Family: Zoarchidae
+Order: Perciformes   Family: Artedidraconidae	Family: Barbled Plunderfish
+Order: Perciformes   Family: Barbled Plunderfish	Family: Artedidraconidae
+Order: Perciformes   Family: Bathydraconidae	Family: Antarctic Dragonfish
+Order: Perciformes   Family: Antarctic Dragonfish	Family: Bathydraconidae
+Order: Perciformes   Family: Bovichtyidae	Family: Thornfish
+Order: Perciformes   Family: Thornfish	Family: Bovichtyidae
+Order: Perciformes   Family: Channichthyidae	Family: Crocodile Icefish
+Order: Perciformes   Family: Crocodile Icefish	Family: Channichthyidae
+Order: Perciformes   Family: Eleginopsidae	Family: Patagonian Blennies
+Order: Perciformes   Family: Patagonian Blennies	Family: Eleginopsidae
+Order: Perciformes   Family: Harpagiferidae	Family: Spiny Plunderfish
+Order: Perciformes   Family: Spiny Plunderfish	Family: Harpagiferidae
+Order: Perciformes   Family: Nototheniidae	Family: Cod Icefish
+Order: Perciformes   Family: Cod Icefish	Family: Nototheniidae
+Order: Perciformes   Family: Pseudaphitidae	Family: Catadromous Icefish
+Order: Perciformes   Family: Catadromous Icefish	Family: Pseudaphitidae
+Order: Perciformes   Family: Ammodytidae	Family: Sand Lances
+Order: Perciformes   Family: Sand Lances	Family: Ammodytidae
+Order: Perciformes   Family: Champsodontidae	Family: Crocodile Toothfish
+Order: Perciformes   Family: Crocodile Toothfish	Family: Champsodontidae
+Order: Perciformes   Family: Cheimarrhichthyidae	Family: Torrentfish
+Order: Perciformes   Family: Torrentfish	Family: Cheimarrhichthyidae
+Order: Perciformes   Family: Chiasmodontidae	Family: Snaketoothed Fish
+Order: Perciformes   Family: Snaketoothed Fish	Family: Chiasmodontidae
+Order: Perciformes   Family: Creediidae	Family: Sandburrowers
+Order: Perciformes   Family: Sandburrowers	Family: Creediidae
+Order: Perciformes   Family: Leptoscopidae	Family: Southern Sandfish
+Order: Perciformes   Family: Southern Sandfish	Family: Leptoscopidae
+Order: Perciformes   Family: Percophidae	Family: Duckbills
+Order: Perciformes   Family: Duckbills	Family: Percophidae
+Order: Perciformes   Family: Pholidichthyidae	Family: Convict Blennies
+Order: Perciformes   Family: Convict Blennies	Family: Pholidichthyidae
+Order: Perciformes   Family: Pinguipedidae	Family: Sandperches
+Order: Perciformes   Family: Sandperches	Family: Pinguipedidae
+Order: Perciformes   Family: Trachinidae	Family: Weeverfish
+Order: Perciformes   Family: Weeverfish	Family: Trachinidae
+Order: Perciformes   Family: Trichodontidae	Family: Sandfish
+Order: Perciformes   Family: Sandfish	Family: Trichodontidae
+Order: Perciformes   Family: Trichonotidae	Family: Sanddivers
+Order: Perciformes   Family: Sanddivers	Family: Trichonotidae
+Order: Perciformes   Family: Uranoscopidae	Family: Stargazers
+Order: Perciformes   Family: Stargazers	Family: Uranoscopidae
+Order: Perciformes   Family: Bleniidae	Family: Combtooth Blennies
+Order: Perciformes   Family: Combtooth Blennies	Family: Bleniidae
+Order: Perciformes   Family: Chaenopsidae	Family: Pike-, Tube-, and Flagblennies
+Order: Perciformes   Family: Pike-, Tube-, and Flagblennies	Family: Chaenopsidae
+Order: Perciformes   Family: Clinidae	Family: Clinids
+Order: Perciformes   Family: Clinids	Family: Clinidae
+Order: Perciformes   Family: Dactyloscopidae	Family: Sand Stargazers
+Order: Perciformes   Family: Sand Stargazers	Family: Dactyloscopidae
+Order: Perciformes   Family: Labrisomidae	Family: Labrisomids
+Order: Perciformes   Family: Labrisomids	Family: Labrisomidae
+Order: Perciformes   Family: Tripterygiidae	Family: Threefin Blennies
+Order: Perciformes   Family: Threefin Blennies	Family: Tripterygiidae
+Order: Perciformes   Family: Icosteidae	Family: Ragfish
+Order: Perciformes   Family: Ragfish	Family: Icosteidae
+Order: Perciformes   Family: Callionymidae	Family: Dragonets
+Order: Perciformes   Family: Dragonets	Family: Callionymidae
+Order: Perciformes   Family: Draconettidae	Family: Slope Dragonets
+Order: Perciformes   Family: Slope Dragonets	Family: Draconettidae
+Order: Perciformes   Family: Eleotridae	Family: Sleepers
+Order: Perciformes   Family: Sleepers	Family: Eleotridae
+Order: Perciformes   Family: Gobiidae	Family: Gobies
+Order: Perciformes   Family: Gobies	Family: Gobiidae
+Order: Perciformes   Family: Kraemeriidae	Family: Sand Darters
+Order: Perciformes   Family: Sand Darters	Family: Kraemeriidae
+Order: Perciformes   Family: Microdesmidae	Family: Wormfish
+Order: Perciformes   Family: Wormfish	Family: Microdesmidae
+Order: Perciformes   Family: Odontobutidae	Family: Freshwater Sleepers
+Order: Perciformes   Family: Freshwater Sleepers	Family: Odontobutidae
+Order: Perciformes   Family: Ptereleotridae	Family: Dartfish
+Order: Perciformes   Family: Dartfish	Family: Ptereleotridae
+Order: Perciformes   Family: Rhyacichthyidae	Family: Loach Gobies
+Order: Perciformes   Family: Loach Gobies	Family: Rhyacichthyidae
+Order: Perciformes   Family: Schindleriidae	Family: Infantfish
+Order: Perciformes   Family: Infantfish	Family: Schindleriidae
+Order: Perciformes   Family: Xenisthmidae	Family: Collared Wrigglers
+Order: Perciformes   Family: Collared Wrigglers	Family: Xenisthmidae
+Order: Perciformes   Family: Kurtidae	Family: Nurseryfish
+Order: Perciformes   Family: Nurseryfish	Family: Kurtidae
+Order: Perciformes   Family: Acanthuridae	Family: Surgeonfish
+Order: Perciformes   Family: Surgeonfish	Family: Acanthuridae
+Order: Perciformes   Family: Ephippidae	Family: Spadefish
+Order: Perciformes   Family: Spadefish	Family: Ephippidae
+Order: Perciformes   Family: Luvaridae	Family: Louvar
+Order: Perciformes   Family: Louvar	Family: Luvaridae
+Order: Perciformes   Family: Scatophagidae	Family: Scats
+Order: Perciformes   Family: Scats	Family: Scatophagidae
+Order: Perciformes   Family: Siganidae	Family: Rabbitfish
+Order: Perciformes   Family: Rabbitfish	Family: Siganidae
+Order: Perciformes   Family: Zanclidae	Family: Moorish Idol
+Order: Perciformes   Family: Moorish Idol	Family: Zanclidae
+Order: Perciformes   Family: Scombrolabracidae	Family: Longfin Escolar
+Order: Perciformes   Family: Longfin Escolar	Family: Scombrolabracidae
+Order: Perciformes   Family: Sphyraenidae	Family: Barracudas
+Order: Perciformes   Family: Barracudas	Family: Sphyraenidae
+Order: Perciformes   Family: Gemplyidae	Family: Snake Mackerels
+Order: Perciformes   Family: Snake Mackerels	Family: Gemplyidae
+Order: Perciformes   Family: Trichiuridae	Family: Cutlassfish
+Order: Perciformes   Family: Cutlassfish	Family: Trichiuridae
+Order: Perciformes   Family: Scombridae	Family: Mackerels and Tunas
+Order: Perciformes   Family: Mackerels and Tunas	Family: Scombridae
+Order: Perciformes   Family: Xiphiidae	Family: Swordfish
+Order: Perciformes   Family: Swordfish	Family: Xiphiidae
+Order: Perciformes   Family: Istiophoridae	Family: Marlins
+Order: Perciformes   Family: Marlins	Family: Istiophoridae
+Order: Perciformes   Family: Amarsipidae	Family: Bagless Glassfish
+Order: Perciformes   Family: Bagless Glassfish	Family: Amarsipidae
+Order: Perciformes   Family: Ariommatidae	Family: Ariommatids
+Order: Perciformes   Family: Ariommatids	Family: Ariommatidae
+Order: Perciformes   Family: Centrolophidae	Family: Medusafish
+Order: Perciformes   Family: Medusafish	Family: Centrolophidae
+Order: Perciformes   Family: Nomeidae	Family: Driftfish
+Order: Perciformes   Family: Driftfish	Family: Nomeidae
+Order: Perciformes   Family: Tetragonuridae	Family: Squaretails
+Order: Perciformes   Family: Squaretails	Family: Tetragonuridae
+Order: Perciformes   Family: Stromateidae	Family: Butterfish
+Order: Perciformes   Family: Butterfish	Family: Stromateidae
+Order: Perciformes   Family: Anabantidae	Family: Climbing Gouramis
+Order: Perciformes   Family: Climbing Gouramis	Family: Anabantidae
+Order: Perciformes   Family: Osphronemidae	Family: Gouramies
+Order: Perciformes   Family: Gouramies	Family: Osphronemidae
+Order: Perciformes   Family: Helostomatidae	Family: Kissing Gourami
+Order: Perciformes   Family: Kissing Gourami	Family: Helostomatidae
+Order: Perciformes   Family: Channidae	Family: Snakeheads
+Order: Perciformes   Family: Snakeheads	Family: Channidae
+Order: Perciformes   Family: Caproidae	Family: Boarfish
+Order: Perciformes   Family: Boarfish	Family: Caproidae
+Class: Cartilaginous Fish	Class: Chondrichthyes
+Class: Chondrichthyes	Class: Cartilaginous Fish
+Class: Hagfish	Class: Myxini
+Class: Myxini	Class: Hagfish
+Class: Lampreys	Class: Petromyzontida
+Class: Petromyzontida	Class: Lampreys
+Class: Lobe-finned Fish	Class: Sarcopterygii
+Class: Sarcopterygii	Class: Lobe-finned Fish
+Class: Ray-finned Fish	Class: Actinopterygii
+Class: Actinopterygii	Class: Ray-finned Fish
+Order: Angel Sharks	Order: Squatiniformes
+Order: Squatiniformes	Order: Angel Sharks
+Order: Bramble Sharks	Order: Echinorhiniformes
+Order: Echinorhiniformes	Order: Bramble Sharks
+Order: Bullhead Sharks	Order: Heterodontiformes
+Order: Heterodontiformes	Order: Bullhead Sharks
+Order: Carpet Sharks	Order: Orectolobiformes
+Order: Orectolobiformes	Order: Carpet Sharks
+Order: Chimaeras	Order: Chimaeriformes
+Order: Chimaeriformes	Order: Chimaeras
+Order: Dogfish Sharks	Order: Squaliformes
+Order: Squaliformes	Order: Dogfish Sharks
+Order: Electric Rays	Order: Torpediniformes
+Order: Torpediniformes	Order: Electric Rays
+Order: Frilled and Cow Sharks	Order: Hexanchiformes
+Order: Hexanchiformes	Order: Frilled and Cow Sharks
+Order: Groundsharks	Order: Carcharhiniformes
+Order: Carcharhiniformes	Order: Groundsharks
+Order: Mackerel Sharks	Order: Lamniformes
+Order: Lamniformes	Order: Mackerel Sharks
+Order: Sawfish	Order: Pristiformes
+Order: Pristiformes	Order: Sawfish
+Order: Sawsharks	Order: Pristiophoriformes
+Order: Pristiophoriformes	Order: Sawsharks
+Order: Skates and Guitarfishes	Order: Rajiformes
+Order: Rajiformes	Order: Skates and Guitarfishes
+Order: Stingrays and Relatives	Order: Myliobatiformes
+Order: Myliobatiformes	Order: Stingrays and Relatives
+Subclass: Holocephali	Subclass: Chimaeras
+Subclass: Chimaeras	Subclass: Holocephali
+Subclass: Elasmobranchii	Subclass: Sharks and Rays
+Subclass: Sharks and Rays	Subclass: Elasmobranchii
+Subclass: Actinistia	Subclass: Coelacanths
+Subclass: Coelacanths	Subclass: Actinistia
+Subclass: Dipnoi	Subclass: Lungfish
+Subclass: Lungfish	Subclass: Dipnoi
+Infraclass: Holostei	Infraclass: Gars and Bowfin
+Infraclass: Gars and Bowfin	Infraclass: Holostei
+Subclass: Neopterygii	Subclass: Advanced Ray-finned Fish
+Subclass: Advanced Ray-finned Fish	Subclass: Neopterygii
+Subclass: Chondrostei (Paraphyletic)	Subclass: Partially Ossified Fish
+Subclass: Partially Ossified Fish	Subclass: Chondrostei (Paraphyletic)

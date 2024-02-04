@@ -22,7 +22,7 @@ CORS(app)
 app.config['MONGO_URI'] = 'mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority'
 mongo = pymongo.MongoClient(app.config['MONGO_URI'])
 db = mongo.get_database('MemoTech')
-collection = db['sat words']
+collection = db['main']
 
 @app.route('/', methods=['GET'])
 def home():
