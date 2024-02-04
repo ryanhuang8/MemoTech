@@ -3,11 +3,12 @@
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #ffffff;
-    padding: 5px;
+    /* background-color: #ffffff; */
+    padding: 0.2px;
     z-index: 1000; /* Ensure it's above other elements */
     position: fixed;
-    background-color: rgb(33, 37, 42); /* Set background color */
+    background: linear-gradient(to bottom, rgba(17, 17, 17, 0.2), rgba(17, 17, 17, 0.7)); /* Transparent gradient */
+ /* Set background color */
     opacity: 0.9;
     overflow: hidden; /* Hide overflowing content */
     display: flex;
@@ -54,7 +55,7 @@
 } */
   
 .horizontal-navbar a:hover {
-  color: #ffca44;
+  color:gray;
 }
   
 .center-nav {
@@ -77,11 +78,11 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10px;
+  padding: 2px;
 }
 
 .nav-brand {
-  font-size: 30px; /* Adjust the font size as needed */
+  font-size: 25px; /* Adjust the font size as needed */
   color: white;    /* Set the text color to white */
   font-weight: bold;
   margin-right: auto;

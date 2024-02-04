@@ -8,11 +8,11 @@ const Navbar: React.FC = () => {
     <nav className={`horizontal-navbar`}>
       <div className="center-nav">
         <div className="nav-brand">
-          <span>MemoTech</span>
+        <a href="/">MemoTech</a>
         </div>
         <div className="nav-tabs">
           <ul>
-            <li><a href="/">Create Your Flashcards</a></li>
+            <li><a href="/import">Create Your Flashcards</a></li>
             <li><a href="/flashcard">Study Your Set</a></li>
           </ul>
         </div>
