@@ -24,16 +24,17 @@ function ImportFiles() {
           const cardDictionary = [];
 
           // Loop through each line
-          lines.forEach((line, index) => {
+          for (let index = 2; index < lines.length; index++) {
+            const line = lines[index];
             // Split each line by ':::' to separate question and answer
             const [question, answer] = line.split(":::");
             // Add question-answer pair to the array
             cardDictionary.push({
-              id: index + 1, // assuming id starts from 1
-              question: question, // remove leading/trailing spaces
-              answer: answer // remove leading/trailing spaces
+                id: index + 1, // assuming id starts from 1
+                question: question, // remove leading/trailing spaces
+                answer: answer // remove leading/trailing spaces
             });
-          });
+        }
 
           // Use the cardDictionary as needed
           localStorage.setItem('cardPairs', JSON.stringify(cardDictionary));
