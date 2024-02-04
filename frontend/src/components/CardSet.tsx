@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, ReactNode } from "react";
 // import "./CardsStyles.css";
 
 import Flashcard from "./Flashcard";
@@ -7,6 +7,8 @@ import Flashcard from "./Flashcard";
 // https://www.youtube.com/watch?v=vs6usnS5OTE (slider)
 
 interface FlashcardData {
+    answer: ReactNode;
+    question: ReactNode;
     id: string;
     // Add other properties here as needed
 }

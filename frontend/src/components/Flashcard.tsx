@@ -1,7 +1,14 @@
-import { useState } from "react";
+import { ReactNode, useState } from "react";
 import '../styles/CardStyles.css';
 
-export default function Flashcard({ card }) {
+interface FlashcardData {
+  answer: ReactNode;
+  question: ReactNode;
+  id: string;
+  // Add other properties here as needed
+}
+
+export default function Flashcard({ card } : { card: FlashcardData; key: string; }) {
   const [side, setSide] = useState<boolean>(false);
 
   function handleClick() {
