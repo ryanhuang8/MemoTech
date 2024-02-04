@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, ReactNode } from "react";
 // import "./CardsStyles.css";
 
 import Flashcard from "./Flashcard";
@@ -7,6 +7,8 @@ import Flashcard from "./Flashcard";
 // https://www.youtube.com/watch?v=vs6usnS5OTE (slider)
 
 interface FlashcardData {
+    answer: ReactNode;
+    question: ReactNode;
     id: string;
     // Add other properties here as needed
 }
@@ -15,24 +17,24 @@ export default function Cards() {
     const [flashcarddata, setFlashcarddata] = useState<FlashcardData[]>([]);
 
     useEffect(() => {
-        const url =
-          "https://api.airtable.com/v0/appqY5UZYlf41Q5VT/Table%201?api_key=keyPZ9SKzXIt4Ek1v";
-        fetch(url)
-          .then((response) => {
-            if (!response.ok) {
-              throw new Error("Network response was not ok");
-            }
-            return response.json();
-          })
-          .then((json) => {
-            setFlashcarddata(json.records);
-          })
-          .catch((error) => {
-            console.error("Error fetching data:", error);
-          });
+        // const url =
+        //   "https://api.airtable.com/v0/appqY5UZYlf41Q5VT/Table%201?api_key=keyPZ9SKzXIt4Ek1v";
+        // fetch(url)
+        //   .then((response) => {
+        //     if (!response.ok) {
+        //       throw new Error("Network response was not ok");
+        //     }
+        //     return response.json();
+        //   })
+        //   .then((json) => {
+        //     setFlashcarddata(json.records);
+        //   })
+        //   .catch((error) => {
+        //     console.error("Error fetching data:", error);
+        //   });
+        setFlashcarddata(JSON.parse(localStorage.cardPairs));
       }, []);
-  
-
+   
   // https://www.debuggr.io/react-map-of-undefined/
   const cards = flashcarddata.map((card) => {
     return <Flashcard card={card} key={card.id} />;

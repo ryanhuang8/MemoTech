@@ -15,7 +15,7 @@ interface CardPairProps {
 }
 
 const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDeletePair }) => {
-  const handleFocus = (e: React.FocusEvent<HTMLDivElement>, _field: string) => {
+  const handleFocus = (e: React.FocusEvent<HTMLDivElement>) => {
     if (e.currentTarget.innerText === `Question ${pair.id}` || e.currentTarget.innerText === `Answer ${pair.id}`) {
       e.currentTarget.innerText = '';
     }
@@ -34,6 +34,7 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
       <div
         contentEditable
         onBlur={(e) => handleBlur(e, 'question')}
+
         onFocus={(e) => handleFocus(e, 'question')}
         style={{
           width: '500px',
@@ -54,6 +55,7 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
       <div
         contentEditable
         onBlur={(e) => handleBlur(e, 'answer')}
+
         onFocus={(e) => handleFocus(e, 'answer')}
         style={{
           width: '500px',

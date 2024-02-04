@@ -1,7 +1,14 @@
-import { useState } from "react";
+import { ReactNode, useState } from "react";
 import '../styles/CardStyles.css';
 
-export default function Flashcard({ card }) {
+interface FlashcardData {
+  answer: ReactNode;
+  question: ReactNode;
+  id: string;
+  // Add other properties here as needed
+}
+
+export default function Flashcard({ card } : { card: FlashcardData; key: string; }) {
   const [side, setSide] = useState<boolean>(false);
 
   function handleClick() {
@@ -16,8 +23,8 @@ export default function Flashcard({ card }) {
         {card.id}
       </small> */}
       {/* {side ? card.fields.side1 : card.fields.side2} */}
-      <div className="front">{card.fields.side1}</div>
-      <div className="back">{card.fields.side2}</div>
+      <div className="front">{card.question}</div>
+      <div className="back">{card.answer}</div>
     </div>
   );
 }
