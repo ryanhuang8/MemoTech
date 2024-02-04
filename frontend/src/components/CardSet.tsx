@@ -2,6 +2,7 @@ import { useState, useEffect, ReactNode } from "react";
 // import "./CardsStyles.css";
 
 import Flashcard from "./Flashcard";
+import reactNodeToString from "react-node-to-string"
 
 // https://www.youtube.com/watch?v=hEtZ040fsD8&feature=youtu.be&t=719 (flashcards)
 // https://www.youtube.com/watch?v=vs6usnS5OTE (slider)
@@ -13,7 +14,11 @@ interface FlashcardData {
     // Add other properties here as needed
 }
 
-export default function Cards() {
+interface CardsProps {
+  setQuestion: React.Dispatch<React.SetStateAction<string>>;
+}
+
+export default function Cards({ setQuestion }: CardsProps) {
     const [flashcarddata, setFlashcarddata] = useState<FlashcardData[]>([]);
 
     useEffect(() => {
@@ -46,9 +51,13 @@ export default function Cards() {
   const [current, setCurrent] = useState(0);
   function previousCard() {
     setCurrent(current - 1);
+    console.log(cards[current-1].props.card.question)
+    setQuestion(cards[current-1].props.card.question);
   }
   function nextCard() {
     setCurrent(current + 1);
+    console.log(cards[current+1].props.card.question)
+    setQuestion(reactNodeToString(cards[current+1].props.card.question)); // get question
   }
 
   // if (flashcarddata) {

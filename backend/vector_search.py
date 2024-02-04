@@ -24,17 +24,20 @@ def generate_embedding(text: str) -> list[float]:
 #    doc['plot_embedding_hf'] = generate_embedding(doc['question'])
 #    collection.replace_one({'_id': doc['_id']}, doc)
 
-query = "imaginary characters from outer space at war"
+def vector_search(query):
 
-results = collection.aggregate([
-  {"$vectorSearch": {
-    "queryVector": generate_embedding(query),
-    "path": "plot_embedding_hf",
-    "numCandidates": 100,
-    "limit": 4, # num results returned
-    "index": "PlotSemanticSearch",
-    }}
-])
+  results = collection.aggregate([
+    {"$vectorSearch": {
+      "queryVector": generate_embedding(query),
+      "path": "plot_embedding_hf",
+      "numCandidates": 100,
+      "limit": 4, # num results returned
+      "index": "PlotSemanticSearch",
+      }}
+  ])
 
-for document in results:
-    print(f'Q: {document["question"]},\nA: {document["answer"]}\n')
+  q_and_a = {}
+  for document in results:
+      q_and_a[document["question"]] = document["answer"]
+    
+  return q_and_a

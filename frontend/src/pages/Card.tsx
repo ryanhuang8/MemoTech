@@ -5,20 +5,46 @@ import Navbar from '../components/Navbar';
 
 function Card() {
   const [inputValue, setInputValue] = useState('');
+  const [question, setQuestion] = useState('');
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
     event.preventDefault(); // Prevent the default form submission behavior
-    // Handle the form submission here (e.g., send data to server)
-    // You can use fetch or any other method to send data to the server
-    // For demonstration purposes, let's log the form data to the console
-    console.log('Submitted value:', inputValue);
+    console.log(inputValue)
+    console.log(question)
+
+    // Fetch the endpoint with the form data
+    const url = `http://127.0.0.1:5000//get-feedback?q=${question}&a=${inputValue}`;
+
+    fetch(url, {
+      method: 'GET',
+      // headers: {
+      //   'Content-Type': 'application/json'
+      // }
+    })
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+      return response.json();
+    })
+    .then(data => {
+      // Handle the response data here
+      console.log('Response:', data);
+      // You may want to update your UI based on the response
+    })
+    .catch(error => {
+      // Handle errors here
+      console.error('There was a problem with the fetch operation:', error);
+    });
+  
     setInputValue(''); // Reset the input value after submission
   }
+  
 
   return (
     <div>
       <Navbar />
-      <CardSet />
+      <CardSet setQuestion={setQuestion}/>
       <form onSubmit={handleSubmit} style={{ display: 'flex', alignItems: 'center' }}>
         <input
           type="text"

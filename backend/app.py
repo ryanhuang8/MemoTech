@@ -1,5 +1,5 @@
 from flask import Flask, jsonify, redirect, render_template, request, url_for
-from pymongo import MongoClient
+import pymongo
 from bson import json_util
 import json
 
@@ -7,23 +7,26 @@ import os
 
 import openai
 
+from flask_cors import CORS
+
 app = Flask(__name__)
-openai.api_key = "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"
-os.environ["OPEN_API_KEY"] = "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"
-os.environ["ATLAS_CONNECTION_STRING"] = "mongodb+srv://ryanyhuang:ctwj2kRNIVNOV1Wd@vectorsearch.abc.mongodb.net/?retryWrites=true"
+CORS(app)
+openai.api_key = "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"
+os.environ["OPEN_API_KEY"] = "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"
+os.environ["ATLAS_CONNECTION_STRING"] = "mongodb+srv://ryanyhuang:ctwj2kRNIVNOV1Wd@cluster0.yualorr.mongodb.net/?retryWrites=true&w=majority"
 
 
-# # Configure MongoDB connection
+# Configure MongoDB connection
 # app.config['MONGO_URI'] = 'mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority'
-# mongo = MongoClient(app.config['MONGO_URI'])
-# db = mongo.get_database('MemoTech')
-# collection = db['sat words']
+client = pymongo.MongoClient(os.environ["ATLAS_CONNECTION_STRING"])
+db = client.Memotech
+collection = db.embeddings
 
-# @app.route('/')
-# def home():
-#     data_from_mongo = collection.find_one({})
-#     json_data = json_util.dumps(data_from_mongo)
-#     return jsonify(message='Hello, MongoDB with Flask!', data_from_mongo=json_data)
+@app.route('/')
+def home():
+    data_from_mongo = collection.find_one({})
+    json_data = json_util.dumps(data_from_mongo)
+    return jsonify(message='Hello, MongoDB with Flask!', data_from_mongo=json_data)
 
 @app.route("/get-feedback")
 def index():
@@ -39,7 +42,7 @@ def index():
 
     completion_message = completion.choices[0].message.content
     print(completion_message)
-    response = jsonify({"message": completion_message})
+    response = {"message": completion_message}
 
     return response
 
