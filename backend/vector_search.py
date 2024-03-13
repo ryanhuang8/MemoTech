@@ -1,24 +1,32 @@
 import pymongo
 import requests
+from sentence_transformers import SentenceTransformer
+from sentence_transformers import util
+
+model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+
 
 client = pymongo.MongoClient("mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority")
 db = client.Database
 collection = db.vector_search
 
-hf_token = "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"
-embedding_url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
+# hugging face specs
+# hf_token = "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"
+# embedding_url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
 
 def generate_embedding(text: str) -> list[float]:
 
-  response = requests.post(
-    embedding_url,
-    headers={"Authorization": f"Bearer {hf_token}"},
-    json={"inputs": text})
+  # hugging face
+  # response = requests.post(
+  #   embedding_url,
+  #   headers={"Authorization": f"Bearer {hf_token}"},
+  #   json={"inputs": text})
 
-  if response.status_code != 200:
-    raise ValueError(f"Request failed with status code {response.status_code}: {response.text}")
+  # if response.status_code != 200:
+  #   raise ValueError(f"Request failed with status code {response.status_code}: {response.text}")
 
-  return response.json()
+  embeddings = model.encode([text])
+  return embeddings[0]
 
 for doc in collection.find({'premise':{"$exists":True}}):
    doc['plot_embedding_hf'] = generate_embedding(doc['premise'])
@@ -44,3 +52,10 @@ def vector_search(query):
       i+=1
     
   return q_and_a
+
+
+def main():
+   print(generate_embedding("I am a sentence."))
+
+if __name__ == "__main__":
+   main()
