@@ -1,9 +1,14 @@
 import pymongo
 import requests
-from sentence_transformers import SentenceTransformer
-from sentence_transformers import util
 
-model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
+import os
+import json
+import openai
+from openai import OpenAI
+
+openai.api_key = "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"
+os.environ["OPEN_API_KEY"] = "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"
+
 
 
 client = pymongo.MongoClient("mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority")
@@ -25,8 +30,13 @@ def generate_embedding(text: str) -> list[float]:
   # if response.status_code != 200:
   #   raise ValueError(f"Request failed with status code {response.status_code}: {response.text}")
 
-  embeddings = model.encode([text])
-  return embeddings[0]
+    client = OpenAI(api_key=os.environ["OPEN_API_KEY"])
+
+    response = client.embeddings.create(
+        input=text,
+        model="text-embedding-ada-002",
+    )
+    return response.data[0].embedding
 
 for doc in collection.find({'premise':{"$exists":True}}):
    doc['plot_embedding_hf'] = generate_embedding(doc['premise'])
