@@ -87,7 +87,7 @@ function CardInput() {
 
   const [pairIdCounter, setPairIdCounter] = useState<number>(pairs.length + 1);
 
-  const [, setCardDictionary] = useState<Record<number, CardPair>>({});
+  // const [, setCardDictionary] = useState<Record<number, CardPair>>({});
 
   useEffect(() => {
     localStorage.setItem('cardPairs', JSON.stringify(pairs));

@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+// import React from 'react';
+import { useState } from 'react';
 import { FormEvent } from 'react';
 import CardSet from '../components/CardSet';
 import Navbar from '../components/Navbar';
@@ -7,7 +8,7 @@ function Card() {
   const [inputValue, setInputValue] = useState('');
   const [question, setQuestion] = useState('');
   const [suggestion, setSuggestion] = useState('');
-  const [suggestedDeck, setSuggestedDeck] = useState('');
+  // const [suggestedDeck, setSuggestedDeck] = useState('');
   const [loading, setLoading] = useState(false); // State for loading indicator
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
@@ -54,7 +55,7 @@ function Card() {
         })
         .then(data => {
           // Handle the response data here
-          setSuggestedDeck(data[1]);
+          // setSuggestedDeck(data[1]);
           console.log('fuck u:', data[1]);
           localStorage.cardPairs = data[1];
           // You may want to update your UI based on the response
