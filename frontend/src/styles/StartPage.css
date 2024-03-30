@@ -1,0 +1,9 @@
+.start-page h1{
+  font-weight:300;
+  font-size:3em;
+  text-transform:uppercase;
+  font-family: 'Courier New';
+  line-height:1.6em;
+  letter-spacing:.1em;
+  margin-top: 250px;
+}

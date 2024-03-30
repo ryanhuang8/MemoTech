@@ -1,8 +1,9 @@
 import Navbar from "../components/Navbar"
+import "../styles/StartPage.css";
 
 function StartPage() {
   return (
-    <div>
+    <div className='start-page'>
         <Navbar />
 
         <div id="stars1"></div>
@@ -26,7 +27,7 @@ function StartPage() {
         <br></br>
         <br></br>
         <br></br>
-          <a className="a-button" href="/import">Create Your Flashcards</a>
+        <a className="a-button" href="/import">Create Your Flashcards</a>
         
 
     </div>

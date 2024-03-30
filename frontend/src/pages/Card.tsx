@@ -3,6 +3,7 @@ import { useState } from 'react';
 import { FormEvent } from 'react';
 import CardSet from '../components/CardSet';
 import Navbar from '../components/Navbar';
+import '../styles/CardStyles.css';
 
 function Card() {
   const [inputValue, setInputValue] = useState('');
