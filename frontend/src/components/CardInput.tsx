@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import '../styles/CardInput.css';
-import ImportFiles from "./ImportFiles";
+import ImportFiles from "../components/ImportFiles";
 import StudyButton from "./StudyButton";
 
 interface CardPair {
