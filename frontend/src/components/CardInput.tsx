@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import '../styles/CardInput.css';
-import ImportFiles from "../components/ImportFiles";
 import StudyButton from "./StudyButton";
 
 interface CardPair {
@@ -120,7 +119,6 @@ function CardInput() {
 
   return (
     <div>
-      <ImportFiles></ImportFiles>
       <div>
         <br />
         <br />
@@ -139,7 +137,7 @@ function CardInput() {
           onDeletePair={handleDeletePair}
         />
       ))}
-      <button onClick={handleAddPair}>+</button>
+      <button onClick={handleAddPair}>Add Card</button>
     </div>
   );
 }

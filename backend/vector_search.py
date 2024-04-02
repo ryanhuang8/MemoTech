@@ -6,12 +6,22 @@ import json
 import openai
 from openai import OpenAI
 
-openai.api_key = "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"
-os.environ["OPEN_API_KEY"] = "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"
+from dotenv import load_dotenv
+from pathlib import Path
+
+# load .env file
+dotenv_path = Path('/Users/ericcho/Desktop/cs/MemoTech/backend/.env')
+load_dotenv(dotenv_path=dotenv_path)
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+MONGO_URI = os.getenv('MONGO_URI')
+
+openai.api_key = OPENAI_API_KEY
+os.environ["OPEN_API_KEY"] = OPENAI_API_KEY
 
 
 
-client = pymongo.MongoClient("mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority")
+client = pymongo.MongoClient(MONGO_URI)
 db = client.Database
 collection = db.vector_search
 
@@ -33,7 +43,7 @@ def generate_embedding(text: str) -> list[float]:
     client = OpenAI(api_key=os.environ["OPEN_API_KEY"])
 
     response = client.embeddings.create(
-        input=text,
+        input=text[:1000], # to cap input limit
         model="text-embedding-ada-002",
     )
     return response.data[0].embedding

@@ -1,7 +1,17 @@
 import cohere
 import numpy as np
 
-co = cohere.Client("VePHOLKqDhxGAQDXc10Y3CJFhJu0CpbJQXXFGaE5")
+import os
+from dotenv import load_dotenv
+from pathlib import Path
+
+# load .env file
+dotenv_path = Path('/Users/ericcho/Desktop/cs/MemoTech/backend/.env')
+load_dotenv(dotenv_path=dotenv_path)
+
+COHERE_API_KEY = os.getenv('COHERE_API_KEY')
+
+co = cohere.Client(COHERE_API_KEY)
 
 def calculate_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))

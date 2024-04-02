@@ -10,28 +10,42 @@ import openai
 
 from flask_cors import CORS
 
-app = Flask(__name__)
-CORS(app)
-openai.api_key = "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"
-os.environ["OPEN_API_KEY"] = "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"
-# os.environ["ATLAS_CONNECTION_STRING"] = "mongodb+srv://ryanyhuang:ctwj2kRNIVNOV1Wd@cluster0.yualorr.mongodb.net/?retryWrites=true&w=majority"
+from dotenv import load_dotenv
+from pathlib import Path
+
+# load .env file
+dotenv_path = Path('/Users/ericcho/Desktop/cs/MemoTech/backend/.env')
+load_dotenv(dotenv_path=dotenv_path)
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+MONGO_URI = os.getenv('MONGO_URI')
+# MONGO_URI_RYAN = os.getenv('MONGO_URI_RYAN')
+STATUS = os.getenv('STATUS')
+PORT = os.getenv('DEV_PORT') if STATUS == 'development' else os.getenv('PROD_PORT') # String
+PORT = int(PORT)
+
+application = Flask(__name__)
+CORS(application)
+openai.api_key = OPENAI_API_KEY
+os.environ["OPEN_API_KEY"] = OPENAI_API_KEY
+# os.environ["ATLAS_CONNECTION_STRING"] = MONGO_URI_RYAN
 # client = pymongo.MongoClient(os.environ["ATLAS_CONNECTION_STRING"])
 # db = client.Memotech
 # collection = db.embeddings
 
 # Configure MongoDB connection
-app.config['MONGO_URI'] = 'mongodb+srv://dasomi04:Ys78O453Etbhe7IZ@cluster1.29ruiho.mongodb.net/?retryWrites=true&w=majority'
-mongo = pymongo.MongoClient(app.config['MONGO_URI'])
+application.config['MONGO_URI'] = MONGO_URI
+mongo = pymongo.MongoClient(application.config['MONGO_URI'])
 db = mongo.get_database('Database')
 collection = db['vector-search']
 
-@app.route('/', methods=['GET'])
+@application.route('/', methods=['GET'])
 def home():
     data_from_mongo = collection.find({})
     json_data = json_util.dumps(data_from_mongo)
     return jsonify(message='Hello, MongoDB with Flask!', data_from_mongo=json_data)
 
-@app.route('/', methods=['POST'])
+@application.route('/', methods=['POST'])
 def post_data():
     # Retrieve data from the request's JSON payload
     request_data = request.get_json()
@@ -47,7 +61,7 @@ def post_data():
 
     return jsonify(processed_data)
 
-@app.route("/get-feedback")
+@application.route("/get-feedback")
 def index():
     question = request.args.get('q')
     answer = request.args.get('a')
@@ -65,10 +79,10 @@ def index():
 
     return response
 
-@app.route("/vector-search")
+@application.route("/vector-search")
 def vec_search():
     query = request.args.get('query')
     return vector_search(query)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000)
+    application.run(debug=True, port=PORT)
