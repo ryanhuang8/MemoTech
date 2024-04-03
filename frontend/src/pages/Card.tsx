@@ -111,7 +111,7 @@ function Card() {
         <div style={{ marginTop: '10px' }}>
           <strong>Suggestion:</strong> {suggestion}
           <div style={{marginTop:'15px'}}>
-          <a className="a-button" href="/import">Recommended Flashcards</a>
+          <a className="a-button" href="/create-flashcards">Recommended Flashcards</a>
           </div>
 
         </div>

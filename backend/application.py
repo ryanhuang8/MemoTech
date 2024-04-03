@@ -37,7 +37,7 @@ os.environ["OPEN_API_KEY"] = OPENAI_API_KEY
 application.config['MONGO_URI'] = MONGO_URI
 mongo = pymongo.MongoClient(application.config['MONGO_URI'])
 db = mongo.get_database('Database')
-collection = db['vector-search']
+collection = db['vector_search']
 
 @application.route('/', methods=['GET'])
 def home():
@@ -81,8 +81,9 @@ def index():
 
 @application.route("/vector-search")
 def vec_search():
-    query = request.args.get('query')
-    return vector_search(query)
+    # query = request.args.get('query')
+    # return vector_search(query)
+    return {1 : '[{"id":1,"question":"","answer":""}]'}
 
 if __name__ == '__main__':
     application.run(debug=True, port=PORT)
