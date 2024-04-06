@@ -18,8 +18,10 @@ function Card() {
     
 
     // Fetch the endpoint with the form data
-    const url = `http://127.0.0.1:5000/get-feedback?q=${question}&a=${inputValue}`;
-    const suggestion_url = `http://127.0.0.1:5000/vector-search?query=${question}${inputValue}`
+    // const url = `http://127.0.0.1:5000/get-feedback?q=${question}&a=${inputValue}`;
+    // const suggestion_url = `http://127.0.0.1:5000/vector-search?query=${question}${inputValue}`
+    const url = `http://memotech.us-east-2.elasticbeanstalk.com/get-feedback?q=${question}&a=${inputValue}`;
+    const suggestion_url = `http://memotech.us-east-2.elasticbeanstalk.com/vector-search?query=${question}${inputValue}`
 
     fetch(url, {
       method: 'GET',
@@ -57,7 +59,6 @@ function Card() {
         .then(data => {
           // Handle the response data here
           // setSuggestedDeck(data[1]);
-          console.log('fuck u:', data[1]);
           localStorage.cardPairs = data[1];
           // You may want to update your UI based on the response
         })
