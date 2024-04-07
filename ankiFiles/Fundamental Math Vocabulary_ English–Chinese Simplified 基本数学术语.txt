@@ -1,0 +1,257 @@
+#separator:tab
+#html:false
+#tags column:3
+Absolute value	绝对值	
+Add (addition)	加	
+Average value	算术平均值	
+Algebra	代数	
+Algebraic expression	代数式	
+Arithmetic mean	算术平均值	
+Arithmetic progression (sequence)	等差数列	
+Approximate	近似	
+Abscissa	横坐标	
+Ordinate	纵坐标	
+Binomial	二项式	
+Common factor	公因子	
+Common multiple	公倍数	
+Common divisor	公约数	
+Common fraction	简分数	
+Complex fraction	繁分数	
+Common logarithm	常用对数	
+Common ratio	公比	
+Complex number	复数	
+Complex conjugate	复共轭	
+Composite number	合数	
+Prime number	质数	
+Consecutive number	连续整数	
+Consecutive even integer	连续偶数	
+Cross multiply	交叉相乘	
+Coefficient	系数	
+Complete quadratic equation	完全二次方程	
+Complementary function	余函数	
+Constant	常数	
+Coordinate system	坐标系	
+Decimal	小数	
+Decimal point	小数点	
+Decimal fraction	纯小数	
+Decimal arithmetic	十进制运算	
+Decimal system/decimal scale	十进制	
+Denominator	分母	
+Difference	差	
+Direct proportion	正比	
+Divide; Division	除	
+Divided evenly	被整除	
+Differential	微分	
+Distinct	不同的	
+Dividend	被除数，红利	
+Division	除法	
+Division sign	除号	
+Divisor	因子，除数	
+Divisible	可被整除的	
+Equivalent fractions	等值分数	
+Equivalent equation	等价方程式	
+Equivalence relation	等价关系	
+Even integer/number	偶数	
+Exponent	指数，幂	
+Equation	方程	
+Equation of the first degree	一次方程	
+Endpoint	端点	
+Estimation	近似	
+Factor	因子	
+Factorable quadratic equation	可因式分解的二次方程	
+Incomplete quadratic equation	不完全二次方程	
+Factorial	阶乘	
+Factorization	因式分解	
+Geometric mean	几何平均数	
+Graph theory	图论	
+Inequality	不等式	
+Improper fraction	假分数	
+Infinite decimal	无穷小数	
+Inverse proportion	反比	
+Irrational number	无理数	
+Infinitesimal calculus	微积分	
+Infinity	无穷大	
+Infinitesimal	无穷小	
+Integerable	可积分的	
+Integral	积分	
+Integral domain	整域	
+Integrand	被积函数	
+Integrating factor	积分因子	
+Inverse function	反函数	
+Inverse/reciprocal	倒数	
+Least common denominator	最小公分母	
+Least common multiple	最小公倍数	
+Literal coefficient	字母系数	
+Like terms	同类项	
+Linear	线性的	
+Minuend	被减数	
+Subtrahend	被减数	
+Mixed decimal	混合小数	
+Mixed number	带分数	
+Minor	子行列式	
+Multiplicand	被乘数	
+Multiplication	乘法	
+Multiplier	乘数	
+Monomial	单项式	
+Mean	平均数	
+Mode	众数	
+Median	中数	
+Negative number	负数	
+Positive number	正数	
+Numerator	分子	
+Null set (empty set)	空集	
+Number theory	数论	
+Number line	数轴	
+Numerical analysis	数值分析	
+Natural logarithm	自然对数	
+Natural number	自然数	
+Nonnegative	非负数	
+Original equation	原方程	
+Ordinary scale	十进制	
+Ordinal	序数	
+Percentage	百分比	
+Parentheses	括号	
+Polynomial	多项式	
+Power	乘方	
+Product	积	
+Proper fraction	真分数	
+Proportion	比例	
+Permutation	排列	
+Proper subset	真子集	
+Prime factor	质因子	
+Progression	数列	
+Quadrant	象限	
+Quadratic equation	二次方程	
+Quarter	四分之一	
+Ratio	比率	
+Real number	实数	
+Round off	四舍五入	
+Round to	四舍五入	
+Root	根	
+Radical sign	根号	
+Recurring decimal	循环小数	
+Sequence	数列	
+Similar terms	同类项	
+Tens	十位	
+Tenths	十分位	
+Trinomial	三相式	
+Units	个位	
+Unit	单位	
+Weighted average	加权平均值	
+Union	并集	
+Whole number	整数	
+Mutually exclusive	互相排斥	
+Independent events	相互独立事件	
+Probability	概率	
+Combination	组合	
+Standard deviation	标准方差	
+Range	值域	
+Frequency distribution	频率分布	
+Domain	定义域	
+Bar graph	柱图	
+Angle bisector	角平分线	
+Adjacent angle	邻角	
+Alternate angel	内错角	
+Acute angle	锐角	
+Obtuse angle	钝角	
+Bisect	角平分线	
+Adjacent vertices	相邻顶点	
+Arc	弧	
+Altitude	高	
+Arm	直角三角形的股	
+Complex plane	复平面	
+Convex polygon	凸多边形	
+Concave polygon	凹多边形	
+Complementary angle	余角	
+Cube	立方体	
+Central angle	圆心角	
+Circle	圆	
+Clockwise	顺时钟方向	
+Counterclockwise	逆时钟方向	
+Chord	弦	
+Circular cylinder	圆柱体	
+Congruent	全等的	
+Corresponding angle	同位角	
+Circumference	圆周	
+Perimeter	周长	
+Concentric circles	同心圆	
+Circle graph	扇面图	
+Cone	圆锥	
+Circumscribe	外切	
+Inscribe	内切	
+Diagonal	对角线	
+Decagon	十边形	
+Hexagon	六边形	
+Nonagon	九边形	
+Octagon	八边形	
+Pentagon	五边形	
+Quadrilateral	四边形	
+Polygon	多边形	
+Diameter	直径	
+Edge	棱	
+Equilateral triangle	等边三角形	
+Exterior angle	外角	
+Interior angle	内角	
+Extent	维数	
+Exterior angles on the same side of the transversal	同旁外角	
+Hypotenuse	三角形的斜边	
+Intercept	截距	
+Included angle	夹角	
+Intersect	相交	
+Inscribed triangle	内接三角形	
+Isosceles triangle	等腰三角形	
+Midpoint	中点	
+Minor axis	短轴	
+Origin	原点	
+Oblique	斜三角形	
+Plane geometry	平面几何	
+Oblateness (ellipse)	椭圆	
+Parallelogram	平行四边形	
+Parallel lines	平行线	
+Perpendicular	垂直的	
+Pythagorean theorem	勾股定理	
+Pie chart	扇图	
+Quadrihedron	三角锥	
+Radius	半径	
+Rectangle	长方形	
+Regular polygon	正多边形	
+Rhombus	菱形	
+Right circular cylinder	直圆柱体	
+Right triangle	直角三角形	
+Right angle	直角	
+Rectangular solid	正多面体	
+Regular prism	正棱柱	
+Regular pyramid	正棱锥	
+Regular solid/polyhedron	正多面体	
+Slope	斜率	
+Sphere	球形	
+Side	边长	
+Segment of a circle	弧形	
+Semicircle	半圆	
+Solid	立体	
+Square	正方形，平方	
+Straight angle	平角（180度）	
+Supplementary angle	补角	
+Scalene cylinder	斜柱体	
+Scalene triangle	不等边三角形	
+Trapezoid	梯形	
+Volume	体积	
+Vertical angle	对顶角	
+Apiece	每人	
+Per capita	每人	
+Decrease to	减少到	
+Decrease by	减少了	
+Brace	双	
+Cardinal	基数	
+Down payment	定金，预付金	
+Simple interest	单利	
+Compounded interest	复利	
+Gross	(Twelve dozen; 144) 罗	
+Fahrenheit	华氏温度	
+Depth	深度	
+Discount	折扣	
+Cumulative graph	累计图	
+Interest	利息	
+Margin	利润	
+Profit	利润	
+Retail price	零售价	

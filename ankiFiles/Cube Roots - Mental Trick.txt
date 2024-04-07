@@ -1,0 +1,115 @@
+#separator:tab
+#html:false
+#tags column:3
+03	0	CubeTrick1
+13	1	CubeTrick1
+23	8	CubeTrick1
+33	27	CubeTrick1
+43	64	CubeTrick1
+53	125	CubeTrick1
+63	216	CubeTrick1
+73	343	CubeTrick1
+83	512	CubeTrick1
+93	729	CubeTrick1
+103	1000	CubeTrick1
+Cube root of 0	0	CubeTrick2
+Cube root of 1	1	CubeTrick2
+Cube root of 8	2	CubeTrick2
+Cube root of 27	3	CubeTrick2
+Cube root of 64	4	CubeTrick2
+Cube root of 125	5	CubeTrick2
+Cube root of 216	6	CubeTrick2
+Cube root of 343	7	CubeTrick2
+Cube root of 512	8	CubeTrick2
+Cube root of 729	9	CubeTrick2
+Cube root of 1000	10	CubeTrick2
+Cube root of 1331	11	CubeTrick2
+Cube root of 1728	12	CubeTrick2
+Cube root of 2197	13	CubeTrick2
+Cube root of 2744	14	CubeTrick2
+Cube root of 3375	15	CubeTrick2
+Cube root of 4096	16	CubeTrick2
+Cube root of 4913	17	CubeTrick2
+Cube root of 5832	18	CubeTrick2
+Cube root of 6859	19	CubeTrick2
+Cube root of 8000	20	CubeTrick2
+Cube root of 9261	21	CubeTrick2
+Cube root of 10648	22	CubeTrick2
+Cube root of 12167	23	CubeTrick2
+Cube root of 13824	24	CubeTrick2
+Cube root of 15625	25	CubeTrick2
+Cube root of 17576	26	CubeTrick2
+Cube root of 19683	27	CubeTrick2
+Cube root of 21952	28	CubeTrick2
+Cube root of 24389	29	CubeTrick2
+Cube root of 27000	30	CubeTrick2
+Cube root of 29791	31	CubeTrick2
+Cube root of 32768	32	CubeTrick2
+Cube root of 35937	33	CubeTrick2
+Cube root of 39304	34	CubeTrick2
+Cube root of 42875	35	CubeTrick2
+Cube root of 46656	36	CubeTrick2
+Cube root of 50653	37	CubeTrick2
+Cube root of 54872	38	CubeTrick2
+Cube root of 59319	39	CubeTrick2
+Cube root of 64000	40	CubeTrick2
+Cube root of 68921	41	CubeTrick2
+Cube root of 74088	42	CubeTrick2
+Cube root of 79507	43	CubeTrick2
+Cube root of 85184	44	CubeTrick2
+Cube root of 91125	45	CubeTrick2
+Cube root of 97336	46	CubeTrick2
+Cube root of 103823	47	CubeTrick2
+Cube root of 110592	48	CubeTrick2
+Cube root of 117649	49	CubeTrick2
+Cube root of 125000	50	CubeTrick2
+Cube root of 132651	51	CubeTrick2
+Cube root of 140608	52	CubeTrick2
+Cube root of 148877	53	CubeTrick2
+Cube root of 157464	54	CubeTrick2
+Cube root of 166375	55	CubeTrick2
+Cube root of 175616	56	CubeTrick2
+Cube root of 185193	57	CubeTrick2
+Cube root of 195112	58	CubeTrick2
+Cube root of 205379	59	CubeTrick2
+Cube root of 216000	60	CubeTrick2
+Cube root of 226981	61	CubeTrick2
+Cube root of 238328	62	CubeTrick2
+Cube root of 250047	63	CubeTrick2
+Cube root of 262144	64	CubeTrick2
+Cube root of 274625	65	CubeTrick2
+Cube root of 287496	66	CubeTrick2
+Cube root of 300763	67	CubeTrick2
+Cube root of 314432	68	CubeTrick2
+Cube root of 328509	69	CubeTrick2
+Cube root of 343000	70	CubeTrick2
+Cube root of 357911	71	CubeTrick2
+Cube root of 373248	72	CubeTrick2
+Cube root of 389017	73	CubeTrick2
+Cube root of 405224	74	CubeTrick2
+Cube root of 421875	75	CubeTrick2
+Cube root of 438976	76	CubeTrick2
+Cube root of 456533	77	CubeTrick2
+Cube root of 474552	78	CubeTrick2
+Cube root of 493039	79	CubeTrick2
+Cube root of 512000	80	CubeTrick2
+Cube root of 531441	81	CubeTrick2
+Cube root of 551368	82	CubeTrick2
+Cube root of 571787	83	CubeTrick2
+Cube root of 592704	84	CubeTrick2
+Cube root of 614125	85	CubeTrick2
+Cube root of 636056	86	CubeTrick2
+Cube root of 658503	87	CubeTrick2
+Cube root of 681472	88	CubeTrick2
+Cube root of 704969	89	CubeTrick2
+Cube root of 729000	90	CubeTrick2
+Cube root of 753571	91	CubeTrick2
+Cube root of 778688	92	CubeTrick2
+Cube root of 804357	93	CubeTrick2
+Cube root of 830584	94	CubeTrick2
+Cube root of 857375	95	CubeTrick2
+Cube root of 884736	96	CubeTrick2
+Cube root of 912673	97	CubeTrick2
+Cube root of 941192	98	CubeTrick2
+Cube root of 970299	99	CubeTrick2
+Cube root of 1000000	100	CubeTrick2
