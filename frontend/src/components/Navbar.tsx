@@ -12,6 +12,7 @@ const Navbar: React.FC = () => {
           <ul>
             <li><a href="/create-flashcards">Create Your Flashcards</a></li>
             <li><a href="/flashcard">Study Your Set</a></li>
+            <li><a href="/cardsets">Find Other Flashcard Sets</a></li>
           </ul>
         </div>
         <div className="nav-buttons">
