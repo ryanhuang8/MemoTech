@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^1.6.7",
+    "flask-cors": "^0.0.1",
+    "install": "^0.13.0",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1",
+    "pip": "^0.0.1",
+    "react": "^18.2.0",
+    "react-node-to-string": "^0.1.2"
+  }
+}

@@ -1,9 +1,57 @@
-.start-page h1{
-  font-weight:300;
-  font-size:3em;
-  text-transform:uppercase;
+/* Set white as the default text color */
+:root {
+  --text-color: #ffffff;
+  --button-text-color: #000000; /* Set default text color for the button */
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  :root {
+    --text-color: #ffffff; /* Set text color to white */
+    --button-text-color: #000000; /* Set text color to black for the button in light mode */
+  }
+
+  /* Set the text color of the button specifically in light mode */
+  span.button-text.light-mode {
+    color: var(--button-text-color); /* Set text color to black in light mode */
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: #ffffff; /* Set text color to white for dark mode */
+    --button-text-color: #ffffff; /* Set text color to white for the button in dark mode */
+  }
+}
+
+/* Apply styles using CSS variables */
+.start-page {
+  color: var(--text-color); /* Apply text color using CSS variable */
+  /* Keep background color unchanged */
+  /* Add more styles as needed */
+}
+
+/* Styles for h1 element */
+.start-page h1 {
+  font-weight: 300;
+  font-size: 3em;
+  text-transform: uppercase;
   font-family: 'Courier New';
-  line-height:1.6em;
-  letter-spacing:.1em;
+  line-height: 1.6em;
+  letter-spacing: 0.1em;
   margin-top: 250px;
+}
+
+/* Styles for the button */
+.a-button {
+  background-color: #555555; /* Set dark gray background color for the button */
+  color: var(--button-text-color); /* Set text color using CSS variable */
+  padding: 10px 20px; /* Adjust padding as needed */
+  border: none; /* Remove border */
+  border-radius: 5px; /* Add border radius */
+  text-decoration: none; /* Remove underline */
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px; /* Adjust margin as needed */
 }
