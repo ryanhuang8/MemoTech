@@ -48,6 +48,7 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
           fontSize: '16px',
           lineHeight: '1.4',
           textAlign: 'left',
+          color: '#ffffff',
         }}
       >
         {pair.question || `Question ${pair.id}`}
@@ -69,6 +70,7 @@ const CardPairComponent: React.FC<CardPairProps> = ({ pair, onInputChange, onDel
           fontSize: '16px',
           lineHeight: '1.4',
           textAlign: 'left',
+          color: '#ffffff',
         }}
       >
         {pair.answer || `Answer ${pair.id}`}
@@ -124,7 +126,7 @@ function CardInput() {
         <br />
       </div>
       <StudyButton></StudyButton>
-      <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left' }}>Create your flashcards:
+      <div style={{ fontWeight: 'bold', fontSize: 'larger', textAlign: 'left', color: '#ffffff' }}>Create your flashcards:
       {/* <a href="/flashcard" className="a-button" style={{ marginLeft: '880px' }}>
         Study
       </a> */}

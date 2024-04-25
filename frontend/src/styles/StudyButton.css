@@ -1,0 +1,19 @@
+/* Default button styles */
+.a-button {
+  background-color: #ffffff;
+  color: #ffffff; /* Default text color is white */
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px;
+}
+
+/* Light mode styles */
+@media (prefers-color-scheme: light) {
+  .a-button {
+    color: #000000 !important; /* Set text color to black in light mode with !important */
+  }
+}
