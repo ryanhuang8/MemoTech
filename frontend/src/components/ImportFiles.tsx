@@ -68,14 +68,18 @@ function ImportFiles() {
 
 
   return (
-    <div>
-      {/* File input button */}
+    <div className="file-input-container">
       <input
         type="file"
+        id="file-input"
         onChange={handleFileSelect}
         className="file-input"
         accept=".txt"
+        style={{ display: 'none' }} // Hide the default file input
       />
+      <label htmlFor="file-input" className="file-input-label">
+        Choose File
+      </label>
     </div>
   );
 }

@@ -29,3 +29,22 @@
   border-radius: 4px;
   cursor: pointer;
 }
+
+/*for making the import file button cover the whole box*/
+.file-input-container {
+  display: inline-block;
+}
+
+.file-input-label {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fff; /* Set background color to white */
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.file-input-label:hover {
+  background-color: #f0f0f0; /* Change the hover background color if desired */
+}
