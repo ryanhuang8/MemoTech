@@ -16,20 +16,19 @@ function CardSets() {
   };
   return (
     <div className='card-sets'>
-        <Navbar />
-        <h1>Flashcard Sets</h1>
-        <div className="flashcard-set-list">
-          {flashcardSets.map(set => (
-            <div key={set.id} className="flashcard-set">
-              <h2>{set.title}</h2>
-              <p>{set.description}</p>
-              <button onClick={() => navigateToFlashcardSet(set.cardPairs)}>Select</button>
-            </div>
-          ))}
-        </div>
+      <Navbar />
+      <h1 style={{ color: '#ffffff' }}>Flashcard Sets</h1>
+      <div className="flashcard-set-list">
+        {flashcardSets.map(set => (
+          <div key={set.id} className="flashcard-set">
+            <h2>{set.title}</h2>
+            <p>{set.description}</p>
+            <button onClick={() => navigateToFlashcardSet(set.cardPairs)}>Select</button>
+          </div>
+        ))}
+      </div>
     </div>
-    
-  )
+  );
 }
 
-export default CardSets
+export default CardSets;
