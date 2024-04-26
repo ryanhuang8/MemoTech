@@ -103,6 +103,10 @@ function CardInput() {
   };
 
   const handleDeletePair = (id: number) => {
+    if (pairs.length === 1) {
+      // If there is only one card left, don't allow deleting it
+      return;
+    }  
     setPairs((prevPairs) => {
       const updatedPairs = prevPairs.filter((pair) => pair.id !== id);
       return updatedPairs.map((pair, index) => ({ ...pair, id: index + 1 }));

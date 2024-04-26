@@ -51,7 +51,7 @@ export default function Cards({ setQuestion, setAnswer }: CardsProps) {
     return (
         <div>
             {flashcarddata && flashcarddata.length > 0 ? (
-                <div className="cardNumber">
+                <div className="cardNumber" style={{ color: 'white' }}>
                     Card {current + 1} of {flashcarddata.length}
                 </div>
             ) : (
