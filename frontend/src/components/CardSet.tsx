@@ -10,9 +10,10 @@ interface FlashcardData {
 
 interface CardsProps {
     setQuestion: React.Dispatch<React.SetStateAction<string>>;
+    setAnswer: React.Dispatch<React.SetStateAction<string>>;
 }
 
-export default function Cards({ setQuestion }: CardsProps) {
+export default function Cards({ setQuestion, setAnswer }: CardsProps) {
     const [flashcarddata, setFlashcarddata] = useState<FlashcardData[]>([]);
     const [current, setCurrent] = useState(0);
 
@@ -26,6 +27,7 @@ export default function Cards({ setQuestion }: CardsProps) {
             // Set the question immediately after the cards are rendered
             if (parsedData && parsedData.length > 0) {
                 setQuestion(reactNodeToString(parsedData[0].question));
+                setAnswer(reactNodeToString(parsedData[0].answer));
             }
         }
     }, [setQuestion]);
