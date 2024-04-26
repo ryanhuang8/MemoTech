@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, redirect, render_template, request, url_for
 import pymongo
-from bson import json_util
+from gridfs import GridFS
+from bson import json_util, ObjectId
 from vector_search import vector_search
 # import json
 
@@ -38,6 +39,7 @@ application.config['MONGO_URI'] = MONGO_URI
 mongo = pymongo.MongoClient(application.config['MONGO_URI'])
 db = mongo.get_database('Database')
 collection = db['vector_search']
+fs = GridFS(db)
 
 @application.route('/', methods=['GET'])
 def home():
@@ -86,6 +88,29 @@ def vec_search():
     # query = request.args.get('query')
     # return vector_search(query)
     return {1 : '[{"id":1,"question":"","answer":""}]'}
+
+@application.route('/upload', methods=['POST'])
+def upload_image():
+    if 'image' not in request.files:
+        return jsonify({'error': 'No image provided'}), 400
+    
+    image_file = request.files['image']
+    image_id = fs.put(image_file, filename=image_file.filename)
+    return jsonify({'image_id': str(image_id)}), 200
+
+@application.route('/image/<image_id>', methods=['GET'])
+def get_image(image_id):
+    try:
+        image_id = ObjectId(image_id)
+    except:
+        return jsonify({'error': 'Invalid image ID'}), 400
+    
+    image_data = fs.get(image_id)
+    if image_data is None:
+        return jsonify({'error': 'Image not found'}), 404
+    
+    response = application.response_class(image_data.read(), mimetype='image/jpeg')
+    return response
 
 if __name__ == '__main__':
     application.run(debug=True, port=PORT)
