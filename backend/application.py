@@ -65,12 +65,14 @@ def post_data():
 def index():
     question = request.args.get('q')
     answer = request.args.get('a')
+    real_answer = request.args.get('ra')
     completion = openai.chat.completions.create(
         model="gpt-3.5-turbo",
         messages=[
             {"role": "system", "content": "You are a grader, giving a student feedback for their answer to their question"},
-            {"role": "user", "content": f"The question is '{question}' and they responded with '{answer}'. In your response, first say whether the student's answer is correct (either Yes or No). Then, give them feedback to help guide them to the correct answer without saying the answer"}
+            {"role": "user", "content": f"The question is '{question}' and they responded with '{answer}'. The actual answer is {real_answer}. In your response, first say whether the student's answer is correct (either Yes or No). Then, give them feedback to help guide them to the correct answer without saying the answer"}
         ]
+        # Question, Answer, User Answer
     )
 
     completion_message = completion.choices[0].message.content
