@@ -10,7 +10,6 @@ function Card() {
   const [question, setQuestion] = useState("");
   const [answer, setAnswer] = useState("");
   const [suggestion, setSuggestion] = useState("");
-  // const [suggestedDeck, setSuggestedDeck] = useState('');
   const [loading, setLoading] = useState(false); // State for loading indicator
 
   function handleSubmit(event: FormEvent<HTMLFormElement>) {
@@ -18,10 +17,10 @@ function Card() {
     setLoading(true); // Set loading state to true when form is submitted
 
     // Fetch the endpoint with the form data
-    // const url = `http://127.0.0.1:5000/get-feedback?q=${question}&a=${inputValue}`;
-    // const suggestion_url = `http://127.0.0.1:5000/vector-search?query=${question}${inputValue}`
-    const url = `http://memotech.us-east-2.elasticbeanstalk.com/get-feedback?q=${question}&a=${inputValue}&ra=${answer}`;
-    const suggestion_url = `http://memotech.us-east-2.elasticbeanstalk.com/vector-search?query=${question}${inputValue}`;
+    const url = `http://127.0.0.1:5000/get-feedback?q=${question}&a=${inputValue}`;
+    const suggestion_url = `http://127.0.0.1:5000/vector-search?query=${question}${inputValue}`;
+    // const url = `http://memotech.us-east-2.elasticbeanstalk.com/get-feedback?q=${question}&a=${inputValue}&ra=${answer}`;
+    // const suggestion_url = `http://memotech.us-east-2.elasticbeanstalk.com/vector-search?query=${question}${inputValue}`;
 
     fetch(url, {
       method: "GET",

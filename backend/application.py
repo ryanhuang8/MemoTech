@@ -3,11 +3,11 @@ import pymongo
 from gridfs import GridFS
 from bson import json_util, ObjectId
 from vector_search import vector_search
-# import json
 
 import os
 
 import openai
+import certifi
 
 from flask_cors import CORS
 
@@ -15,12 +15,11 @@ from dotenv import load_dotenv
 from pathlib import Path
 
 # load .env file
-dotenv_path = Path('/Users/ericcho/Desktop/cs/MemoTech/backend/.env')
+dotenv_path = Path('backend/.env')
 load_dotenv(dotenv_path=dotenv_path)
 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 MONGO_URI = os.getenv('MONGO_URI')
-# MONGO_URI_RYAN = os.getenv('MONGO_URI_RYAN')
 STATUS = os.getenv('STATUS')
 PORT = os.getenv('DEV_PORT') if STATUS == 'development' else os.getenv('PROD_PORT') # String
 PORT = int(PORT)
@@ -29,14 +28,10 @@ application = Flask(__name__)
 CORS(application)
 openai.api_key = OPENAI_API_KEY
 os.environ["OPEN_API_KEY"] = OPENAI_API_KEY
-# os.environ["ATLAS_CONNECTION_STRING"] = MONGO_URI_RYAN
-# client = pymongo.MongoClient(os.environ["ATLAS_CONNECTION_STRING"])
-# db = client.Memotech
-# collection = db.embeddings
 
 # Configure MongoDB connection
 application.config['MONGO_URI'] = MONGO_URI
-mongo = pymongo.MongoClient(application.config['MONGO_URI'])
+mongo = pymongo.MongoClient(application.config['MONGO_URI'], tlsCAFile=certifi.where())
 db = mongo.get_database('Database')
 collection = db['vector_search']
 fs = GridFS(db)
@@ -52,11 +47,6 @@ def post_data():
     # Retrieve data from the request's JSON payload
     request_data = request.get_json()
 
-    # completion_message = completion.choices[0].message.content
-    # print(completion_message)
-    # response = {"message": completion_message}
-
-    # Your logic to process or store the data goes here
     processed_data = {'message': 'Data received successfully', 'received_data': request_data}
 
     result = collection.insert_many(request_data)
@@ -69,7 +59,7 @@ def index():
     answer = request.args.get('a')
     real_answer = request.args.get('ra')
     completion = openai.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=[
             {"role": "system", "content": "You are a grader, giving a student feedback for their answer to their question"},
             {"role": "user", "content": f"The question is '{question}' and they responded with '{answer}'. The actual answer is {real_answer}. In your response, first say whether the student's answer is correct (either Yes or No). Then, give them feedback to help guide them to the correct answer without saying the answer"}
@@ -85,9 +75,8 @@ def index():
 
 @application.route("/vector-search")
 def vec_search():
-    # query = request.args.get('query')
-    # return vector_search(query)
-    return {1 : '[{"id":1,"question":"","answer":""}]'}
+    query = request.args.get('query')
+    return vector_search(query)
 
 @application.route('/upload', methods=['POST'])
 def upload_image():

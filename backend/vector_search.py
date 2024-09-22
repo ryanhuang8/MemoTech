@@ -7,9 +7,10 @@ from openai import OpenAI
 
 from dotenv import load_dotenv
 from pathlib import Path
+import certifi
 
 # load .env file
-dotenv_path = Path('/Users/ericcho/Desktop/cs/MemoTech/backend/.env')
+dotenv_path = Path('backend/.env')
 load_dotenv(dotenv_path=dotenv_path)
 
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
@@ -18,26 +19,11 @@ MONGO_URI = os.getenv('MONGO_URI')
 openai.api_key = OPENAI_API_KEY
 os.environ["OPEN_API_KEY"] = OPENAI_API_KEY
 
-
-
-client = pymongo.MongoClient(MONGO_URI)
+client = pymongo.MongoClient(MONGO_URI, tlsCAFile=certifi.where())
 db = client.Database
 collection = db.vector_search
 
-# hugging face specs
-# hf_token = "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"
-# embedding_url = "https://api-inference.huggingface.co/pipeline/feature-extraction/sentence-transformers/all-MiniLM-L6-v2"
-
 def generate_embedding(text: str) -> list[float]:
-
-  # hugging face
-  # response = requests.post(
-  #   embedding_url,
-  #   headers={"Authorization": f"Bearer {hf_token}"},
-  #   json={"inputs": text})
-
-  # if response.status_code != 200:
-  #   raise ValueError(f"Request failed with status code {response.status_code}: {response.text}")
 
     client = OpenAI(api_key=os.environ["OPEN_API_KEY"])
 
@@ -59,7 +45,8 @@ def vector_search(query):
       "path": "plot_embedding_hf",
       "numCandidates": 10,
       "limit": 3, # num results returned
-      "index": "default",
+      "index": "vector_index",
+      "similarity": "cosine"
       }}
   ])
   
